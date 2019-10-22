@@ -1,58 +1,89 @@
 ﻿key,en,ru
-global_goals:1---short,빈곤퇴치,Ликвидация нищеты
-global_goals:1---title,모든 곳에서 모든 형태의 빈곤 종식,Повсеместная ликвидация нищеты во всех ее формах
-global_goals:10---short,불평등 완화,Уменьшение неравенства
-global_goals:10---title,국내 및 국가 간 불평등 감소,Сокращение неравенства внутри стран и между ними
-global_goals:11---short,지속가능한 도시와 공동체,Устойчивые города и населенные пункты
-global_goals:11---title,포용적이고 안전하며 회복력 있고 지속가능한 도시와 주거지 조성,"Обеспечение открытости, безопасности, жизнестойкости и экологической
-устойчивости городов и населенных пунктов"
-global_goals:12---short,책임감있는 소비와 생산,Ответственное потребление и производство
-global_goals:12---title,지속가능한 소비와 생산 양식의 보장,Обеспечение перехода к рациональным моделям потребления и производства
-global_goals:13---short,기후변화 대응,Борьба с изменением климата
-global_goals:13---title,기후변화와 그로 인한 영향에 맞서기 위한 긴급 대응,Принятие срочных мер по борьбе с изменением климата и его последствиями
-global_goals:14---short,해양 생태계,Сохранение морских экосистем
-global_goals:14---title,"지속가능발전을 위한 대양, 바다, 해양자원의 보전과 지속가능한 이용","Сохранение и рациональное использование океанов, морей и морских ресурсов
-в интересах устойчивого развития
-"
-global_goals:15---short,육상 생태계,Сохранение экосистем суши
-global_goals:15---title,"육상생태계의 지속가능한 보호·복원·증진, 숲의 지속가능한 관리, 사막화 방지, 토지황폐화의 중지와 회복, 생물다양성 손실 중단","Защита и восстановление экосистем суши и содействие их рациональному
-использованию, рациональное лесопользование, борьба с опустыниванием,
-прекращение и обращение вспять процесса деградации земель и прекращение
-процесса утраты биологического разнообразия
-"
-global_goals:16---short,"평화, 정의와 제도","Мир, правосудие и эффективные институты"
-global_goals:16---title,"지속가능발전을 위한 평화롭고 포용적인 사회 증진, 모두에게 정의를 보장, 모든 수준에서 효과적이며 책임감 있고 포용적인 제도 구축","Содействие построению миролюбивого и открытого общества в интересах устойчивого
-развития, обеспечение доступа к правосудию для всех и создание эффективных,
-подотчетных и основанных на широком участии учреждений на всех уровнях
-"
-global_goals:17---short,SDGs를 위한 파트너십,Партнерство в интересах устойчивого развития
-global_goals:17---title,이행수단 강화와 지속가능발전을 위한 글로벌 파트너십의 활성화,"Укрепление средств осуществления и активизация работы в рамках Глобального
-партнерства в интересах устойчивого развития"
-global_goals:2---short,기아종식,Ликвидация голода
-global_goals:2---title,"기아 종식, 식량안보와 개선된 영양상태의 달성, 지속 가능항 농업 강화","Ликвидация голода, обеспечение продовольственной безопасности и улучшение питания
-и содействие устойчивому развитию сельского хозяйства"
-global_goals:3---short,건강과 웰빙,Хорошее здоровье и благополучие
-global_goals:3---title,모든 연령층을 위한 건강한 삶 보장과 복지 증진,"Обеспечение здорового образа жизни и содействие благополучию для всех
-в любом возрасте"
-global_goals:4---short,양질의 교육,Качественное образование
-global_goals:4---title,모두를 위한 포용적이고 공평한 양질의 교육 보장 및 평생학습 기회 증진,"Обеспечение всеохватного и справедливого качественного образования и поощрение
-возможности обучения на протяжении всей жизни для всех"
-global_goals:5---short,양성평등,Гендерное равенство
-global_goals:5---title,성평등 달성과 모든 여성 및 여아의 권익신장,"Обеспечение гендерного равенства и расширение прав и возможностей всех
-женщин и девочек"
-global_goals:6---short,물과 위생,Чистая вода и санитария
-global_goals:6---title,모두를 위한 물과 위생의 이용가능성과 지속가능한 관리 보장,"Обеспечение наличия и рационального использования водных ресурсов и санитарии
-для всех
-"
-global_goals:7---short,깨끗한 에너지,Недорогостоящая и чистая энергия
-global_goals:7---title,적정한 가격에 신뢰할 수 있고 지속가능한 현대적인 에너지에 대한 접근 보장,"Обеспечение доступа к недорогим, надежным, устойчивым и современным источникам
-энергии для всех"
-global_goals:8---short,양질의 일자리와 경제성장,Достойна работа и экономический рост
-global_goals:8---title,"포용적이고 지속가능한 경제성장, 완전하고 생산적인 고용과 모두를 위한 양질의 일자리 증진","Содействие поступательному, всеохватному и устойчивому экономическому росту,
-полной и производительной занятости и достойной работе для всех"
-global_goals:9---short,"산업, 혁신과 사회기반시설","Индустриализация, инновации и инфраструктура"
-global_goals:9---title,"회복력 있는 사회기반시설 구축, 포용적이고 지속가능한 산업화 증진과 혁신 도모","Создание стойкой инфраструктуры, содействие всеохватной и устойчивой
-индустриализации и инновациям"
+metadata_fields:comments_limitations,비고,Другая информация
+metadata_fields:computation_calculations,산식,Расчёты
+metadata_fields:computation_definitions,정의,Определения
+metadata_fields:computation_units,단위,Единица измерения
+metadata_fields:goal_meta_link,UN 메타데이터 링크,Ссылка на метаданные ООН
+metadata_fields:indicator,지표 번호,Номер показателя
+metadata_fields:indicator_definition,지표 상세 설명,Описание глобального показателя
+metadata_fields:indicator_name,지표명,Название показателя
+metadata_fields:indicator_sort_order,지표 정렬 번호,Порядок отображения показателей (на странице целей)
+metadata_fields:national_data_update_url,데이터 갱신 이력,Последний раз данные обновлялись
+metadata_fields:national_geographical_coverage,지역적 범위,Географический охват
+metadata_fields:national_indicator_available,지표 가용성,Показатель доступен
+metadata_fields:national_indicator_description,지표 상세 설명,Описание показателя
+metadata_fields:national_metadata_update_url,메타데이터 갱신 이력, Последний раз метаданные обновлялись
+metadata_fields:source_contact_1,연락처,Контактные данные
+metadata_fields:source_contact_2,연락처,Контактные данные
+metadata_fields:source_contact_3,연락처,Контактные данные
+metadata_fields:source_contact_4,연락처,Контактные данные
+metadata_fields:source_contact_5,연락처,Контактные данные
+metadata_fields:source_contact_6,연락처,Контактные данные
+metadata_fields:source_earliest_available_1,최초 공표,Самые ранние доступные данные
+metadata_fields:source_earliest_available_2,최초 공표,Самые ранние доступные данные
+metadata_fields:source_earliest_available_3,최초 공표,Самые ранние доступные данные
+metadata_fields:source_earliest_available_4,최초 공표,Самые ранние доступные данные
+metadata_fields:source_earliest_available_5,최초 공표,Самые ранние доступные данные
+metadata_fields:source_earliest_available_6,최초 공표,Самые ранние доступные данные
+metadata_fields:source_geographical_coverage_1,지역적 범위,Географический охват
+metadata_fields:source_geographical_coverage_2,지역적 범위,Географический охват
+metadata_fields:source_geographical_coverage_3,지역적 범위,Географический охват
+metadata_fields:source_geographical_coverage_4,지역적 범위,Географический охват
+metadata_fields:source_geographical_coverage_5,지역적 범위,Географический охват
+metadata_fields:source_geographical_coverage_6,지역적 범위,Географический охват
+metadata_fields:source_next_release_1,다음 공표일,Следующий  выпуск
+metadata_fields:source_next_release_2,다음 공표일,Следующий  выпуск
+metadata_fields:source_next_release_3,다음 공표일,Следующий  выпуск
+metadata_fields:source_next_release_4,다음 공표일,Следующий  выпуск
+metadata_fields:source_next_release_5,다음 공표일,Следующий  выпуск
+metadata_fields:source_next_release_6,다음 공표일,Следующий  выпуск
+metadata_fields:source_organisation_1,작성기관,Организация
+metadata_fields:source_organisation_2,작성기관,Организация
+metadata_fields:source_organisation_3,작성기관,Организация
+metadata_fields:source_organisation_4,작성기관,Организация
+metadata_fields:source_organisation_5,작성기관,Организация
+metadata_fields:source_organisation_6,작성기관,Организация
+metadata_fields:source_other_info_1,비고,Другая информация
+metadata_fields:source_other_info_2,비고,Другая информация
+metadata_fields:source_other_info_3,비고,Другая информация
+metadata_fields:source_other_info_4,비고,Другая информация
+metadata_fields:source_other_info_5,비고,Другая информация
+metadata_fields:source_other_info_6,비고,Другая информация
+metadata_fields:source_periodicity_1,작성주기,Периодичность
+metadata_fields:source_periodicity_2,작성주기,Периодичность
+metadata_fields:source_periodicity_3,작성주기,Периодичность
+metadata_fields:source_periodicity_4,작성주기,Периодичность
+metadata_fields:source_periodicity_5,작성주기,Периодичность
+metadata_fields:source_periodicity_6,작성주기,Периодичность
+metadata_fields:source_release_date_1,공표일,Дата выпуска
+metadata_fields:source_release_date_2,공표일,Дата выпуска
+metadata_fields:source_release_date_3,공표일,Дата выпуска
+metadata_fields:source_release_date_4,공표일,Дата выпуска
+metadata_fields:source_release_date_5,공표일,Дата выпуска
+metadata_fields:source_release_date_6,공표일,Дата выпуска
+metadata_fields:source_statistical_classification_1,통계분류,Статистическая классификация
+metadata_fields:source_statistical_classification_2,통계분류,Статистическая классификация
+metadata_fields:source_statistical_classification_3,통계분류,Статистическая классификация
+metadata_fields:source_statistical_classification_4,통계분류,Статистическая классификация
+metadata_fields:source_statistical_classification_5,통계분류,Статистическая классификация
+metadata_fields:source_statistical_classification_6,통계분류,Статистическая классификация
+metadata_fields:source_url_1,출처 링크,Ссылка на источник данных
+metadata_fields:source_url_2,출처 링크,Ссылка на источник данных
+metadata_fields:source_url_3,출처 링크,Ссылка на источник данных
+metadata_fields:source_url_4,출처 링크,Ссылка на источник данных
+metadata_fields:source_url_5,출처 링크,Ссылка на источник данных
+metadata_fields:source_url_6,출처 링크,Ссылка на источник данных
+metadata_fields:target,세부목표명,Название задачи
+metadata_fields:target_id,세부목표 번호,Номер задачи
+metadata_fields:un_custodian_agency,소관 국제기구,Депозитарное учреждение ООН 
+metadata_fields:un_designated_tier,티어(Tier),Назначенный ООН уровень
+status:exploring_data_sources,작업중,В процессе разработки
+status:not_applicable,Not applicable,Непригодный
+status:overall_reporting_status,지표 작성 현황,Общее состояние отчётности
+status:reported_online,이용가능,Опубликован
+status:reporting_status,지표 현황,Статус отчётности
+status:statistics_in_progress,Statistics in progress,Статистика в процессе выполнения
+status:status_by_goal,목표별 현황,Статус по цели
 general:facebook,Facebook,Facebook
 general:goal,목표,Цель
 general:goals,목표,Цели
@@ -71,6 +102,16 @@ search:keywords,키워드,Ключевые слова
 search:no_results,검색 결과가 없습니다.,Результатов не найдено
 search:search,검색,Поиск
 search:search_results_for,검색 결과,Результаты поиска по вашему запросу
+menu:about,소개,О нас
+menu:contact_us,Contact us,Свяжитесь с нами
+menu:cookies,Cookies,Cookies
+menu:faq,FAQ,Часто задаваемые вопросы
+menu:guidance,매뉴얼,Руководство
+menu:menu,메뉴,Меню
+menu:publications,참고자료,Публикации
+menu:reporting_status,지표 작성 현황,Состояние отчётности
+post:posts_by_category,Posts by Category,Посты по категории
+post:view_all_in_category,View all posts in the %category_name category,Просмотреть все посты в категории
 global_targets:1-1---title,2030년까지 1일 생계비 1.25 달러 미만으로 살고 있는 모든 인구를 모든 곳에서 종식,"К 2030 году ликвидировать крайнюю нищету
 для всех людей во всем мире (в настоящее время
 крайняя нищета определяется как проживание на
@@ -1031,100 +1072,96 @@ global_targets:9-c---title,"ICT 접근성을 상당 수준으로 증가시키고
 технологиям и стремиться
 к обеспечению всеобщего и недорогого доступа к
 Интернету в наименее развитых странах к 2020 году"
-status:exploring_data_sources,작업중,В процессе разработки
-status:not_applicable,Not applicable,Непригодный
-status:overall_reporting_status,지표 작성 현황,Общее состояние отчётности
-status:reported_online,이용가능,Опубликован
-status:reporting_status,지표 현황,Статус отчётности
-status:statistics_in_progress,Statistics in progress,Статистика в процессе выполнения
-status:status_by_goal,목표별 현황,Статус по цели
-post:posts_by_category,Posts by Category,Посты по категории
-post:view_all_in_category,View all posts in the %category_name category,Просмотреть все посты в категории
-metadata_fields:comments_limitations,비고,Другая информация
-metadata_fields:computation_calculations,산식,Расчёты
-metadata_fields:computation_definitions,정의,Определения
-metadata_fields:computation_units,단위,Единица измерения
-metadata_fields:goal_meta_link,UN 메타데이터 링크,Ссылка на метаданные ООН
-metadata_fields:indicator,지표 번호,Номер показателя
-metadata_fields:indicator_definition,지표 상세 설명,Описание глобального показателя
-metadata_fields:indicator_name,지표명,Название показателя
-metadata_fields:indicator_sort_order,지표 정렬 번호,Порядок отображения показателей (на странице целей)
-metadata_fields:national_data_update_url,데이터 갱신 이력,Последний раз данные обновлялись
-metadata_fields:national_geographical_coverage,지역적 범위,Географический охват
-metadata_fields:national_indicator_available,지표 가용성,Показатель доступен
-metadata_fields:national_indicator_description,지표 상세 설명,Описание показателя
-metadata_fields:national_metadata_update_url,메타데이터 갱신 이력, Последний раз метаданные обновлялись
-metadata_fields:source_contact_1,연락처,Контактные данные
-metadata_fields:source_contact_2,연락처,Контактные данные
-metadata_fields:source_contact_3,연락처,Контактные данные
-metadata_fields:source_contact_4,연락처,Контактные данные
-metadata_fields:source_contact_5,연락처,Контактные данные
-metadata_fields:source_contact_6,연락처,Контактные данные
-metadata_fields:source_earliest_available_1,최초 공표,Самые ранние доступные данные
-metadata_fields:source_earliest_available_2,최초 공표,Самые ранние доступные данные
-metadata_fields:source_earliest_available_3,최초 공표,Самые ранние доступные данные
-metadata_fields:source_earliest_available_4,최초 공표,Самые ранние доступные данные
-metadata_fields:source_earliest_available_5,최초 공표,Самые ранние доступные данные
-metadata_fields:source_earliest_available_6,최초 공표,Самые ранние доступные данные
-metadata_fields:source_geographical_coverage_1,지역적 범위,Географический охват
-metadata_fields:source_geographical_coverage_2,지역적 범위,Географический охват
-metadata_fields:source_geographical_coverage_3,지역적 범위,Географический охват
-metadata_fields:source_geographical_coverage_4,지역적 범위,Географический охват
-metadata_fields:source_geographical_coverage_5,지역적 범위,Географический охват
-metadata_fields:source_geographical_coverage_6,지역적 범위,Географический охват
-metadata_fields:source_next_release_1,다음 공표일,Следующий  выпуск
-metadata_fields:source_next_release_2,다음 공표일,Следующий  выпуск
-metadata_fields:source_next_release_3,다음 공표일,Следующий  выпуск
-metadata_fields:source_next_release_4,다음 공표일,Следующий  выпуск
-metadata_fields:source_next_release_5,다음 공표일,Следующий  выпуск
-metadata_fields:source_next_release_6,다음 공표일,Следующий  выпуск
-metadata_fields:source_organisation_1,작성기관,Организация
-metadata_fields:source_organisation_2,작성기관,Организация
-metadata_fields:source_organisation_3,작성기관,Организация
-metadata_fields:source_organisation_4,작성기관,Организация
-metadata_fields:source_organisation_5,작성기관,Организация
-metadata_fields:source_organisation_6,작성기관,Организация
-metadata_fields:source_other_info_1,비고,Другая информация
-metadata_fields:source_other_info_2,비고,Другая информация
-metadata_fields:source_other_info_3,비고,Другая информация
-metadata_fields:source_other_info_4,비고,Другая информация
-metadata_fields:source_other_info_5,비고,Другая информация
-metadata_fields:source_other_info_6,비고,Другая информация
-metadata_fields:source_periodicity_1,작성주기,Периодичность
-metadata_fields:source_periodicity_2,작성주기,Периодичность
-metadata_fields:source_periodicity_3,작성주기,Периодичность
-metadata_fields:source_periodicity_4,작성주기,Периодичность
-metadata_fields:source_periodicity_5,작성주기,Периодичность
-metadata_fields:source_periodicity_6,작성주기,Периодичность
-metadata_fields:source_release_date_1,공표일,Дата выпуска
-metadata_fields:source_release_date_2,공표일,Дата выпуска
-metadata_fields:source_release_date_3,공표일,Дата выпуска
-metadata_fields:source_release_date_4,공표일,Дата выпуска
-metadata_fields:source_release_date_5,공표일,Дата выпуска
-metadata_fields:source_release_date_6,공표일,Дата выпуска
-metadata_fields:source_statistical_classification_1,통계분류,Статистическая классификация
-metadata_fields:source_statistical_classification_2,통계분류,Статистическая классификация
-metadata_fields:source_statistical_classification_3,통계분류,Статистическая классификация
-metadata_fields:source_statistical_classification_4,통계분류,Статистическая классификация
-metadata_fields:source_statistical_classification_5,통계분류,Статистическая классификация
-metadata_fields:source_statistical_classification_6,통계분류,Статистическая классификация
-metadata_fields:source_url_1,출처 링크,Ссылка на источник данных
-metadata_fields:source_url_2,출처 링크,Ссылка на источник данных
-metadata_fields:source_url_3,출처 링크,Ссылка на источник данных
-metadata_fields:source_url_4,출처 링크,Ссылка на источник данных
-metadata_fields:source_url_5,출처 링크,Ссылка на источник данных
-metadata_fields:source_url_6,출처 링크,Ссылка на источник данных
-metadata_fields:target,세부목표명,Название задачи
-metadata_fields:target_id,세부목표 번호,Номер задачи
-metadata_fields:un_custodian_agency,소관 국제기구,Депозитарное учреждение ООН 
-metadata_fields:un_designated_tier,티어(Tier),Назначенный ООН уровень
-menu:about,소개,О нас
-menu:contact_us,Contact us,Свяжитесь с нами
-menu:cookies,Cookies,Cookies
-menu:faq,FAQ,Часто задаваемые вопросы
-menu:guidance,매뉴얼,Руководство
-menu:menu,메뉴,Меню
-menu:publications,참고자료,Публикации
-menu:reporting_status,지표 작성 현황,Состояние отчётности
+global_goals:1---short,빈곤퇴치,Ликвидация нищеты
+global_goals:1---title,모든 곳에서 모든 형태의 빈곤 종식,Повсеместная ликвидация нищеты во всех ее формах
+global_goals:10---short,불평등 완화,Уменьшение неравенства
+global_goals:10---title,국내 및 국가 간 불평등 감소,Сокращение неравенства внутри стран и между ними
+global_goals:11---short,지속가능한 도시와 공동체,Устойчивые города и населенные пункты
+global_goals:11---title,포용적이고 안전하며 회복력 있고 지속가능한 도시와 주거지 조성,"Обеспечение открытости, безопасности, жизнестойкости и экологической
+устойчивости городов и населенных пунктов"
+global_goals:12---short,책임감있는 소비와 생산,Ответственное потребление и производство
+global_goals:12---title,지속가능한 소비와 생산 양식의 보장,Обеспечение перехода к рациональным моделям потребления и производства
+global_goals:13---short,기후변화 대응,Борьба с изменением климата
+global_goals:13---title,기후변화와 그로 인한 영향에 맞서기 위한 긴급 대응,Принятие срочных мер по борьбе с изменением климата и его последствиями
+global_goals:14---short,해양 생태계,Сохранение морских экосистем
+global_goals:14---title,"지속가능발전을 위한 대양, 바다, 해양자원의 보전과 지속가능한 이용","Сохранение и рациональное использование океанов, морей и морских ресурсов
+в интересах устойчивого развития
+"
+global_goals:15---short,육상 생태계,Сохранение экосистем суши
+global_goals:15---title,"육상생태계의 지속가능한 보호·복원·증진, 숲의 지속가능한 관리, 사막화 방지, 토지황폐화의 중지와 회복, 생물다양성 손실 중단","Защита и восстановление экосистем суши и содействие их рациональному
+использованию, рациональное лесопользование, борьба с опустыниванием,
+прекращение и обращение вспять процесса деградации земель и прекращение
+процесса утраты биологического разнообразия
+"
+global_goals:16---short,"평화, 정의와 제도","Мир, правосудие и эффективные институты"
+global_goals:16---title,"지속가능발전을 위한 평화롭고 포용적인 사회 증진, 모두에게 정의를 보장, 모든 수준에서 효과적이며 책임감 있고 포용적인 제도 구축","Содействие построению миролюбивого и открытого общества в интересах устойчивого
+развития, обеспечение доступа к правосудию для всех и создание эффективных,
+подотчетных и основанных на широком участии учреждений на всех уровнях
+"
+global_goals:17---short,SDGs를 위한 파트너십,Партнерство в интересах устойчивого развития
+global_goals:17---title,이행수단 강화와 지속가능발전을 위한 글로벌 파트너십의 활성화,"Укрепление средств осуществления и активизация работы в рамках Глобального
+партнерства в интересах устойчивого развития"
+global_goals:2---short,기아종식,Ликвидация голода
+global_goals:2---title,"기아 종식, 식량안보와 개선된 영양상태의 달성, 지속 가능항 농업 강화","Ликвидация голода, обеспечение продовольственной безопасности и улучшение питания
+и содействие устойчивому развитию сельского хозяйства"
+global_goals:3---short,건강과 웰빙,Хорошее здоровье и благополучие
+global_goals:3---title,모든 연령층을 위한 건강한 삶 보장과 복지 증진,"Обеспечение здорового образа жизни и содействие благополучию для всех
+в любом возрасте"
+global_goals:4---short,양질의 교육,Качественное образование
+global_goals:4---title,모두를 위한 포용적이고 공평한 양질의 교육 보장 및 평생학습 기회 증진,"Обеспечение всеохватного и справедливого качественного образования и поощрение
+возможности обучения на протяжении всей жизни для всех"
+global_goals:5---short,양성평등,Гендерное равенство
+global_goals:5---title,성평등 달성과 모든 여성 및 여아의 권익신장,"Обеспечение гендерного равенства и расширение прав и возможностей всех
+женщин и девочек"
+global_goals:6---short,물과 위생,Чистая вода и санитария
+global_goals:6---title,모두를 위한 물과 위생의 이용가능성과 지속가능한 관리 보장,"Обеспечение наличия и рационального использования водных ресурсов и санитарии
+для всех
+"
+global_goals:7---short,깨끗한 에너지,Недорогостоящая и чистая энергия
+global_goals:7---title,적정한 가격에 신뢰할 수 있고 지속가능한 현대적인 에너지에 대한 접근 보장,"Обеспечение доступа к недорогим, надежным, устойчивым и современным источникам
+энергии для всех"
+global_goals:8---short,양질의 일자리와 경제성장,Достойна работа и экономический рост
+global_goals:8---title,"포용적이고 지속가능한 경제성장, 완전하고 생산적인 고용과 모두를 위한 양질의 일자리 증진","Содействие поступательному, всеохватному и устойчивому экономическому росту,
+полной и производительной занятости и достойной работе для всех"
+global_goals:9---short,"산업, 혁신과 사회기반시설","Индустриализация, инновации и инфраструктура"
+global_goals:9---title,"회복력 있는 사회기반시설 구축, 포용적이고 지속가능한 산업화 증진과 혁신 도모","Создание стойкой инфраструктуры, содействие всеохватной и устойчивой
+индустриализации и инновациям"
+indicator:chart,Chart,График
+indicator:clear_all,Clear all,Очистить всё
+indicator:clear_selections,Clear selections,Очистить выделенное
+indicator:dataset_size_warning,There are too many datasets to show on the chart. Not all will be shown until you remove some selections.,"В таблице слишком много данных, чтобы показать в графике. Чтобы увидеть все, удалите выделенное."
+indicator:download_chart,Download Chart CSV,Скачать график CSV
+indicator:download_chart_image,Download Chart Image,Загрузить изображение диаграммы
+indicator:download_chart_image_title,Download chart as image,Скачать диаграмму как изображение
+indicator:download_csv,Download CSV,Скачать CSV
+indicator:download_csv_title,Download as CSV,Скачать в формате CSV
+indicator:download_headline,Download Headline CSV,Скачать заголовки CSV
+indicator:download_headline_title,Download headline data as CSV,Скачать данные заголовков в формате CSV
+indicator:download_source,Download Source CSV,Скачать исходные CSV
+indicator:download_source_title,Download source data as CSV,Скачать исходные данные в формате CSV
+indicator:download_table,Download Table CSV,Скачать табличные CSV
+indicator:edit,Edit,Редактировать
+indicator:edit_data,Edit Data,Редактировать данные
+indicator:edit_metadata,Edit Metadata,Редактировать метаданные
+indicator:footnote,Footnote,Сноска
+indicator:geographical_area,Geographical Area,Географический район
+indicator:global_metadata,Global Metadata,Глобальные метаданные
+indicator:global_metadata_blurb,"This table provides information on metadata for SDG indicators as defined by the UN Statistical Commission. <a href=""https://unstats.un.org/sdgs/metadata/"">Complete global metadata</a> is provided by the UN Statistics Division.","В этой таблице представлена информация для метаданных показателей ЦУР, определенных Статистической комиссией ООН. Полные глобальные метаданные представлены Статистическим отделом ООН."
+indicator:legend_help,Click on the legend to remove individual lines from the chart.,"Нажмите на легенду, чтобы убрать линии из графика."
+indicator:loading_map,Loading map,Загрузка карты
+indicator:map,Map,Карта
+indicator:national_metadata,National Metadata,Национальные метаданные
+indicator:national_metadata_blurb,"This table provides metadata for the actual indicator available from %country_name statistics closest to the corresponding global SDG indicator. Please note that even when the global SDG indicator is fully available from %country_adjective statistics, this table should be consulted for information on national methodology and other %country_adjective-specific metadata information.","В этой таблице представлены метаданные для фактического показателя, доступного из статистики ближайшей к соответствующему глобальному индикатору ЦУР. Обратите внимание, что даже если глобальный индикатор ЦУР полностью доступен из статистики, по этой таблице следует проконсультироваться для получения информации о национальной методологии и других специфичных метаданных."
+indicator:no_data_hint,No options available because of filters above,Нет имеющихся вариантов из-за фильтров наверху.
+indicator:select_all,Select all,Выделить всё
+indicator:series_help,Choose categories from the dropdowns below to see different breakdowns of the data. Some will not be available until a higher level is chosen.,"Выберите категории из выпадающего меню внизу, чтобы увидеть разные разбивки данных. Несколько не будет доступно, пока более высокий уровень не выбран. "
+indicator:source,Source,Источник
+indicator:sources,Sources,Источники
+indicator:sub_categories,Sub-categories,Субкатегории
+indicator:table,Table,Таблица
+indicator:unit_of_measurement,Unit of Measurement,Единица измерения
+indicator:units_type,Units type,Вид единиц
+indicator:variable_hint,Available when '%field' is selected,"Доступно, когда выбрано"
+indicator:view_indicator_list,View this goal's indicator list,Посмотреть список индикаторов этой цели
 frontpage:heading,[테스트 중입니다] 한국의 SDGs 지표,%name данные для целей в области устойчивого развития
 frontpage:instructions,"지표별 상세 데이터를 확인하시려면, 아래 아이콘을 클릭하거나 %before_link 검색창 %after_link 을 이용하시기 바랍니다.","Нажмите на каждую цель, или %before_link поищите %after_link статистики для глобальных показателей целей в области устойчивого развития."
