@@ -1,41 +1,30 @@
 ﻿key,en,fr
-indicator:chart,그래프,Graphique
-indicator:clear_all,모두 취소,Tout effacer
-indicator:clear_selections,초기화,Effacer les sélections
-indicator:dataset_size_warning,너무 많은 항목이 선택되었습니다. 선택을 취소해 주시기 바랍니다.,Il y a trop de jeux de données à afficher sur le graphique. Tout ne sera pas affiché jusqu&#39;à ce que vous supprimiez certaines sélections.
-indicator:download_chart,그래프 CSV 내려받기,Télécharger le graphique CSV
-indicator:download_chart_image,그래프 이미지 내려받기,Télécharger l'image graphique
-indicator:download_chart_image_title,그래프 이미지 내려받기,Télécharger le graphique en image
-indicator:download_csv,CSV 내려받기,Télécharger CSV
-indicator:download_csv_title,CSV 내려받기,Télécharger en format CSV
-indicator:download_headline,Download Headline CSV,Télécharger Headline CSV
-indicator:download_headline_title,Download headline data as CSV,Télécharger les données de titre au format CSV
-indicator:download_source,출처 CSV 내려받기,Télécharger Source CSV
-indicator:download_source_title,출처 CSV 내려받기,Télécharger les données source au format CSV
-indicator:download_table,표 CSV 내려받기,Télécharger le tableau CSV
-indicator:edit,자료 수정,modifier
-indicator:edit_data,데이터 수정,Modifier les données
-indicator:edit_metadata,메타데이터 수정,Modifier les métadonnées
-indicator:footnote,주석,note de bas de page
-indicator:geographical_area,지역,Zone géographique
-indicator:global_metadata,UN 메타데이터,Métadonnées globales
-indicator:global_metadata_blurb,,"Ce tableau fournit des informations sur les métadonnées pour les indicateurs SDG définis par la Commission de statistique des Nations Unies. <a href=""https://unstats.un.org/sdgs/metadata/"">Les métadonnées globales complètes</a> sont fournies par la Division de statistique de l&#39;ONU."
-indicator:legend_help,범례의 개별 항목을 클릭하면 해당 항목을 그래프에서 삭제하실 수 있습니다.,Cliquez sur la légende pour supprimer les lignes individuelles du graphique.
-indicator:loading_map,지도를 불어오고 있습니다.,Chargement de la carte
-indicator:map,지도,Carte
-indicator:national_metadata,통계설명자료,Métadonnées nationales
-indicator:national_metadata_blurb,,"Cette table fournit des métadonnées pour l&#39;indicateur réel disponible à partir des statistiques %country_name les plus proches de l&#39;indicateur SDG global correspondant. Veuillez noter que même lorsque l&#39;indicateur global des ODD est entièrement disponible à partir des statistiques %country_adjective, ce tableau devrait être consulté pour obtenir des informations sur la méthodologie nationale et d&#39;autres informations sur les métadonnées spécifiques à un pays_adjectif."
-indicator:no_data_hint,No options available because of filters above,Aucune option disponible en raison des filtres ci-dessus
-indicator:select_all,모두 선택,Tout sélectionner
-indicator:series_help,상세한 정보를 원하시는 세부 항목을 아래에서 선택해 주시기 바랍니다.,Choisissez des catégories dans les listes déroulantes ci-dessous pour voir différentes répartitions des données. Certains ne seront pas disponibles jusqu&#39;à ce qu&#39;un niveau supérieur soit choisi.
-indicator:source,출처,La source
-indicator:sources,출처 정보,Sources
-indicator:sub_categories,세부 항목,Sous-catégories
-indicator:table,표,Table
-indicator:unit_of_measurement,단위,Unité de mesure
-indicator:units_type,Units type,Type d&#39;unités
-indicator:variable_hint,먼저 '%field' 항목을 선택해 주시기 바랍니다.,Disponible lorsque le champ '%field' est sélectionné
-indicator:view_indicator_list,View this goal's indicator list,Voir la liste des indicateurs de cet objectif
+global_goals:1-short,빈곤퇴치,Pas de pauvreté
+global_goals:10-short,불평등 완화,Inégalités réduites
+global_goals:11-short,지속가능한 도시와 공동체,Villes et communautés durables
+global_goals:12-short,책임감있는 소비와 생산,Consommation et production responsables
+global_goals:13-short,기후변화 대응,Mesures relatives à la lutte contre les changements climatiques
+global_goals:14-short,해양 생태계,Vie aquatique
+global_goals:15-short,육상 생태계,Vie terrestre
+global_goals:16-short,"평화, 정의와 제도","Paix, justice et institutions efficaces"
+global_goals:17-short,SDGs를 위한 파트너십,Partenariats pour la réalisation des objectifs
+global_goals:2-short,기아종식,"Faim ""zéro"""
+global_goals:3-short,건강과 웰빙,Bonne santé et bien-être
+global_goals:4-short,양질의 교육,Éducation de qualité
+global_goals:5-short,양성평등,Égalité entre les sexes
+global_goals:6-short,물과 위생,Eau propre et assainissement
+global_goals:7-short,깨끗한 에너지,Energies propres et d'un coût abordable
+global_goals:8-short,양질의 일자리와 경제성장,Travaux décent et croissance économique
+global_goals:9-short,"산업, 혁신과 사회기반시설","Industrie, innovation et infrastructure"
+menu:about,개요,Sur
+menu:contact_us,Contact us,Contactez nous
+menu:cookies,Cookies,Biscuits
+menu:faq,FAQ,FAQ
+menu:guidance,매뉴얼,Orientation
+menu:menu,메뉴,Menu
+menu:publications,간행물,Publications
+menu:reporting_status,지표현황,Statut de rapport
+menu:updates,업데이트,
 general:facebook,Facebook,Facebook
 general:goal,목표,Objectif
 general:goals,목표,Buts
@@ -55,19 +44,6 @@ status:reported_online,이용가능,Signalé en ligne
 status:reporting_status,지표 현황,Statut de rapport
 status:statistics_in_progress,Statistics in progress,Statistiques en cours
 status:status_by_goal,목표별 현황,Statut par but
-post:posts_by_category,Posts by Category,Messages par catégorie
-post:view_all_in_category,View all posts in the %category_name category,Voir tous les articles dans la catégorie %category_name
-frontpage:heading,[테스트 중입니다] 한국의 SDGs 지표,Données %name pour les indicateurs des objectifs de développement durable
-frontpage:instructions,"지표별 상세 데이터를 확인하시려면, 아래 아이콘을 클릭하시거나 %before_link 검색창 %after_link 을 이용하시기 바랍니다.","Cliquez sur chaque objectif, ou %before_link recherchez, %after_link pour %name statistiques pour Sustainable Development Goal global indicateurs."
-menu:about,개요,Sur
-menu:contact_us,Contact us,Contactez nous
-menu:cookies,Cookies,Biscuits
-menu:faq,FAQ,FAQ
-menu:guidance,매뉴얼,Orientation
-menu:menu,메뉴,Menu
-menu:publications,간행물,Publications
-menu:reporting_status,지표현황,Statut de rapport
-menu:updates,업데이트,
 metadata_fields:comments_limitations,비고,Les autres informations
 metadata_fields:computation_calculations,계산방법,Calculs
 metadata_fields:computation_definitions,정의,Définitions
@@ -146,12 +122,8 @@ metadata_fields:target,세부목표명,Nom de la cible
 metadata_fields:target_id,세부목표 번호,Numéro cible
 metadata_fields:un_custodian_agency,소관 국제기구,Agence dépositaire des Nations Unies
 metadata_fields:un_designated_tier,티어(Tier),Niveau désigné par les Nations Unies
-search:found_in,found in,trouvé dans
-search:indicator_search,검색어를 입력해 주시기 바랍니다.,Recherche d&#39;indicateur
-search:keywords,키워드,Mots clés
-search:no_results,검색 결과가 없습니다.,Aucun résultat
-search:search,검색,Chercher
-search:search_results_for,검색 결과,Résultats de recherche pour
+post:posts_by_category,Posts by Category,Messages par catégorie
+post:view_all_in_category,View all posts in the %category_name category,Voir tous les articles dans la catégorie %category_name
 header:alpha,Alpha,Alpha
 header:default_contrast,원래대로,contraste standard
 header:disable_high_contrast,고대비 불가,Désactiver le contraste élevé
@@ -160,19 +132,48 @@ header:enable_high_contrast,고대비 가능,Activer le contraste élevé
 header:high_contrast,고대비,contraste élevé
 header:skip_link,Skip to main content,Passer au contenu principal
 header:tag_line,17 Goals to Transform our World,17 objectifs pour transformer notre monde
-global_goals:1-short,불평등 완화,Pas de pauvreté
-global_goals:11-short,지속가능한 도시와 공동체,Villes et communautés durables
-global_goals:12-short,책임감있는 소비와 생산,Consommation et production responsables
-global_goals:13-short,기후변화 대응,Mesures relatives à la lutte contre les changements climatiques
-global_goals:14-short,해양 생태계,Vie aquatique
-global_goals:15-short,육상 생태계,Vie terrestre
-global_goals:16-short,"평화, 정의와 제도","Paix, justice et institutions efficaces"
-global_goals:17-short,SDGs를 위한 파트너십,Partenariats pour la réalisation des objectifs
-global_goals:2-short,기아종식,"Faim ""zéro"""
-global_goals:3-short,건강과 웰빙,Bonne santé et bien-être
-global_goals:4-short,양질의 교육,Éducation de qualité
-global_goals:5-short,양성평등,Égalité entre les sexes
-global_goals:6-short,물과 위생,Eau propre et assainissement
-global_goals:7-short,깨끗한 에너지,Energies propres et d'un coût abordable
-global_goals:8-short,양질의 일자리와 경제성장,Travaux décent et croissance économique
-global_goals:9-short,"산업, 혁신과 사회기반시설","Industrie, innovation et infrastructure"
+search:found_in,found in,trouvé dans
+search:indicator_search,검색어를 입력해 주시기 바랍니다.,Recherche d&#39;indicateur
+search:keywords,키워드,Mots clés
+search:no_results,검색 결과가 없습니다.,Aucun résultat
+search:search,검색,Chercher
+search:search_results_for,검색 결과,Résultats de recherche pour
+frontpage:heading,[테스트 중입니다] 한국의 SDGs 지표,Données %name pour les indicateurs des objectifs de développement durable
+frontpage:instructions,"지표별 상세 데이터를 확인하시려면, 아래 아이콘을 클릭하시거나 %before_link 검색창 %after_link 을 이용하시기 바랍니다.","Cliquez sur chaque objectif, ou %before_link recherchez, %after_link pour %name statistiques pour Sustainable Development Goal global indicateurs."
+indicator:chart,그래프,Graphique
+indicator:clear_all,모두 취소,Tout effacer
+indicator:clear_selections,초기화,Effacer les sélections
+indicator:dataset_size_warning,너무 많은 항목이 선택되었습니다. 선택을 취소해 주시기 바랍니다.,Il y a trop de jeux de données à afficher sur le graphique. Tout ne sera pas affiché jusqu&#39;à ce que vous supprimiez certaines sélections.
+indicator:download_chart,그래프 CSV 내려받기,Télécharger le graphique CSV
+indicator:download_chart_image,그래프 이미지 내려받기,Télécharger l'image graphique
+indicator:download_chart_image_title,그래프 이미지 내려받기,Télécharger le graphique en image
+indicator:download_csv,CSV 내려받기,Télécharger CSV
+indicator:download_csv_title,CSV 내려받기,Télécharger en format CSV
+indicator:download_headline,Download Headline CSV,Télécharger Headline CSV
+indicator:download_headline_title,Download headline data as CSV,Télécharger les données de titre au format CSV
+indicator:download_source,출처 CSV 내려받기,Télécharger Source CSV
+indicator:download_source_title,출처 CSV 내려받기,Télécharger les données source au format CSV
+indicator:download_table,표 CSV 내려받기,Télécharger le tableau CSV
+indicator:edit,자료 수정,modifier
+indicator:edit_data,데이터 수정,Modifier les données
+indicator:edit_metadata,메타데이터 수정,Modifier les métadonnées
+indicator:footnote,주석,note de bas de page
+indicator:geographical_area,지역,Zone géographique
+indicator:global_metadata,UN 메타데이터,Métadonnées globales
+indicator:global_metadata_blurb,,"Ce tableau fournit des informations sur les métadonnées pour les indicateurs SDG définis par la Commission de statistique des Nations Unies. <a href=""https://unstats.un.org/sdgs/metadata/"">Les métadonnées globales complètes</a> sont fournies par la Division de statistique de l&#39;ONU."
+indicator:legend_help,범례의 개별 항목을 클릭하면 해당 항목을 그래프에서 삭제하실 수 있습니다.,Cliquez sur la légende pour supprimer les lignes individuelles du graphique.
+indicator:loading_map,지도를 불어오고 있습니다.,Chargement de la carte
+indicator:map,지도,Carte
+indicator:national_metadata,통계설명자료,Métadonnées nationales
+indicator:national_metadata_blurb,,"Cette table fournit des métadonnées pour l&#39;indicateur réel disponible à partir des statistiques %country_name les plus proches de l&#39;indicateur SDG global correspondant. Veuillez noter que même lorsque l&#39;indicateur global des ODD est entièrement disponible à partir des statistiques %country_adjective, ce tableau devrait être consulté pour obtenir des informations sur la méthodologie nationale et d&#39;autres informations sur les métadonnées spécifiques à un pays_adjectif."
+indicator:no_data_hint,No options available because of filters above,Aucune option disponible en raison des filtres ci-dessus
+indicator:select_all,모두 선택,Tout sélectionner
+indicator:series_help,상세한 정보를 원하시는 세부 항목을 아래에서 선택해 주시기 바랍니다.,Choisissez des catégories dans les listes déroulantes ci-dessous pour voir différentes répartitions des données. Certains ne seront pas disponibles jusqu&#39;à ce qu&#39;un niveau supérieur soit choisi.
+indicator:source,출처,La source
+indicator:sources,출처 정보,Sources
+indicator:sub_categories,세부 항목,Sous-catégories
+indicator:table,표,Table
+indicator:unit_of_measurement,단위,Unité de mesure
+indicator:units_type,Units type,Type d&#39;unités
+indicator:variable_hint,먼저 '%field' 항목을 선택해 주시기 바랍니다.,Disponible lorsque le champ '%field' est sélectionné
+indicator:view_indicator_list,View this goal's indicator list,Voir la liste des indicateurs de cet objectif
