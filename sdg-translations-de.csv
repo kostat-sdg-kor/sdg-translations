@@ -1,11 +1,12 @@
 ﻿key,en,de
-status:exploring_data_sources,작업중,Datenquellenanalyse
-status:not_applicable,Not applicable,Nicht zutreffend
-status:overall_reporting_status,총괄 현황 -,Übersicht zum Berichtsstatus
-status:reported_online,이용가능,Daten verfügbar
-status:reporting_status,지표 현황,Berichtsstatus
-status:statistics_in_progress,Statistics in progress,in Bearbeitung
-status:status_by_goal,목표별 현황,Status nach Ziel
+header:alpha,Alpha,Alpha-Version
+header:default_contrast,원래대로,Standard kontrast
+header:disable_high_contrast,고대비 불가,Hoher Kontrast deaktivieren
+header:disclaimer,"This is a development website. We welcome your <a href=""mailto:%email_address"">feedback</a>.",Diese Seite befindet sich im Entwicklungsstadium.Wir freuen uns über Ihre Kommentare.
+header:enable_high_contrast,고대비 가능,Aktivieren Sie hohen Kontrast
+header:high_contrast,고대비,Hoher kontrast
+header:skip_link,Skip to main content, Zum Hauptinhalt springen
+header:tag_line,17 Goals to Transform our World,
 menu:about,개요,Über uns
 menu:contact_us,Contact us,Kontakt
 menu:cookies,Cookies,Cookies
@@ -15,34 +16,8 @@ menu:menu,메뉴,Menü
 menu:publications,간행물,Veröffentlichungen
 menu:reporting_status,지표현황,Berichtsstatus
 menu:updates,업데이트,
-header:alpha,Alpha,Alpha-Version
-header:default_contrast,Default contrast,Standard kontrast
-header:disable_high_contrast,Disable high contrast,Hoher Kontrast deaktivieren
-header:disclaimer,"This is a development website. We welcome your <a href=""mailto:%email_address"">feedback</a>.",Diese Seite befindet sich im Entwicklungsstadium.Wir freuen uns über Ihre Kommentare.
-header:enable_high_contrast,Enable high contrast,Aktivieren Sie hohen Kontrast
-header:high_contrast,High contrast,Hoher kontrast
-header:skip_link,Skip to main content, Zum Hauptinhalt springen
-header:tag_line,17 Goals to Transform our World,
-search:found_in,found in,gefunden unter
-search:indicator_search,검색어를 입력해 주시기 바랍니다.,Indikatorensuche
-search:keywords,키워드,Schlagworte
-search:no_results,검색 결과가 없습니다.,Keine Ergebnisse
-search:search,검색,Suche
-search:search_results_for,검색 결과,Ergebnisse zu
 post:posts_by_category,Posts by Category,Beiträge geordnet nach Kategorien
 post:view_all_in_category,View all posts in the %category_name category, Zeige alle Beiträge in der %category_name Kategorie an
-general:facebook,Facebook,Facebook
-general:goal,목표,Ziel
-general:goals,목표,Ziele
-general:home,Home,Home
-general:indicator,지표,Indikator
-general:indicators,개 지표,Indikatoren
-general:loading,검색 결과를 불러오고 있습니다.,Ergebnisse werden geladen
-general:opens_new_window,새 창에서 열기,in neuem Fenster öffnen
-general:sdg,지속가능발전목표,Ziele für Nachhaltige Entwicklung
-general:target,세부목표,Unterziel
-general:targets,세부목표,Unterziele
-general:twitter,Twitter,Twitter
 global_indicators:1-1-1-title,국제 빈곤선 미만에서 살고 있는 인구의 성·연령·고용상태 및 지역(도시/농촌)별 비율,"Anteil der Bevölkerung, die unter der internationalen Armutsgrenze lebt, nach Geschlecht, Alter, Erwerbsstatus  und geographischer Lage (urban/rural)"
 global_indicators:1-2-1-title,국가 빈곤선 미만에서 살고 있는 인구의 성 및 연령별 비율,"Anteil der Bevölkerung, die unter der nationalen Armutsgrenze lebt, nach Geschlecht und Alter"
 global_indicators:1-2-2-title,"국가별 정의에 따른 모든 차원의 빈곤 속에  살고 있는 모든 연령의 남성, 여성 및 아동의 비율","Anteil der Männer, Frauen und Kinder jeden Alters, die in Armut in all ihren Dimensionen gemäß nationaler Definitionen leben"
@@ -288,42 +263,43 @@ global_indicators:9-5-2-title,거주자(inhabitants) 백만 명당 (전일제) �
 global_indicators:9-a-1-title,인프라분야에 대한 국제사회의 총공적지원(ODA+기타공적자금),Gesamte öffentliche internationale Unterstützung (öffentliche Entwicklungszusammenarbeit und andere öffentliche Mittel) für Infrastruktu
 global_indicators:9-b-1-title,총 부가가치 대비 중고급기술산업 부가가치 비율,Anteil der Wertschöpfung der Medium- und High-Tech-Industrie an der Wertschöpfung insgesamt
 global_indicators:9-c-1-title,모바일네트워크 사용 인구 비율(기술별),"Anteil der Bevölkerung, die durch ein Mobilfunknetz abgedeckt ist, nach Technologie"
-frontpage:heading,[테스트 중입니다] 한국의 SDGs 지표,%name daten zu den Indikatoren der Ziele für nachhaltige Entwicklung
-frontpage:instructions,"지표별 상세 데이터를 확인하시려면, 아래 아이콘을 클릭하시거나 %before_link 검색창 %after_link 을 이용하시기 바랍니다.",Klicken Sie auf die einzelnen Ziele um zu den Daten zu den Daten zu den Indikatoren der Ziele für nachhaltige Entwicklung für %name zu gelangen. Oder %before_link suchen %after_link Sie gezielt nach spezifischenThemen.
-global_goals:1-short,No poverty,Keine Armut
-global_goals:1-title,End poverty in all its forms everywhere,Armut in allen ihren Formen und überall beenden
-global_goals:10-short,Reduced inequalities,Weniger Ungleichheiten
-global_goals:10-title,Reduce inequality within and among countries,Ungleichheit in und zwischen Ländern verringern
-global_goals:11-short,Sustainable cities & communities,Nachhaltige Städte und Gemeinden
-global_goals:11-title,"Make cities and human settlements inclusive, safe, resilient and sustainable","Städte und Siedlungen inklusiv, sicher, widerstandsfähig und nachhaltig gestalten"
-global_goals:12-short,Responsible consumption and production,Verantwortungsvolle Konsum- und Produktionsmuster
-global_goals:12-title,Ensure sustainable consumption and production patterns,Nachhaltige Konsum- und Produktionsmuster sicherstellen
-global_goals:13-short,Climate action,Maßnahmen zum Klimaschutz
-global_goals:13-title,Take urgent action to combat climate change and its impacts,Umgehend Maßnahmen zur Bekämpfung des Klimawandels und seiner Auswirkungen ergreifen
-global_goals:14-short,Life below water,Leben unter Wasser
-global_goals:14-title,"Conserve and sustainably use the oceans, seas and marine resources for sustainable development","Ozeane, Meere und Meeresressourcen im Sinne nachhaltiger Entwicklung erhalten und nachhaltig nutzen"
-global_goals:15-short,Life on land,Leben an Land
-global_goals:15-title,"Protect, restore and promote sustainable use of terrestrial ecosystems, sustainably manage forests, combat desertification, and halt and reverse land degradation and halt biodiversity loss","Landökosysteme schützen, wiederherstellen und ihre nachhaltige Nutzung fördern, Wälder nachhaltig bewirtschaften, Wüstenbildung bekämpfen, Bodendegradation beenden und umkehren und "
-global_goals:16-short,Peace and justice - strong institutions,"Frieden, Gerechtigkeit und starke Institutionen"
-global_goals:16-title,"Promote peaceful and inclusive societies for sustainable development, provide access to justice for all and build effective, accountable and inclusive institutions at all levels","Friedliche und inklusive Gesellschaften für eine nachhaltige Entwicklung fördern, allen Menschen Zugang zur Justiz ermöglichen und leistungsfähige, rechenschaftspflichtige und inklusive Institutionen auf allen Ebenen aufbauen"
-global_goals:17-short,Partnerships for the goals,Partnerschaften zur Erreichung der Ziele
-global_goals:17-title,Strengthen the means of implementation and revitalize the Global Partnership for Sustainable Development,Umsetzungsmittel stärken und die Globale Partnerschaft für nachhaltige Entwicklung mit neuem Leben erfüllen
-global_goals:2-short,Zero hunger,Kein Hunger
-global_goals:2-title,"End hunger, achieve food security and improved nutrition and promote sustainable agriculture","Den Hunger beenden, Ernährungssicherheit und eine bessere Ernährung erreichen und eine nachhaltige Landwirtschaft fördern"
-global_goals:3-short,Good health and well-being,Gesundheit und Wohlergehen
-global_goals:3-title,Ensure healthy lives and promote well-being for all at all ages,Ein gesundes Leben für alle Menschen jeden Alters gewährleisten und ihr Wohlergehen fördern
-global_goals:4-short,Quality education,Hochwertige Bildung
-global_goals:4-title,Ensure inclusive and equitable quality education and promote lifelong learning opportunities for all,"Inklusive, gleichberechtigte und hochwertige Bildung gewährleisten und Möglichkeiten lebenslangen Lernens für alle fördern"
-global_goals:5-short,Gender equality,Geschlechtergleichstellung
-global_goals:5-title,Achieve gender equality and empower all women and girls,Geschlechtergleichstellung erreichen und alle Frauen und Mädchen zur Selbstbestimmung befähigen
-global_goals:6-short,Clean water and sanitation,Sauberes Wasser und Sanitärversorgung
-global_goals:6-title,Ensure availability and sustainable management of water and sanitation for all,Verfügbarkeit und nachhaltige Bewirtschaftung von Wasser und Sanitärversorgung für alle gewährleisten
-global_goals:7-short,Affordable and clean energy,Bezahlbare und saubere Energie
-global_goals:7-title,"Ensure access to affordable, reliable, sustainable and modern energy for all","Zugang zu bezahlbarer, verlässlicher, nachhaltiger und moderner Energie für alle sichern"
-global_goals:8-short,Decent jobs and economic growth,Menschenwürdige Arbeit und Wirtschaftswachstum
-global_goals:8-title,"Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all","Dauerhaftes, breitenwirksames und nachhaltiges Wirtschaftswachstum, produktive Vollbeschäftigung und menschenwürdige Arbeit für alle fördern"
-global_goals:9-short,"Industry, innovation and infrastructure","Industrie, Innovationen und Infrastruktur"
-global_goals:9-title,"Build resilient infrastructure, promote inclusive and sustainable industrialization and foster innovation","Eine widerstandsfähige Infrastruktur aufbauen, breitenwirksame und nachhaltige Industrialisierung fördern und Innovationen unterstützen"
+indicator:chart,그래프,Grafik
+indicator:clear_all,모두 취소,Auswahl aufheben
+indicator:clear_selections,초기화,Auswahl aufheben
+indicator:dataset_size_warning,너무 많은 항목이 선택되었습니다. 선택을 취소해 주시기 바랍니다.,Zu viele Zeitreihen ausgewählt um diese in einer Grafik darzustellen. Es können nicht alle Zeitreihen dargestellt werden
+indicator:download_chart,그래프 CSV 내려받기,Grafik im CSV-Format speichern
+indicator:download_chart_image,그래프 이미지 내려받기,Grafik herunterladen
+indicator:download_chart_image_title,그래프 이미지 내려받기,Grafik als Bild herunterladen
+indicator:download_csv,CSV 내려받기,im CSV-Format speichern
+indicator:download_csv_title,CSV 내려받기,im CSV-Format speichern
+indicator:download_headline,Download Headline CSV,Speichern der Headline im CSV-Format
+indicator:download_headline_title,Download headline data as CSV,Speichern der Headline im CSV-Format
+indicator:download_source,출처 CSV 내려받기,Daten im CSV-Format speichern
+indicator:download_source_title,출처 CSV 내려받기,Daten im CSV-Format speichern
+indicator:download_table,표 CSV 내려받기,Tabelle im CSV-Format speichern
+indicator:edit,자료 수정,Bearbeiten
+indicator:edit_data,데이터 수정,Daten bearbeiten
+indicator:edit_metadata,메타데이터 수정,Metadaten bearbeiten
+indicator:footnote,주석,Fußnote
+indicator:geographical_area,지역,Geographische Abdeckung
+indicator:global_metadata,UN 메타데이터,Globale Metadaten
+indicator:global_metadata_blurb,,"Diese Übersicht stellt Informationen zu den globalen Metadaten des jeweiligen SDG-Indikators bereit. Die <a href=""""https://unstats.un.org/sdgs/metadata/"""">globalen Metadaten</a> werden durch die Statistische Division der Vereinten Nationen bereitgestellt."
+indicator:legend_help,범례의 개별 항목을 클릭하면 해당 항목을 그래프에서 삭제하실 수 있습니다.,Klicken Sie auf die Legende um Zeitreihen aus der Grafik zu entfernen.
+indicator:loading_map,지도를 불어오고 있습니다.,Karte wird geladen
+indicator:map,지도,Karte
+indicator:national_metadata,통계설명자료,Nationale Metadaten
+indicator:national_metadata_blurb,,"Im Folgenden werden Metadaten zu den national verfügbaren Zeitreihen für %country_name zum jeweiligen globalen SDG-Indikator bereitgestellt. Die angegebene Datenreihe ist die vergleichbarste, national verfügbare Zeitreihe. Entspricht die angezeigte Datenreihe voll den globalen Metadaten, so ist dennoch auf diese nationalen Metadaten für methodische sowie weitere länderspezifische Informationen hinzuweisen."
+indicator:no_data_hint,No options available because of filters above,Aufgrund der bereits getroffenen Auswahl sind keine weiteren Auswahlmöglichkeiten verfügbar.
+indicator:select_all,모두 선택,Alle auswählen
+indicator:series_help,상세한 정보를 원하시는 세부 항목을 아래에서 선택해 주시기 바랍니다.,"Wählen Sie Disaggregationsdimensionen aus, damit die verfügbaren Disaggregationskategorien angezeigt werden. Manche werden erst angezeigt, sobald eine Überkategorie ausgewählt wird."
+indicator:source,출처,Datenquelle
+indicator:sources,출처 정보,Datenquellen
+indicator:sub_categories,세부 항목,Disaggregationsdimensionen
+indicator:table,표,Tabelle
+indicator:unit_of_measurement,단위,Einheit
+indicator:units_type,Units type,Einheit
+indicator:variable_hint,먼저 '%field' 항목을 선택해 주시기 바랍니다.,Verfügbar
+indicator:view_indicator_list,View this goal's indicator list,Zeigt die Indikatorenliste zum SDG-Ziel an.
 metadata_fields:comments_limitations,비고,Weitere Informationen
 metadata_fields:computation_calculations,계산방법,Methodik
 metadata_fields:computation_definitions,정의,Definitionen
@@ -402,6 +378,65 @@ metadata_fields:target,세부목표명,Unterziel
 metadata_fields:target_id,세부목표 번호,Unterzielnummerierung
 metadata_fields:un_custodian_agency,소관 국제기구,VN Custodian Agency
 metadata_fields:un_designated_tier,티어(Tier),VN Tier Klassifikation
+general:facebook,Facebook,Facebook
+general:goal,목표,Ziel
+general:goals,목표,Ziele
+general:home,Home,Home
+general:indicator,지표,Indikator
+general:indicators,개 지표,Indikatoren
+general:loading,검색 결과를 불러오고 있습니다.,Ergebnisse werden geladen
+general:opens_new_window,새 창에서 열기,in neuem Fenster öffnen
+general:sdg,지속가능발전목표,Ziele für Nachhaltige Entwicklung
+general:target,세부목표,Unterziel
+general:targets,세부목표,Unterziele
+general:twitter,Twitter,Twitter
+status:exploring_data_sources,작업중,Datenquellenanalyse
+status:not_applicable,Not applicable,Nicht zutreffend
+status:overall_reporting_status,총괄 현황 -,Übersicht zum Berichtsstatus
+status:reported_online,이용가능,Daten verfügbar
+status:reporting_status,지표 현황,Berichtsstatus
+status:statistics_in_progress,Statistics in progress,in Bearbeitung
+status:status_by_goal,목표별 현황,Status nach Ziel
+global_goals:1-short,No poverty,Keine Armut
+global_goals:1-title,End poverty in all its forms everywhere,Armut in allen ihren Formen und überall beenden
+global_goals:10-short,Reduced inequalities,Weniger Ungleichheiten
+global_goals:10-title,Reduce inequality within and among countries,Ungleichheit in und zwischen Ländern verringern
+global_goals:11-short,Sustainable cities & communities,Nachhaltige Städte und Gemeinden
+global_goals:11-title,"Make cities and human settlements inclusive, safe, resilient and sustainable","Städte und Siedlungen inklusiv, sicher, widerstandsfähig und nachhaltig gestalten"
+global_goals:12-short,Responsible consumption and production,Verantwortungsvolle Konsum- und Produktionsmuster
+global_goals:12-title,Ensure sustainable consumption and production patterns,Nachhaltige Konsum- und Produktionsmuster sicherstellen
+global_goals:13-short,Climate action,Maßnahmen zum Klimaschutz
+global_goals:13-title,Take urgent action to combat climate change and its impacts,Umgehend Maßnahmen zur Bekämpfung des Klimawandels und seiner Auswirkungen ergreifen
+global_goals:14-short,Life below water,Leben unter Wasser
+global_goals:14-title,"Conserve and sustainably use the oceans, seas and marine resources for sustainable development","Ozeane, Meere und Meeresressourcen im Sinne nachhaltiger Entwicklung erhalten und nachhaltig nutzen"
+global_goals:15-short,Life on land,Leben an Land
+global_goals:15-title,"Protect, restore and promote sustainable use of terrestrial ecosystems, sustainably manage forests, combat desertification, and halt and reverse land degradation and halt biodiversity loss","Landökosysteme schützen, wiederherstellen und ihre nachhaltige Nutzung fördern, Wälder nachhaltig bewirtschaften, Wüstenbildung bekämpfen, Bodendegradation beenden und umkehren und "
+global_goals:16-short,Peace and justice - strong institutions,"Frieden, Gerechtigkeit und starke Institutionen"
+global_goals:16-title,"Promote peaceful and inclusive societies for sustainable development, provide access to justice for all and build effective, accountable and inclusive institutions at all levels","Friedliche und inklusive Gesellschaften für eine nachhaltige Entwicklung fördern, allen Menschen Zugang zur Justiz ermöglichen und leistungsfähige, rechenschaftspflichtige und inklusive Institutionen auf allen Ebenen aufbauen"
+global_goals:17-short,Partnerships for the goals,Partnerschaften zur Erreichung der Ziele
+global_goals:17-title,Strengthen the means of implementation and revitalize the Global Partnership for Sustainable Development,Umsetzungsmittel stärken und die Globale Partnerschaft für nachhaltige Entwicklung mit neuem Leben erfüllen
+global_goals:2-short,Zero hunger,Kein Hunger
+global_goals:2-title,"End hunger, achieve food security and improved nutrition and promote sustainable agriculture","Den Hunger beenden, Ernährungssicherheit und eine bessere Ernährung erreichen und eine nachhaltige Landwirtschaft fördern"
+global_goals:3-short,Good health and well-being,Gesundheit und Wohlergehen
+global_goals:3-title,Ensure healthy lives and promote well-being for all at all ages,Ein gesundes Leben für alle Menschen jeden Alters gewährleisten und ihr Wohlergehen fördern
+global_goals:4-short,Quality education,Hochwertige Bildung
+global_goals:4-title,Ensure inclusive and equitable quality education and promote lifelong learning opportunities for all,"Inklusive, gleichberechtigte und hochwertige Bildung gewährleisten und Möglichkeiten lebenslangen Lernens für alle fördern"
+global_goals:5-short,Gender equality,Geschlechtergleichstellung
+global_goals:5-title,Achieve gender equality and empower all women and girls,Geschlechtergleichstellung erreichen und alle Frauen und Mädchen zur Selbstbestimmung befähigen
+global_goals:6-short,Clean water and sanitation,Sauberes Wasser und Sanitärversorgung
+global_goals:6-title,Ensure availability and sustainable management of water and sanitation for all,Verfügbarkeit und nachhaltige Bewirtschaftung von Wasser und Sanitärversorgung für alle gewährleisten
+global_goals:7-short,Affordable and clean energy,Bezahlbare und saubere Energie
+global_goals:7-title,"Ensure access to affordable, reliable, sustainable and modern energy for all","Zugang zu bezahlbarer, verlässlicher, nachhaltiger und moderner Energie für alle sichern"
+global_goals:8-short,Decent jobs and economic growth,Menschenwürdige Arbeit und Wirtschaftswachstum
+global_goals:8-title,"Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all","Dauerhaftes, breitenwirksames und nachhaltiges Wirtschaftswachstum, produktive Vollbeschäftigung und menschenwürdige Arbeit für alle fördern"
+global_goals:9-short,"Industry, innovation and infrastructure","Industrie, Innovationen und Infrastruktur"
+global_goals:9-title,"Build resilient infrastructure, promote inclusive and sustainable industrialization and foster innovation","Eine widerstandsfähige Infrastruktur aufbauen, breitenwirksame und nachhaltige Industrialisierung fördern und Innovationen unterstützen"
+search:found_in,found in,gefunden unter
+search:indicator_search,검색어를 입력해 주시기 바랍니다.,Indikatorensuche
+search:keywords,키워드,Schlagworte
+search:no_results,검색 결과가 없습니다.,Keine Ergebnisse
+search:search,검색,Suche
+search:search_results_for,검색 결과,Ergebnisse zu
 global_targets:1-1-title,Target TEST,"Bis 2030 die extreme Armut - gegenwärtig definiert als der Anteil der Menschen, die mit weniger als 1,25 Dollar pro Tag auskommen müssen - für alle Menschen überall auf der Welt beseitigen"
 global_targets:1-2-title,"By 2030, reduce at least by half the proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions","Bis 2030 den Anteil der Männer, Frauen und Kinder jeden Alters, die in Armut in all ihren Dimensionen nach der jeweiligen nationalen Definition leben, mindestens um die Hälfte senken"
 global_targets:1-3-title,"Implement nationally appropriate social protection systems and measures for all, including floors, and by 2030 achieve substantial coverage of the poor and the vulnerable","Den nationalen Gegebenheiten entsprechende Sozialschutzsysteme und -maßnahmen für alle umsetzen, einschließlich eines Basisschutzes, und bis 2030 eine breite Versorgung der Armen und Schwachen erreichen"
@@ -571,40 +606,5 @@ global_targets:9-5-title,"Enhance scientific research, upgrade the technological
 global_targets:9-a-title,"Facilitate sustainable and resilient infrastructure development in developing countries through enhanced financial, technological and technical support to African countries, least developed countries, landlocked developing countries and small island developing States","Die Entwicklung einer nachhaltigen und widerstandsfähigen Infrastruktur in den Entwicklungsländern durch eine verstärkte finanzielle, technologische und technische Unterstützung der afrikanischen Länder, der am wenigsten entwickelten Länder, der Binnenentwicklungsländer und der kleinen Inselentwicklungsländer erleichtern"
 global_targets:9-b-title,"Support domestic technology development, research and innovation in developing countries, including by ensuring a conducive policy environment for, inter alia, industrial diversification and value addition to commodities","Die einheimische Technologieentwicklung, Forschung und Innovation in den Entwicklungsländern unterstützen, einschließlich durch Sicherstellung eines förderlichen politischen Umfelds, unter anderem für industrielle Diversifizierung und Wertschöpfung im Rohstoffbereich"
 global_targets:9-c-title,Significantly increase access to information and communications technology and strive to provide universal and affordable access to the Internet in least developed countries by 2020,"Den Zugang zur Informations- und Kommunikationstechnologie erheblich erweitern sowie anstreben, in den am wenigsten entwickelten Ländern bis 2020 einen allgemeinen und erschwinglichen Zugang zum Internet bereitzustellen"
-indicator:chart,그래프,Grafik
-indicator:clear_all,모두 취소,Auswahl aufheben
-indicator:clear_selections,초기화,Auswahl aufheben
-indicator:dataset_size_warning,너무 많은 항목이 선택되었습니다. 선택을 취소해 주시기 바랍니다.,Zu viele Zeitreihen ausgewählt um diese in einer Grafik darzustellen. Es können nicht alle Zeitreihen dargestellt werden
-indicator:download_chart,그래프 CSV 내려받기,Grafik im CSV-Format speichern
-indicator:download_chart_image,그래프 이미지 내려받기,Grafik herunterladen
-indicator:download_chart_image_title,그래프 이미지 내려받기,Grafik als Bild herunterladen
-indicator:download_csv,CSV 내려받기,im CSV-Format speichern
-indicator:download_csv_title,CSV 내려받기,im CSV-Format speichern
-indicator:download_headline,Download Headline CSV,Speichern der Headline im CSV-Format
-indicator:download_headline_title,Download headline data as CSV,Speichern der Headline im CSV-Format
-indicator:download_source,출처 CSV 내려받기,Daten im CSV-Format speichern
-indicator:download_source_title,출처 CSV 내려받기,Daten im CSV-Format speichern
-indicator:download_table,표 CSV 내려받기,Tabelle im CSV-Format speichern
-indicator:edit,자료 수정,Bearbeiten
-indicator:edit_data,데이터 수정,Daten bearbeiten
-indicator:edit_metadata,메타데이터 수정,Metadaten bearbeiten
-indicator:footnote,주석,Fußnote
-indicator:geographical_area,지역,Geographische Abdeckung
-indicator:global_metadata,UN 메타데이터,Globale Metadaten
-indicator:global_metadata_blurb,,"Diese Übersicht stellt Informationen zu den globalen Metadaten des jeweiligen SDG-Indikators bereit. Die <a href=""""https://unstats.un.org/sdgs/metadata/"""">globalen Metadaten</a> werden durch die Statistische Division der Vereinten Nationen bereitgestellt."
-indicator:legend_help,범례의 개별 항목을 클릭하면 해당 항목을 그래프에서 삭제하실 수 있습니다.,Klicken Sie auf die Legende um Zeitreihen aus der Grafik zu entfernen.
-indicator:loading_map,지도를 불어오고 있습니다.,Karte wird geladen
-indicator:map,지도,Karte
-indicator:national_metadata,통계설명자료,Nationale Metadaten
-indicator:national_metadata_blurb,,"Im Folgenden werden Metadaten zu den national verfügbaren Zeitreihen für %country_name zum jeweiligen globalen SDG-Indikator bereitgestellt. Die angegebene Datenreihe ist die vergleichbarste, national verfügbare Zeitreihe. Entspricht die angezeigte Datenreihe voll den globalen Metadaten, so ist dennoch auf diese nationalen Metadaten für methodische sowie weitere länderspezifische Informationen hinzuweisen."
-indicator:no_data_hint,No options available because of filters above,Aufgrund der bereits getroffenen Auswahl sind keine weiteren Auswahlmöglichkeiten verfügbar.
-indicator:select_all,모두 선택,Alle auswählen
-indicator:series_help,상세한 정보를 원하시는 세부 항목을 아래에서 선택해 주시기 바랍니다.,"Wählen Sie Disaggregationsdimensionen aus, damit die verfügbaren Disaggregationskategorien angezeigt werden. Manche werden erst angezeigt, sobald eine Überkategorie ausgewählt wird."
-indicator:source,출처,Datenquelle
-indicator:sources,출처 정보,Datenquellen
-indicator:sub_categories,세부 항목,Disaggregationsdimensionen
-indicator:table,표,Tabelle
-indicator:unit_of_measurement,단위,Einheit
-indicator:units_type,Units type,Einheit
-indicator:variable_hint,먼저 '%field' 항목을 선택해 주시기 바랍니다.,Verfügbar
-indicator:view_indicator_list,View this goal's indicator list,Zeigt die Indikatorenliste zum SDG-Ziel an.
+frontpage:heading,[테스트 중입니다] 한국의 SDGs 지표,%name daten zu den Indikatoren der Ziele für nachhaltige Entwicklung
+frontpage:instructions,"지표별 상세 데이터를 확인하시려면, 아래 아이콘을 클릭하시거나 %before_link 검색창 %after_link 을 이용하시기 바랍니다.",Klicken Sie auf die einzelnen Ziele um zu den Daten zu den Daten zu den Indikatoren der Ziele für nachhaltige Entwicklung für %name zu gelangen. Oder %before_link suchen %after_link Sie gezielt nach spezifischenThemen.
