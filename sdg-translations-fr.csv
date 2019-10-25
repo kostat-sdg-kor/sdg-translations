@@ -1,6 +1,4 @@
 ﻿key,en,fr
-post:posts_by_category,Posts by Category,Messages par catégorie
-post:view_all_in_category,View all posts in the %category_name category,Voir tous les articles dans la catégorie %category_name
 indicator:chart,그래프,Graphique
 indicator:clear_all,모두 취소,Tout effacer
 indicator:clear_selections,초기화,Effacer les sélections
@@ -38,23 +36,6 @@ indicator:unit_of_measurement,단위,Unité de mesure
 indicator:units_type,Units type,Type d&#39;unités
 indicator:variable_hint,먼저 '%field' 항목을 선택해 주시기 바랍니다.,Disponible lorsque le champ '%field' est sélectionné
 indicator:view_indicator_list,View this goal's indicator list,Voir la liste des indicateurs de cet objectif
-global_goals:1-short,Zero hunger,Pas de pauvreté
-global_goals:10-short,Reduced inequalities,Inégalités réduites
-global_goals:11-short,Sustainable cities & communities,Villes et communautés durables
-global_goals:12-short,Responsible consumption and production,Consommation et production responsables
-global_goals:13-short,Climate action,Mesures relatives à la lutte contre les changements climatiques
-global_goals:14-short,Life below water,Vie aquatique
-global_goals:15-short,Life on land,Vie terrestre
-global_goals:16-short,Peace and justice - strong institutions,"Paix, justice et institutions efficaces"
-global_goals:17-short,Partnerships for the goals,Partenariats pour la réalisation des objectifs
-global_goals:2-short,Zero hunger,"Faim ""zéro"""
-global_goals:3-short,Good health and well-being,Bonne santé et bien-être
-global_goals:4-short,Quality education,Éducation de qualité
-global_goals:5-short,Gender equality,Égalité entre les sexes
-global_goals:6-short,Clean water and sanitation,Eau propre et assainissement
-global_goals:7-short,Affordable and clean energy,Energies propres et d'un coût abordable
-global_goals:8-short,Decent jobs and economic growth,Travaux décent et croissance économique
-global_goals:9-short,"Industry, innovation and infrastructure","Industrie, innovation et infrastructure"
 search:found_in,found in,trouvé dans
 search:indicator_search,검색어를 입력해 주시기 바랍니다.,Recherche d&#39;indicateur
 search:keywords,키워드,Mots clés
@@ -139,6 +120,41 @@ metadata_fields:target,세부목표명,Nom de la cible
 metadata_fields:target_id,세부목표 번호,Numéro cible
 metadata_fields:un_custodian_agency,소관 국제기구,Agence dépositaire des Nations Unies
 metadata_fields:un_designated_tier,티어(Tier),Niveau désigné par les Nations Unies
+status:exploring_data_sources,작업중,Explorer les sources de données
+status:not_applicable,Not applicable,Non applicable
+status:overall_reporting_status,총괄 현황 -,Statut général de rapport
+status:reported_online,이용가능,Signalé en ligne
+status:reporting_status,지표 현황,Statut de rapport
+status:statistics_in_progress,Statistics in progress,Statistiques en cours
+status:status_by_goal,목표별 현황,Statut par but
+menu:about,About,Sur
+menu:contact_us,Contact us,Contactez nous
+menu:cookies,Cookies,Biscuits
+menu:faq,FAQ,FAQ
+menu:guidance,Guidance,Orientation
+menu:menu,Menu,Menu
+menu:publications,Publications,Publications
+menu:reporting_status,Reporting Status,Statut de rapport
+menu:updates,Updates,
+global_goals:1-short,Zero hunger,Pas de pauvreté
+global_goals:10-short,Reduced inequalities,Inégalités réduites
+global_goals:11-short,Sustainable cities & communities,Villes et communautés durables
+global_goals:12-short,Responsible consumption and production,Consommation et production responsables
+global_goals:13-short,Climate action,Mesures relatives à la lutte contre les changements climatiques
+global_goals:14-short,Life below water,Vie aquatique
+global_goals:15-short,Life on land,Vie terrestre
+global_goals:16-short,Peace and justice - strong institutions,"Paix, justice et institutions efficaces"
+global_goals:17-short,Partnerships for the goals,Partenariats pour la réalisation des objectifs
+global_goals:2-short,Zero hunger,"Faim ""zéro"""
+global_goals:3-short,Good health and well-being,Bonne santé et bien-être
+global_goals:4-short,Quality education,Éducation de qualité
+global_goals:5-short,Gender equality,Égalité entre les sexes
+global_goals:6-short,Clean water and sanitation,Eau propre et assainissement
+global_goals:7-short,Affordable and clean energy,Energies propres et d'un coût abordable
+global_goals:8-short,Decent jobs and economic growth,Travaux décent et croissance économique
+global_goals:9-short,"Industry, innovation and infrastructure","Industrie, innovation et infrastructure"
+post:posts_by_category,Posts by Category,Messages par catégorie
+post:view_all_in_category,View all posts in the %category_name category,Voir tous les articles dans la catégorie %category_name
 header:alpha,Alpha,Alpha
 header:default_contrast,Default contrast,contraste standard
 header:disable_high_contrast,Disable high contrast,Désactiver le contraste élevé
@@ -147,6 +163,8 @@ header:enable_high_contrast,Enable high contrast,Activer le contraste élevé
 header:high_contrast,High contrast,contraste élevé
 header:skip_link,Skip to main content,Passer au contenu principal
 header:tag_line,17 Goals to Transform our World,17 objectifs pour transformer notre monde
+frontpage:heading,[테스트 중입니다] 한국의 SDGs 지표,Données %name pour les indicateurs des objectifs de développement durable
+frontpage:instructions,"지표별 상세 데이터를 확인하시려면, 아래 아이콘을 클릭하시거나 %before_link 검색창 %after_link 을 이용하시기 바랍니다.","Cliquez sur chaque objectif, ou %before_link recherchez, %after_link pour %name statistiques pour Sustainable Development Goal global indicateurs."
 general:facebook,Facebook,Facebook
 general:goal,목표,Objectif
 general:goals,목표,Buts
@@ -159,21 +177,3 @@ general:sdg,지속가능발전목표,Objectifs de développement durable
 general:target,세부목표,Cible
 general:targets,세부목표,Les cibles
 general:twitter,Twitter,Twitter
-menu:about,About,Sur
-menu:contact_us,Contact us,Contactez nous
-menu:cookies,Cookies,Biscuits
-menu:faq,FAQ,FAQ
-menu:guidance,Guidance,Orientation
-menu:menu,Menu,Menu
-menu:publications,Publications,Publications
-menu:reporting_status,Reporting Status,Statut de rapport
-menu:updates,Updates,
-frontpage:heading,[테스트 중입니다] 한국의 SDGs 지표,Données %name pour les indicateurs des objectifs de développement durable
-frontpage:instructions,"지표별 상세 데이터를 확인하시려면, 아래 아이콘을 클릭하시거나 %before_link 검색창 %after_link 을 이용하시기 바랍니다.","Cliquez sur chaque objectif, ou %before_link recherchez, %after_link pour %name statistiques pour Sustainable Development Goal global indicateurs."
-status:exploring_data_sources,작업중,Explorer les sources de données
-status:not_applicable,Not applicable,Non applicable
-status:overall_reporting_status,Overall Reporting Status,Statut général de rapport
-status:reported_online,이용가능,Signalé en ligne
-status:reporting_status,Reporting Status,Statut de rapport
-status:statistics_in_progress,Statistics in progress,Statistiques en cours
-status:status_by_goal,Status by goal,Statut par but
