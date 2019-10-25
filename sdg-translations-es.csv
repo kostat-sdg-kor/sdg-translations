@@ -1,4 +1,50 @@
 ﻿key,en,es
+status:exploring_data_sources,작업중,Explorando fuentes de datos
+status:not_applicable,Not applicable,No aplicable
+status:overall_reporting_status,총괄 현황 -,Estado general de informes
+status:reported_online,이용가능,Reportado en línea
+status:reporting_status,지표 현황,Estado de informes
+status:statistics_in_progress,Statistics in progress,Estadísticas en progreso
+status:status_by_goal,목표별 현황,Estados por objetivos
+menu:about,개요,Acerca de
+menu:contact_us,Contact us,Contáctenos
+menu:cookies,Cookies,Galletas
+menu:faq,FAQ,FAQ
+menu:guidance,매뉴얼,Dirección
+menu:menu,메뉴,Menú
+menu:publications,간행물,Publicaciones
+menu:reporting_status,지표현황,Estado de informes
+menu:updates,업데이트,
+header:alpha,Alpha,Alfa
+header:default_contrast,Default contrast,estándar contraste
+header:disable_high_contrast,Disable high contrast,Desactivar alto contraste
+header:disclaimer,"This is a development website. We welcome your <a href=""mailto:%email_address"">feedback</a>.",Este es un sitio web de desarrollo. Agradecemos sus comentarios.
+header:enable_high_contrast,Enable high contrast,Habilitar alto contraste
+header:high_contrast,High contrast,alto contraste
+header:skip_link,Skip to main content,Saltar al contenido principal
+header:tag_line,17 Goals to Transform our World,17 Metas para transformar nuestro mundo
+search:found_in,found in,encontrado en
+search:indicator_search,검색어를 입력해 주시기 바랍니다.,Búsqueda de indicador
+search:keywords,키워드,Palabras clave
+search:no_results,검색 결과가 없습니다.,No hay resultados
+search:search,검색,Buscar
+search:search_results_for,검색 결과,Resultados de búsqueda para
+post:posts_by_category,Posts by Category,Publicaciones por categoría
+post:view_all_in_category,View all posts in the %category_name category,Ver todas las publicaciones en la categoría %category_name
+general:facebook,Facebook,Facebook
+general:goal,목표,Meta
+general:goals,목표,Metas
+general:home,Home,Inicio
+general:indicator,지표,Indicador
+general:indicators,개 지표,Indicadores
+general:loading,검색 결과를 불러오고 있습니다.,Cargando resultados de búsqueda
+general:opens_new_window,새 창에서 열기,Se abre en una nueva ventana
+general:sdg,지속가능발전목표,Objetivos de Desarrollo Sostenible
+general:target,세부목표,Objetivo
+general:targets,세부목표,Objetivos
+general:twitter,Twitter,Twitter
+frontpage:heading,[테스트 중입니다] 한국의 SDGs 지표,Datos %name para los indicadores de los Objetivos de Desarrollo Sostenible
+frontpage:instructions,"지표별 상세 데이터를 확인하시려면, 아래 아이콘을 클릭하시거나 %before_link 검색창 %after_link 을 이용하시기 바랍니다.","Haga clic en cada objetivo, o %before_link busque, %after_link para las estadísticas %name para Objetivo de desarrollo sostenible global indicadores."
 global_goals:1-short,No poverty,Fin de la Pobreza
 global_goals:10-short,Reduced inequalities,Reducción de las Desigualdades
 global_goals:11-short,Sustainable cities & communities,Cuidades y Comunidades Sostenibles
@@ -16,77 +62,6 @@ global_goals:6-short,Clean water and sanitation,Agua Limpia y Saneamiento
 global_goals:7-short,Affordable and clean energy,Energía Asequible y No Contaminante
 global_goals:8-short,Decent jobs and economic growth,Trabajo Decente y Crecimiento Económico
 global_goals:9-short,"Industry, innovation and infrastructure","Industria, Innovación e Infraestructura"
-header:alpha,Alpha,Alfa
-header:default_contrast,Default contrast,estándar contraste
-header:disable_high_contrast,Disable high contrast,Desactivar alto contraste
-header:disclaimer,"This is a development website. We welcome your <a href=""mailto:%email_address"">feedback</a>.",Este es un sitio web de desarrollo. Agradecemos sus comentarios.
-header:enable_high_contrast,Enable high contrast,Habilitar alto contraste
-header:high_contrast,High contrast,alto contraste
-header:skip_link,Skip to main content,Saltar al contenido principal
-header:tag_line,17 Goals to Transform our World,17 Metas para transformar nuestro mundo
-frontpage:heading,[테스트 중입니다] 한국의 SDGs 지표,Datos %name para los indicadores de los Objetivos de Desarrollo Sostenible
-frontpage:instructions,"지표별 상세 데이터를 확인하시려면, 아래 아이콘을 클릭하시거나 %before_link 검색창 %after_link 을 이용하시기 바랍니다.","Haga clic en cada objetivo, o %before_link busque, %after_link para las estadísticas %name para Objetivo de desarrollo sostenible global indicadores."
-status:exploring_data_sources,작업중,Explorando fuentes de datos
-status:not_applicable,Not applicable,No aplicable
-status:overall_reporting_status,총괄 현황 -,Estado general de informes
-status:reported_online,이용가능,Reportado en línea
-status:reporting_status,지표 현황,Estado de informes
-status:statistics_in_progress,Statistics in progress,Estadísticas en progreso
-status:status_by_goal,목표별 현황,Estados por objetivos
-indicator:chart,그래프,Gráfico
-indicator:clear_all,모두 취소,Limpiar todo
-indicator:clear_selections,초기화,Borrar selecciones
-indicator:dataset_size_warning,너무 많은 항목이 선택되었습니다. 선택을 취소해 주시기 바랍니다.,Hay demasiados conjuntos de datos para mostrar en el gráfico. No todo se mostrará hasta que elimine algunas selecciones.
-indicator:download_chart,그래프 CSV 내려받기,Descargar Chart CSV
-indicator:download_chart_image,그래프 이미지 내려받기,Descargar imagen del gráfico
-indicator:download_chart_image_title,그래프 이미지 내려받기,Descargar gráfico como imagen
-indicator:download_csv,CSV 내려받기,Descargar CSV
-indicator:download_csv_title,CSV 내려받기,Descargar como CSV
-indicator:download_headline,Download Headline CSV,Descargar Headline CSV
-indicator:download_headline_title,Download headline data as CSV,Descargar los datos del titular como CSV
-indicator:download_source,출처 CSV 내려받기,Descargar Source CSV
-indicator:download_source_title,출처 CSV 내려받기,Descargar los datos fuente como CSV
-indicator:download_table,표 CSV 내려받기,Descargar la tabla CSV
-indicator:edit,자료 수정,Editar
-indicator:edit_data,데이터 수정,Editar datos
-indicator:edit_metadata,메타데이터 수정,Editar metadatos
-indicator:footnote,주석,Nota
-indicator:geographical_area,지역,Área geográfica
-indicator:global_metadata,UN 메타데이터,Metadatos globales
-indicator:global_metadata_blurb,,"Esta tabla proporciona información sobre los metadatos para los indicadores de los ODS tal como los define la Comisión de Estadística de la ONU. <a href=""https://unstats.un.org/sdgs/metadata/"">La</a> División de Estadística de las Naciones Unidas proporciona <a href=""https://unstats.un.org/sdgs/metadata/"">los metadatos globales completos</a> ."
-indicator:legend_help,범례의 개별 항목을 클릭하면 해당 항목을 그래프에서 삭제하실 수 있습니다.,Haga clic en la leyenda para eliminar líneas individuales del gráfico.
-indicator:loading_map,지도를 불어오고 있습니다.,Cargando mapa
-indicator:map,지도,Mapa
-indicator:national_metadata,통계설명자료,Metadatos nacionales
-indicator:national_metadata_blurb,,"Esta tabla proporciona metadatos para el indicador real disponible a partir de las estadísticas de %country_name más cercanas al correspondiente indicador global de SDG. Tenga en cuenta que incluso cuando el indicador global de ODS esté totalmente disponible a partir de las estadísticas de %country_adjective, se debe consultar esta tabla para obtener información sobre la metodología nacional y otra información de metadatos específicos de %country_adjective."
-indicator:no_data_hint,No options available because of filters above,No hay opciones disponibles debido a los filtros anteriores
-indicator:select_all,모두 선택,Seleccionar todo
-indicator:series_help,상세한 정보를 원하시는 세부 항목을 아래에서 선택해 주시기 바랍니다.,Elija categorías de las listas desplegables a continuación para ver diferentes desgloses de los datos. Algunos no estarán disponibles hasta que se elija un nivel superior.
-indicator:source,출처,Fuente
-indicator:sources,출처 정보,Fuentes
-indicator:sub_categories,세부 항목,Subcategorías
-indicator:table,표,Mesa
-indicator:unit_of_measurement,단위,Unidad de medida
-indicator:units_type,Units type,Tipo de unidades
-indicator:variable_hint,먼저 '%field' 항목을 선택해 주시기 바랍니다.,Disponible cuando se selecciona '%field'
-indicator:view_indicator_list,View this goal's indicator list,Ver la lista de indicadores de este objetivo
-post:posts_by_category,Posts by Category,Publicaciones por categoría
-post:view_all_in_category,View all posts in the %category_name category,Ver todas las publicaciones en la categoría %category_name
-menu:about,About,Acerca de
-menu:contact_us,Contact us,Contáctenos
-menu:cookies,Cookies,Galletas
-menu:faq,FAQ,FAQ
-menu:guidance,Guidance,Dirección
-menu:menu,Menu,Menú
-menu:publications,Publications,Publicaciones
-menu:reporting_status,Reporting Status,Estado de informes
-menu:updates,Updates,
-search:found_in,found in,encontrado en
-search:indicator_search,검색어를 입력해 주시기 바랍니다.,Búsqueda de indicador
-search:keywords,키워드,Palabras clave
-search:no_results,검색 결과가 없습니다.,No hay resultados
-search:search,검색,Buscar
-search:search_results_for,검색 결과,Resultados de búsqueda para
 metadata_fields:comments_limitations,비고,Otra información
 metadata_fields:computation_calculations,계산방법,Cálculos
 metadata_fields:computation_definitions,정의,Definiciones
@@ -165,15 +140,40 @@ metadata_fields:target,세부목표명,Nombre de destino
 metadata_fields:target_id,세부목표 번호,Número objetivo
 metadata_fields:un_custodian_agency,소관 국제기구,Agencia de custodia de la ONU
 metadata_fields:un_designated_tier,티어(Tier),Nivel designado por la ONU
-general:facebook,Facebook,Facebook
-general:goal,목표,Meta
-general:goals,목표,Metas
-general:home,Home,Inicio
-general:indicator,지표,Indicador
-general:indicators,개 지표,Indicadores
-general:loading,검색 결과를 불러오고 있습니다.,Cargando resultados de búsqueda
-general:opens_new_window,새 창에서 열기,Se abre en una nueva ventana
-general:sdg,지속가능발전목표,Objetivos de Desarrollo Sostenible
-general:target,세부목표,Objetivo
-general:targets,세부목표,Objetivos
-general:twitter,Twitter,Twitter
+indicator:chart,그래프,Gráfico
+indicator:clear_all,모두 취소,Limpiar todo
+indicator:clear_selections,초기화,Borrar selecciones
+indicator:dataset_size_warning,너무 많은 항목이 선택되었습니다. 선택을 취소해 주시기 바랍니다.,Hay demasiados conjuntos de datos para mostrar en el gráfico. No todo se mostrará hasta que elimine algunas selecciones.
+indicator:download_chart,그래프 CSV 내려받기,Descargar Chart CSV
+indicator:download_chart_image,그래프 이미지 내려받기,Descargar imagen del gráfico
+indicator:download_chart_image_title,그래프 이미지 내려받기,Descargar gráfico como imagen
+indicator:download_csv,CSV 내려받기,Descargar CSV
+indicator:download_csv_title,CSV 내려받기,Descargar como CSV
+indicator:download_headline,Download Headline CSV,Descargar Headline CSV
+indicator:download_headline_title,Download headline data as CSV,Descargar los datos del titular como CSV
+indicator:download_source,출처 CSV 내려받기,Descargar Source CSV
+indicator:download_source_title,출처 CSV 내려받기,Descargar los datos fuente como CSV
+indicator:download_table,표 CSV 내려받기,Descargar la tabla CSV
+indicator:edit,자료 수정,Editar
+indicator:edit_data,데이터 수정,Editar datos
+indicator:edit_metadata,메타데이터 수정,Editar metadatos
+indicator:footnote,주석,Nota
+indicator:geographical_area,지역,Área geográfica
+indicator:global_metadata,UN 메타데이터,Metadatos globales
+indicator:global_metadata_blurb,,"Esta tabla proporciona información sobre los metadatos para los indicadores de los ODS tal como los define la Comisión de Estadística de la ONU. <a href=""https://unstats.un.org/sdgs/metadata/"">La</a> División de Estadística de las Naciones Unidas proporciona <a href=""https://unstats.un.org/sdgs/metadata/"">los metadatos globales completos</a> ."
+indicator:legend_help,범례의 개별 항목을 클릭하면 해당 항목을 그래프에서 삭제하실 수 있습니다.,Haga clic en la leyenda para eliminar líneas individuales del gráfico.
+indicator:loading_map,지도를 불어오고 있습니다.,Cargando mapa
+indicator:map,지도,Mapa
+indicator:national_metadata,통계설명자료,Metadatos nacionales
+indicator:national_metadata_blurb,,"Esta tabla proporciona metadatos para el indicador real disponible a partir de las estadísticas de %country_name más cercanas al correspondiente indicador global de SDG. Tenga en cuenta que incluso cuando el indicador global de ODS esté totalmente disponible a partir de las estadísticas de %country_adjective, se debe consultar esta tabla para obtener información sobre la metodología nacional y otra información de metadatos específicos de %country_adjective."
+indicator:no_data_hint,No options available because of filters above,No hay opciones disponibles debido a los filtros anteriores
+indicator:select_all,모두 선택,Seleccionar todo
+indicator:series_help,상세한 정보를 원하시는 세부 항목을 아래에서 선택해 주시기 바랍니다.,Elija categorías de las listas desplegables a continuación para ver diferentes desgloses de los datos. Algunos no estarán disponibles hasta que se elija un nivel superior.
+indicator:source,출처,Fuente
+indicator:sources,출처 정보,Fuentes
+indicator:sub_categories,세부 항목,Subcategorías
+indicator:table,표,Mesa
+indicator:unit_of_measurement,단위,Unidad de medida
+indicator:units_type,Units type,Tipo de unidades
+indicator:variable_hint,먼저 '%field' 항목을 선택해 주시기 바랍니다.,Disponible cuando se selecciona '%field'
+indicator:view_indicator_list,View this goal's indicator list,Ver la lista de indicadores de este objetivo
