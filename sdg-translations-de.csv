@@ -1,408 +1,26 @@
 ﻿key,en,de
-global_goals:1-short,빈곤퇴치,Keine Armut
-global_goals:1-title,모든 곳에서 모든 형태의 빈곤 종식,Armut in allen ihren Formen und überall beenden
-global_goals:10-short,불평등 완화,Weniger Ungleichheiten
-global_goals:10-title,국내 및 국가 간 불평등 감소,Ungleichheit in und zwischen Ländern verringern
-global_goals:11-short,지속가능한 도시와 공동체,Nachhaltige Städte und Gemeinden
-global_goals:11-title,포용적이고 안전하며 회복력 있고 지속가능한 도시와 주거지 조성,"Städte und Siedlungen inklusiv, sicher, widerstandsfähig und nachhaltig gestalten"
-global_goals:12-short,책임감있는 소비와 생산,Verantwortungsvolle Konsum- und Produktionsmuster
-global_goals:12-title,지속가능한 소비와 생산 양식의 보장,Nachhaltige Konsum- und Produktionsmuster sicherstellen
-global_goals:13-short,기후변화 대응,Maßnahmen zum Klimaschutz
-global_goals:13-title,기후변화와 그로 인한 영향에 맞서기 위한 긴급 대응,Umgehend Maßnahmen zur Bekämpfung des Klimawandels und seiner Auswirkungen ergreifen
-global_goals:14-short,해양 생태계,Leben unter Wasser
-global_goals:14-title,"지속가능발전을 위한 대양, 바다, 해양자원의 보전과 지속가능한 이용","Ozeane, Meere und Meeresressourcen im Sinne nachhaltiger Entwicklung erhalten und nachhaltig nutzen"
-global_goals:15-short,육상 생태계,Leben an Land
-global_goals:15-title,"육상생태계의 지속가능한 보호·복원·증진, 숲의 지속가능한 관리, 사막화 방지, 토지황폐화의 중지와 회복, 생물다양성 손실 중단","Landökosysteme schützen, wiederherstellen und ihre nachhaltige Nutzung fördern, Wälder nachhaltig bewirtschaften, Wüstenbildung bekämpfen, Bodendegradation beenden und umkehren und "
-global_goals:16-short,"평화, 정의와 제도","Frieden, Gerechtigkeit und starke Institutionen"
-global_goals:16-title,"지속가능발전을 위한 평화롭고 포용적인 사회 증진, 모두에게 정의를 보장, 모든 수준에서 효과적이며 책임감 있고 포용적인 제도 구축","Friedliche und inklusive Gesellschaften für eine nachhaltige Entwicklung fördern, allen Menschen Zugang zur Justiz ermöglichen und leistungsfähige, rechenschaftspflichtige und inklusive Institutionen auf allen Ebenen aufbauen"
-global_goals:17-short,SDGs를 위한 파트너십,Partnerschaften zur Erreichung der Ziele
-global_goals:17-title,이행수단 강화와 지속가능발전을 위한 글로벌 파트너십의 활성화,Umsetzungsmittel stärken und die Globale Partnerschaft für nachhaltige Entwicklung mit neuem Leben erfüllen
-global_goals:2-short,기아종식,Kein Hunger
-global_goals:2-title,"기아 종식, 식량안보와 개선된 영양상태의 달성, 지속 가능항 농업 강화","Den Hunger beenden, Ernährungssicherheit und eine bessere Ernährung erreichen und eine nachhaltige Landwirtschaft fördern"
-global_goals:3-short,건강과 웰빙,Gesundheit und Wohlergehen
-global_goals:3-title,모든 연령층을 위한 건강한 삶 보장과 복지 증진,Ein gesundes Leben für alle Menschen jeden Alters gewährleisten und ihr Wohlergehen fördern
-global_goals:4-short,양질의 교육,Hochwertige Bildung
-global_goals:4-title,모두를 위한 포용적이고 공평한 양질의 교육 보장 및 평생학습 기회 증진,"Inklusive, gleichberechtigte und hochwertige Bildung gewährleisten und Möglichkeiten lebenslangen Lernens für alle fördern"
-global_goals:5-short,양성평등,Geschlechtergleichstellung
-global_goals:5-title,성평등 달성과 모든 여성 및 여아의 권익신장,Geschlechtergleichstellung erreichen und alle Frauen und Mädchen zur Selbstbestimmung befähigen
-global_goals:6-short,물과 위생,Sauberes Wasser und Sanitärversorgung
-global_goals:6-title,모두를 위한 물과 위생의 이용가능성과 지속가능한 관리 보장,Verfügbarkeit und nachhaltige Bewirtschaftung von Wasser und Sanitärversorgung für alle gewährleisten
-global_goals:7-short,깨끗한 에너지,Bezahlbare und saubere Energie
-global_goals:7-title,적정한 가격에 신뢰할 수 있고 지속가능한 현대적인 에너지에 대한 접근 보장,"Zugang zu bezahlbarer, verlässlicher, nachhaltiger und moderner Energie für alle sichern"
-global_goals:8-short,양질의 일자리와 경제성장,Menschenwürdige Arbeit und Wirtschaftswachstum
-global_goals:8-title,"포용적이고 지속가능한 경제성장, 완전하고 생산적인 고용과 모두를 위한 양질의 일자리 증진","Dauerhaftes, breitenwirksames und nachhaltiges Wirtschaftswachstum, produktive Vollbeschäftigung und menschenwürdige Arbeit für alle fördern"
-global_goals:9-short,"산업, 혁신과 사회기반시설","Industrie, Innovationen und Infrastruktur"
-global_goals:9-title,"회복력 있는 사회기반시설 구축, 포용적이고 지속가능한 산업화 증진과 혁신 도모","Eine widerstandsfähige Infrastruktur aufbauen, breitenwirksame und nachhaltige Industrialisierung fördern und Innovationen unterstützen"
-menu:about,개요,Über uns
-menu:contact_us,Contact us,Kontakt
-menu:cookies,Cookies,Cookies
-menu:faq,FAQ,FAQ
-menu:guidance,매뉴얼,Technische Hinweise
-menu:menu,메뉴,Menü
-menu:publications,간행물,Veröffentlichungen
-menu:reporting_status,지표현황,Berichtsstatus
-menu:updates,업데이트,
-general:facebook,Facebook,Facebook
-general:goal,목표,Ziel
-general:goals,목표,Ziele
-general:home,Home,Home
-general:indicator,지표,Indikator
-general:indicators,개 지표,Indikatoren
-general:loading,검색 결과를 불러오고 있습니다.,Ergebnisse werden geladen
-general:opens_new_window,새 창에서 열기,in neuem Fenster öffnen
-general:sdg,지속가능발전목표,Ziele für Nachhaltige Entwicklung
-general:target,세부목표,Unterziel
-general:targets,세부목표,Unterziele
-general:twitter,Twitter,Twitter
-status:exploring_data_sources,작업중,Datenquellenanalyse
+status:exploring_data_sources,Exploring data sources,Datenquellenanalyse
 status:not_applicable,Not applicable,Nicht zutreffend
-status:overall_reporting_status,총괄 현황 -,Übersicht zum Berichtsstatus
-status:reported_online,이용가능,Daten verfügbar
-status:reporting_status,지표 현황,Berichtsstatus
+status:overall_reporting_status,Overall Reporting Status,Übersicht zum Berichtsstatus
+status:reported_online,Reported online,Daten verfügbar
+status:reporting_status,Reporting Status,Berichtsstatus
 status:statistics_in_progress,Statistics in progress,in Bearbeitung
-status:status_by_goal,목표별 현황,Status nach Ziel
-metadata_fields:comments_limitations,비고,Weitere Informationen
-metadata_fields:computation_calculations,계산방법,Methodik
-metadata_fields:computation_definitions,정의,Definitionen
-metadata_fields:computation_units,단위,Einheit
-metadata_fields:goal_meta_link,UN 메타데이터,Link zu den globalen Metadaten
-metadata_fields:indicator,지표 번호,Indikatorennummerierung
-metadata_fields:indicator_definition,지표 상세 설명,Globale Indikatorenbeschreibung
-metadata_fields:indicator_name,지표명,Indikatorenbezeichnung
-metadata_fields:indicator_sort_order,지표 정렬 번호,Indikatorenreihenfolge (in der Zielübersicht)
-metadata_fields:national_data_update_url,데이터 갱신 이력,Daten zuletzt aktualisiert am
-metadata_fields:national_geographical_coverage,지역적 범위,Geographische Abdeckung
-metadata_fields:national_indicator_available,지표 가용성,Verfügbare Datenreihenbezeichnung
-metadata_fields:national_indicator_description,지표 상세 설명,Indikatorenbeschreibung
-metadata_fields:national_metadata_update_url,메타데이터 갱신 이력,Metadaten zuletzt aktualisiert am
-metadata_fields:source_contact_1,연락처,Kontaktinformationen
-metadata_fields:source_contact_2,연락처,Kontaktinformationen
-metadata_fields:source_contact_3,연락처,Kontaktinformationen
-metadata_fields:source_contact_4,연락처,Kontaktinformationen
-metadata_fields:source_contact_5,연락처,Kontaktinformationen
-metadata_fields:source_contact_6,연락처,Kontaktinformationen
-metadata_fields:source_earliest_available_1,최초 공표,Daten verfügbar seit
-metadata_fields:source_earliest_available_2,최초 공표,Daten verfügbar seit
-metadata_fields:source_earliest_available_3,최초 공표,Daten verfügbar seit
-metadata_fields:source_earliest_available_4,최초 공표,Daten verfügbar seit
-metadata_fields:source_earliest_available_5,최초 공표,Daten verfügbar seit
-metadata_fields:source_earliest_available_6,최초 공표,Daten verfügbar seit
-metadata_fields:source_geographical_coverage_1,지역적 범위,Geographische Abdeckung
-metadata_fields:source_geographical_coverage_2,지역적 범위,Geographische Abdeckung
-metadata_fields:source_geographical_coverage_3,지역적 범위,Geographische Abdeckung
-metadata_fields:source_geographical_coverage_4,지역적 범위,Geographische Abdeckung
-metadata_fields:source_geographical_coverage_5,지역적 범위,Geographische Abdeckung
-metadata_fields:source_geographical_coverage_6,지역적 범위,Geographische Abdeckung
-metadata_fields:source_next_release_1,다음 공표,Nächste Veröffentlichung am
-metadata_fields:source_next_release_2,다음 공표,Nächste Veröffentlichung am
-metadata_fields:source_next_release_3,다음 공표,Nächste Veröffentlichung am
-metadata_fields:source_next_release_4,다음 공표,Nächste Veröffentlichung am
-metadata_fields:source_next_release_5,다음 공표,Nächste Veröffentlichung am
-metadata_fields:source_next_release_6,다음 공표,Nächste Veröffentlichung am
-metadata_fields:source_organisation_1,작성기관,Organisation
-metadata_fields:source_organisation_2,작성기관,Organisation
-metadata_fields:source_organisation_3,작성기관,Organisation
-metadata_fields:source_organisation_4,작성기관,Organisation
-metadata_fields:source_organisation_5,작성기관,Organisation
-metadata_fields:source_organisation_6,작성기관,Organisation
-metadata_fields:source_other_info_1,비고,Weitere Informationen
-metadata_fields:source_other_info_2,비고,Weitere Informationen
-metadata_fields:source_other_info_3,비고,Weitere Informationen
-metadata_fields:source_other_info_4,비고,Weitere Informationen
-metadata_fields:source_other_info_5,비고,Weitere Informationen
-metadata_fields:source_other_info_6,비고,Weitere Informationen
-metadata_fields:source_periodicity_1,작성주기,Periodizität
-metadata_fields:source_periodicity_2,작성주기,Periodizität
-metadata_fields:source_periodicity_3,작성주기,Periodizität
-metadata_fields:source_periodicity_4,작성주기,Periodizität
-metadata_fields:source_periodicity_5,작성주기,Periodizität
-metadata_fields:source_periodicity_6,작성주기,Periodizität
-metadata_fields:source_release_date_1,공표일,Veröffentlichungsdatum
-metadata_fields:source_release_date_2,공표일,Veröffentlichungsdatum
-metadata_fields:source_release_date_3,공표일,Veröffentlichungsdatum
-metadata_fields:source_release_date_4,공표일,Veröffentlichungsdatum
-metadata_fields:source_release_date_5,공표일,Veröffentlichungsdatum
-metadata_fields:source_release_date_6,공표일,Veröffentlichungsdatum
-metadata_fields:source_statistical_classification_1,통계분류, Datentyp
-metadata_fields:source_statistical_classification_2,통계분류,Datentyp
-metadata_fields:source_statistical_classification_3,통계분류,Datentyp
-metadata_fields:source_statistical_classification_4,통계분류,Datentyp
-metadata_fields:source_statistical_classification_5,통계분류,Datentyp
-metadata_fields:source_statistical_classification_6,통계분류,Datentyp
-metadata_fields:source_url_1,출처 바로가기,Link zur Datenquelle
-metadata_fields:source_url_2,출처 바로가기,Link zur Datenquelle
-metadata_fields:source_url_3,출처 바로가기,Link zur Datenquelle
-metadata_fields:source_url_4,출처 바로가기,Link zur Datenquelle
-metadata_fields:source_url_5,출처 바로가기,Link zur Datenquelle
-metadata_fields:source_url_6,출처 바로가기,Link zur Datenquelle
-metadata_fields:target,세부목표명,Unterziel
-metadata_fields:target_id,세부목표 번호,Unterzielnummerierung
-metadata_fields:un_custodian_agency,소관 국제기구,VN Custodian Agency
-metadata_fields:un_designated_tier,티어(Tier),VN Tier Klassifikation
-post:posts_by_category,Posts by Category,Beiträge geordnet nach Kategorien
-post:view_all_in_category,View all posts in the %category_name category, Zeige alle Beiträge in der %category_name Kategorie an
+status:status_by_goal,Status by goal,Status nach Ziel
+search:found_in,found in,gefunden unter
+search:indicator_search,Indicator search,Indikatorensuche
+search:keywords,Keywords,Schlagworte
+search:no_results,No results,Keine Ergebnisse
+search:search,Search,Suche
+search:search_results_for,Search results for,Ergebnisse zu
 header:alpha,Alpha,Alpha-Version
-header:default_contrast,원래대로,Standard kontrast
-header:disable_high_contrast,고대비 불가,Hoher Kontrast deaktivieren
+header:default_contrast,Default contrast,Standard kontrast
+header:disable_high_contrast,Disable high contrast,Hoher Kontrast deaktivieren
 header:disclaimer,"This is a development website. We welcome your <a href=""mailto:%email_address"">feedback</a>.",Diese Seite befindet sich im Entwicklungsstadium.Wir freuen uns über Ihre Kommentare.
-header:enable_high_contrast,고대비 가능,Aktivieren Sie hohen Kontrast
-header:high_contrast,고대비,Hoher kontrast
+header:enable_high_contrast,Enable high contrast,Aktivieren Sie hohen Kontrast
+header:high_contrast,High contrast,Hoher kontrast
 header:skip_link,Skip to main content, Zum Hauptinhalt springen
 header:tag_line,17 Goals to Transform our World,
-global_indicators:1-1-1-title,국제 빈곤선 미만에서 살고 있는 인구의 성·연령·고용상태 및 지역(도시/농촌)별 비율,"Anteil der Bevölkerung, die unter der internationalen Armutsgrenze lebt, nach Geschlecht, Alter, Erwerbsstatus  und geographischer Lage (urban/rural)"
-global_indicators:1-2-1-title,국가 빈곤선 미만에서 살고 있는 인구의 성 및 연령별 비율,"Anteil der Bevölkerung, die unter der nationalen Armutsgrenze lebt, nach Geschlecht und Alter"
-global_indicators:1-2-2-title,"국가별 정의에 따른 모든 차원의 빈곤 속에  살고 있는 모든 연령의 남성, 여성 및 아동의 비율","Anteil der Männer, Frauen und Kinder jeden Alters, die in Armut in all ihren Dimensionen gemäß nationaler Definitionen leben"
-global_indicators:1-3-1-title,사회적 보호 최저선/체계의 적용을 받는 인구의 성·특수아동·실업자·노령자·장애인·임산부·신생아·산업재해피해자·빈곤층 및 취약계층별 비율,"Anteil der Bevölkerung, die durch soziale Sicherungssysteme abgesichert sind, nach Geschlecht, untergliedert nach Kindern, Arbeitslosen, älteren Personen, Menschen mit Behinderungen, Schwangeren, Neugeborenen, Opfern von Arbeitsunfällen sowie Armen und Schwachen"
-global_indicators:1-4-1-title,기초 서비스에 접근 가능한 가구에 살고 있는 인구 비율,"Anteil der Bevölkerung, die in Haushalten mit Anschluss an die Grundversorgung lebt"
-global_indicators:1-4-2-title,법적으로 인정된 문서를 통해 안정된 토지권을 갖고 토지에 대한 권리가 보장되었다고 여기는 성인 인구의 성 및 보유형태별 비율,"Anteil der erwachsenen Gesamtbevölkerung mit gesicherter Verfügungsgewalt über Grundeigentum, (a) mit gesetzlich anerkannter Dokumentation und (b) die ihr Eigentumsrecht als sicher erachten, nach Geschlecht und nach Art der Eigentumsverhältnisse"
-global_indicators:1-5-1-title,"100,000명당 재난으로 인해 사망, 실종, 직접적 피해(affected)를 받은 인구 수","Anzahl der infolge von Katastrophen getöteten, vermissten und direkt betroffenen Personen, je 100.000 Einwohner"
-global_indicators:1-5-2-title,국내총생산(GDP) 대비 재난으로 인한 직접적인 경제적 손실액,"Unmittelbarer wirtschaftlicher Schaden infolge von Katastrophen, im Verhältnis zum globalen Bruttoinlandsprodukt (BIP)"
-global_indicators:1-5-3-title,「재난위험감축을 위한 센다이프레임워크(2015-2030)」에 따라 국가적인 재난위험감축전략을 채택하고 이행하는 국가의 수,"Anzahl der Staaten, die nationale Strategien zur Reduzierung des Katastrophenrisikos in Einklang mit dem Sendai-Rahmenwerk zur Katastrophenvorsorge 2015-2030 verabschiedet und umgesetzt haben"
-global_indicators:1-5-4-title,국가의 재난위험감축전략에 따라 지자체 차원에서 재난위험감축전략을 갖추고 있는 비율,"Anteil der lokalen Regierungen, die lokale Strategien zur Reduzierung des Katastrophenrisikos in Einklang mit den nationalen Strategien zur Katastrophenvorsorge verabschiedet und umgesetzt haben"
-global_indicators:1-a-1-title,정부가 빈곤감소 프로그램에 직접 할당한 국내재원 비율,"Anteil der inländisch erwirtschafteten Ressourcen, die von der Regierung direkt für Programme zur Armutsbekämpfung bereitgestellt werden"
-global_indicators:1-a-2-title,"정부 총지출 중 필수 서비스 (교육, 의료 및 사회적 보호)에 소요되는 지출 비율","Anteil der gesamten staatlichen Ausgaben für Grundleistungen (Bildung, Gesundheit und soziale Sicherung)"
-global_indicators:1-a-3-title,GDP 대비 빈곤감소 프로그램에 직접 할당되는 비부채성 자금유입과 총 보조금의 합,"Summe der gesamten Zuschüsse und nicht schuldenwirksamen Zuflüsse, die direkt Programmen zur Armutsbekämpfung zugewiesen werden, im Verhältnis zum BIP"
-global_indicators:1-b-1-title,"여성, 빈곤층 그리고 취약계층에 상대적으로 혜택을 주는 부문에 지출되는 정부의 경상 및 투자 지출 비율","Anteil der wiederkehrenden staatlichen und Investitionsausgaben für Sektoren, die überdurchschnittlich Frauen, Arme und benachteiligte Gruppen begünstigen"
-global_indicators:10-1-1-title,총인구 및 소득 하위 40% 인구의  가구지출 성장률 혹은 1인당 소득 성장률,Wachstumsraten der Haushaltsausgaben oder -einkommen pro Kopf der unteren 40 Prozent der Bevölkerung und der Gesamtbevölkerung
-global_indicators:10-2-1-title,"중위소득 50% 미만 인구의 성, 연령 및 장애별 비율","Anteil der Bevölkerung, die mit weniger als 50% des Medianeinkommens leben, nach Geschlecht, Alter und Menschen mit Behinderung"
-global_indicators:10-3-1-title,국제인권법 차별금지기준으로 지난 12개월 동안 차별 또는 괴롭힘을 당했다고 느꼈음을 보고한 인구의 비율,"Anteil der Bevölkerung, die angibt sich in den vergangenen 12 Monaten persönlich diskriminiert oder belästigt gefühlt zu haben basierend auf einem Diskriminierungsgrund, der nach internationalem Menschenrechtsgesetzen verboten ist"
-global_indicators:10-4-1-title,GDP 중 임금과 사회보장이전으로 구성된 노동소득비율,"Anteil des Arbeitsnehmerentgelts am BIP, bestehend aus Löhnen, Gehältern und Sozialversicherungsbeiträgen"
-global_indicators:10-5-1-title,금융건전성지표(Financial Soundness Indicators),Financial Soundness Indicators
-global_indicators:10-6-1-title,국제기구에서 개발도상국의 회원 및 투표권(voting rights) 비율,Anteil der Mitglieder und Stimmrechte der Entwicklungsländer  in internationalen Organisationen
-global_indicators:10-7-1-title,이주국가에서 얻은 연소득 대비 이주근로자가 부담하는 고용비용의 비율,Von Beschäftigten getragene Einstellungskosten als Anteil des Jahreseinkommens des Bestimmungslandes
-global_indicators:10-7-2-title,잘 관리되는 이주정책을 이행하고 있는 국가의 수,Anzahl der Staaten mit gut umgesetzter Migrationspolitik
-global_indicators:10-a-1-title,관세가 없는 최빈개도국/개발도상국으로부터의 수입에 부과되는 관세선 비율,Anteil der Zolltarife auf Einfuhren aus den am wenigsten entwickelten Ländern sowie Entwicklungsländer mit Zollfreiheit
-global_indicators:10-b-1-title,"공여국과 수원국별 개발을 위한 총자원 자원투입(예 - ODA, 해외직접투자 및 기타 투입)","Gesamte Kapitalströme für Entwicklung, nach Nehmer- und Geberländern und Art des Zahlungsstroms (z. B. öffentliche Entwicklungszusammenarbeit, ausländische Direktinvestitionen und sonstige Geldströme)"
-global_indicators:10-c-1-title,송금총액에서 송금비용의 비율,Überweisungskosten  als Anteil am überwiesenen Betrag
-global_indicators:11-1-1-title,"빈민가, 임시거처 또는 최소한의 요건을 갖추지 못한 주거시설에 거주하는 도시인구비율","Anteil der urbanen Bevölkerung, die in Slums, informellen Siedlungen oder unzureichenden Behausungen lebt"
-global_indicators:11-2-1-title,"대중교통에 편리하게 접근할 수 있는 인구비율(연령, 성 및 장애별)","Anteil der Bevölkerung, der einen angemessenen Zugang zu öffentlichen Verkehrsmitteln hat, nach Geschlecht, Alter und Menschen mit Behinderung"
-global_indicators:11-3-1-title,인구성장률 대비 토지소모 비율,Verhältnis der Flächennutzungs- zur Bevölkerungswachstumsrate
-global_indicators:11-3-2-title,정기적이고 민주적으로 운영되는 도시계획 및 관리에 시민사회가 직접 참여하는 구조를 가지고 있는 도시의 비율,"Anteil der Städte mit einer direkten Beteiligungsstruktur der Zivilgesellschaft an der Stadtplanung und -verwaltung, die regelmäßig und demokratisch arbeiten"
-global_indicators:11-4-1-title,"모든 문화 및 자연유산의 보존, 보호 및 관리에 배정된 1인당 총 지출액(유산종류(문화, 자연, 복합, 세계유산센터 등재), 정부유형(중앙, 광역, 시군), 지출종류(운영비/투자)), 민간자금종류(기부, 민간, 비영리, 스폰서)별)","Gesamtausgaben (öffentlich und privat) pro Kopf für die Bewahrung, den Schutz und die Erhaltung des Kultur- und Naturerbes, nach Art des Erbes (Kultur, Natur, gemischt und durch das Welterbezentrum ernannt), Regierungsebene (national, regional und lokal/kommunal), Art der Ausgabe (Betriebsausgabe/Investition) und Art der privaten Finanzierung (Sachspenden, privater gemeinnütziger Sektor und Förderer)"
-global_indicators:11-5-1-title,"인구 100,000 명당 재난으로 인해 사망, 실종, 직접적 피해를 입은 인구 수","Anzahl der infolge von Katastrophen getöteten, vermissten und direkt betroffenen Personen, je 100.000 Einwohner"
-global_indicators:11-5-2-title,중요 기반시설 피해 및 기본적인 서비스의 중단 등 재난으로 인한 GDP 대비 직접적인 경제적 손실,"Unmittelbarer wirtschaftlicher Schaden im Verhältnis zum globalen BIP, Schäden kritischer Infrastruktur und Anzahl der Ausfälle von Grundversorgungsleistungen infolge von Katastrophen"
-global_indicators:11-6-1-title,도시에서 발생하는 전체 고형 폐기물 중  정기적으로 수거되고 적절한 최종처리단계를 거치는 도시 고형 폐기물 비율(도시별),"Anteil der Siedlungsabfälle, die regelmäßig gesammelt und ordnungsgemäß entsorgt werden, an den insgesamt erzeugten Siedlungsabfällen, nach Städten"
-global_indicators:11-6-2-title,도시 미세먼지의 연평균수준 (인구수에 따른 가중),"Jahresmittelwerte für Feinstaub (z. B. PM2,5 und PM10) in Städten (bevölkerungsgewichtet)"
-global_indicators:11-7-1-title,"도시에서 공공목적의 용도를 위해 개방된 공용 공간이 차지하는 평균비율 (연령, 성 및 장애별)","Durchschnittlicher Anteil der bebauten Fläche in Städten, die als Freifläche öffentlich zugänglich ist, nach Geschlecht, Alter und Personen mit Behinderungen"
-global_indicators:11-7-2-title,"지난 12개월 동안 신체적 혹은 성적 괴롭힘을 당한 인구의 성, 연령, 장애, 발생장소별 비율","Anteil der Personen, die in den vergangenen 12 Monaten Opfer körperlicher oder sexueller Belästigung wurden, nach Geschlecht, Alter, Behinderungsstatus und Ort des Geschehens"
-global_indicators:11-a-1-title,인구 추계와 자원 수요를 통합하여 수립된 도시 및 지역발전계획을 이행하는 도시에 거주하는 인구의 비율 (도시크기별),"Anteil der Bevölkerung in Städten, die Stadt- und Regionalentwicklungspläne unter Berücksichtigung der Bevölkerungsprognosen und des Ressourcenbedarfs umsetzen, nach Größe der Stadt"
-global_indicators:11-b-1-title,「재난위험감축을 위한 센다이프레임워크 (2015-2030)」에 따라 국가재난위험감축전략을 채택하고 이행하는 국가의 수,"Anzahl der Staaten, die nationale Strategien zur Reduzierung des Katastrophenrisikos in Einklang mit dem Sendai-Rahmenwerk zur Katastrophenvorsorge 2015-2030 verabschiedet und umgesetzt haben"
-global_indicators:11-b-2-title,국가의 재난위험감축전략에 따라 지자체 차원에서 재난위험감축전략을 갖추고 있는 비율,"Anteil der lokalen Regierungen, die lokale Strategien zur Reduzierung des Katastrophenrisikos in Einklang mit den nationalen Strategien zur Katastrophenvorsorge verabschiedet und umgesetzt haben"
-global_indicators:11-c-1-title,최빈개도국 내 현지 자원을 이용하여 지속가능하고 회복력 있으며 자원효율적인 건물을 짓고 재건축하는데 소요되는 최빈개도국 재정지원비율,"Anteil der finanziellen Unterstützung, die den am wenigsten entwickelten Ländern für den Umbau zu und Neubau von nachhaltigen, widerstandsfähigen und ressourceneffizienten Gebäuden unter Verwendung lokaler Materialien bereitgestellt wird"
-global_indicators:12-1-1-title,지속가능한 소비 및 생산(SCP) 국가실행계획이나 SCP를 주류로 하는 계획을 갖고 있는 국가 수,"Anzahl der Staaten mit nationalen Aktionsplänen zu nachhaltigem Konsum und Produktion (SCP) oder SCP, die als Priorität oder Ziel in nationale Politik aufgenommen wurden"
-global_indicators:12-2-1-title,"총 및 1인당 물질발자국, GDP 대비 물질발자국","Rohstoff-Fußabdruck, Rohstoff-Fußabdruck pro Kopf und Rohstoff-Fußabdruck pro BIP"
-global_indicators:12-2-2-title,"총 및 1인당 물질소비량, GDP 대비 물질소비량","Inländische Materialverwendung, inländische Materialverwendung pro Kopf und inländische Materialverwendung pro BIP"
-global_indicators:12-3-1-title,글로벌식량손실지수(GFLI),Index zu globalen Nahrungsmittelverlusten
-global_indicators:12-4-1-title,유해 폐기물과 기타 화학물질에 대한 국제 다자간 환경협약이 요구하는 정보제공에 관한 약속과 의무를 이행하는 당사국 수,"Anzahl der Vertragsparteien internationaler multilateraler Umweltabkommen über gefährliche Abfälle und andere Chemikalien, die ihren Bekenntnissen und Verpflichtungen nachkommen, indem sie die gemäß dem jeweiligen Übereinkommen geforderten Informationen übermitteln"
-global_indicators:12-4-2-title,1인당 발생시키는 유해폐기물과 유해폐기물 처리 비율(처리유형별),"Erzeugte gefährliche Abfälle pro Kopf und Anteil der behandelten gefährlichen Abfälle, nach Art der Behandlung"
-global_indicators:12-5-1-title,"국가 재활용 비율, 물질재활용 톤","Nationale Recyclingquote, Tonnen an recyceltem Material"
-global_indicators:12-6-1-title,지속가능성 보고서를 발간하는 기업의 수,"Anzahl der Unternehmen, die Nachhaltigkeitsberichte veröffentlichen"
-global_indicators:12-7-1-title,지속 가능한 공공 조달 정책들과 실행 계획들을 이행하는 국가들의 수,"Anzahl der Staaten, die nachhaltige öffentliche Beschaffungspolitik und Aktionspläne umsetzen"
-global_indicators:12-8-1-title,(i) 세계시민교육 (ii)지속가능발전교육(기후변화교육포함)이 (a)국가교육정책 (b) 교육과정 (c) 교사교육 그리고 (d) 학생평가 등 모든 영역에서 주류화 정도,"Umfang, in dem (i) Bildung zu globaler Staatsbürgerschaft und (ii) Bildung für nachhaltige Entwicklung, einschließlich der Geschlechtergleichstellung und der Menschenrechte, auf allen Ebenen in: (a) nationale Bildungspolitik, (b) Lehrpläne, (c) Lehrerausbildung und (d) Schulleistungsuntersuchung berücksichtigt werden"
-global_indicators:12-a-1-title,지속가능한 생산소비 및 환경 친화적인 기술분야 연구개발을 위해 개발도상국에 지원되는 금액,Umfang der Unterstützung für Entwicklungsländer bei Forschung und Entwicklung im Hinblick auf nachhaltigen Konsum und nachhaltige Produktion sowie umweltfreundliche Technologien
-global_indicators:12-b-1-title,합의된 모니터링과  평가수단을 가진 지속가능한 관광 전략이나 정책 그리고 이행을 위한 실행계획의 수,Anzahl der Strategien oder Politiken für einen nachhaltigen Tourismus und umgesetzte Aktionspläne mit vereinbarten Kontroll- und Bewertungsinstrumenten
-global_indicators:12-c-1-title,GDP 단위(생산과 소비)당 화석연료보조금액수 및 화석연료에 대한 총 국가지출대비 화석연료 보조금 비율,Betrag der Subventionen für fossile Energieträger je Einheit BIP (Produktion und Konsum) und als Anteil an den gesamten nationalen Ausgaben für fossile Energieträger
-global_indicators:13-1-1-title,"100,000명당 재난으로 인해 사망, 실종, 직접적 피해(affected)를 받은 인구 수","Anzahl der infolge von Katastrophen getöteten, vermissten und direkt betroffenen Personen, je 100.000 Einwohner"
-global_indicators:13-1-2-title,재난위험감축을 위한 센다이프레임워크(2015-2030)에 따라 국가적인 재난위험감축전략을 채택하고 이행하는 국가의 수,"Anzahl der Staaten, die nationale Strategien zur Reduzierung des Katastrophenrisikos in Einklang mit dem Sendai-Rahmenwerk zur Katastrophenvorsorge 2015-2030 verabschiedet und umgesetzt haben"
-global_indicators:13-1-3-title,국가의 재난위험감축전략에 따라 지자체 차원에서 재난위험감축전략을 갖추고 있는 비율,"Anteil der lokalen Regierungen, die lokale Strategien zur Reduzierung des Katastrophenrisikos in Einklang mit den nationalen Strategien zur Katastrophenvorsorge verabschiedet und umgesetzt haben"
-global_indicators:13-2-1-title,"식량 생산을 위협하지 않는 방식으로 기후변화의 부정적인 영향에 적응하고, 기후회복력을 배양하고 온실가스배출을 줄일 수 있는 통합된 정책, 전략, 계획을 수립하거나 운영하는 것을 논의해 온 국가의 수(국가 적응계획, 국가 온실가스 감축 기여방안, 국가보고서, 격년별로 갱신되는 보고서 등을 포함)","Anzahl der Staaten, die die Ausarbeitung oder Umsetzung einer/s integrierten Politik/Strategie/Plans verkündet haben, welche/r ihre Fähigkeit zur Anpassung an die negativen Auswirkungen des Klimawandels erhöht und die Widerstandsfähigkeit gegenüber Klimaänderungen als auch eine rückläufige Entwicklung der Treibhausgasemissionen fördert ohne die Nahrungsmittelproduktion zu gefährden (einschließlich eines nationalen Anpassungsplans, national festgelegten Beitrags, nationaler Kommunikation, zweijährlichen Aktualisierungsberichts oder anderer)"
-global_indicators:13-3-1-title,"완화, 적응, 영향 저감, 조기 경보를 초중고등 교육과정에 포함시킨 국가들의 수","Anzahl der Staaten, die die Minderung, Anpassung, Reduzierung der Auswirkungen und Frühwarnsysteme in den primären, sekundären und tertiären Lehrplänen integriert haben"
-global_indicators:13-3-2-title,"적응, 완화, 그리고 기술 이전 및 개발 이행을 위한 기관, 시스템, 그리고 개인의 역량 강화를 논의해온 국가의 수","Anzahl der Staaten, die die Stärkung des institutionellen, systemischen und individuellen Kapazitätsaufbaus zur Umsetzung von Anpassung, Minderung und Technologietransfer und Entwicklungsmaßnahmen verkündet haben"
-global_indicators:13-a-1-title,약속된 1천 억 달러 재원 조성에 대해 2020~2025년 실제 모금되는 연도별 금액,"Mobilisierter Betrag an US-Dollar pro Jahr zwischen 2020 und 2025, anrechenbar auf die Zusage von 100 Milliarden US-Dollar"
-global_indicators:13-b-1-title,"여성, 청소년, 지역 및 소외 공동체에 초점을 맞추는 것을 포함하여, 효과적인 기후변화 관련 계획과 관리 역량을 제고하기 위한 매커니즘 개발을 위해 금융, 기술, 역량배양을 비롯한 특별지원과 지원금을 받고 있는 최빈 개도국과 군소 도서개발국의 수","Anzahl der am wenigsten entwickelten Länder und kleinen Inselentwicklungsstaaten, die besondere Unterstützung erhalten und der Betrag der Unterstützung (Finanzmittel, Technologie und capacity-building umfassend) für Mechanismen zum Aufbau von Kapazitäten für eine wirksame klimawandelbezogene Planung und Verwaltung, mit Fokus auf Frauen, Jugendliche und lokale und marginalisierte Gemeinschaften"
-global_indicators:14-1-1-title,연안해역 부영양화지수 및 부유성 플라스틱 부유성 폐기물 밀도,Index der Eutrophierung der Küsten und Konzentration des schwimmenden Plastikmülls
-global_indicators:14-2-1-title,생태계 기반의 접근방식으로 관리되는 국가의 배타적 경제수역의 비율,"Anteil der nationalen ausschließlichen Wirtschaftszonen, die mit ökosystembasierten Ansätzen verwaltet werden"
-global_indicators:14-3-1-title,합의된 대표 표본 추출 지점들에서 측정되는 평균 해양산도(pH),Durchschnittliche Versauerung der Meere (pH) gemessen an einer vereinbarten Reihe von repräsentativen Probeentnahmestationen
-global_indicators:14-4-1-title,생물학적으로 지속 가능한 수준에서의 어족자원의 비율,Anteil der Fischbestände innerhalb des biologisch nachhaltigen Niveaus
-global_indicators:14-5-1-title,해양 면적 대비 보호구역의 비율,Abdeckung durch Schutzgebiete im Vergleich zu Meeresgebieten
-global_indicators:14-6-1-title,불법·비보고·비규제 어업을 근절하기 위한 국제적 수단을 이행하는 국가별 진척도,"Fortschritt der Staaten hinsichtlich des Grades der Umsetzung internationaler Instrumente mit dem Ziel zur Bekämpfung illegaler, nicht gemeldeter und unregulierter Fischerei"
-global_indicators:14-7-1-title,"군소도서 개발국, 최빈개도국 그리고 모든 국가의 GDP 중 지속가능한 어업 비율","Nachhaltige Fischerei als Anteil am BIP in kleinen Inselentwicklungsstaaten, in den am wenigsten entwickelten Ländern und allen Ländern"
-global_indicators:14-a-1-title,전체 연구예산 중 해양기술부문 연구에 할당된 예산비율,Anteil am gesamten Forschungsbudget für Forschung im Bereich der Meerestechnik
-global_indicators:14-b-1-title,소규모 영세어민을 위해 해양자원에 대한 접근을 인정하고 보호하는 법/규제/정책/제도적인 프레임워크의 국가별 적용 단계에서의 진척도,"Fortschritt der Staaten hinsichtlich der Umsetzung von gesetzlichen/ regulatorischen/ politischen/ institutionellen Rahmenwerken, die Zugangsrechte für kleine Fischereien anerkennen und schützen"
-global_indicators:14-c-1-title,"대양과 그 자원의 보존 및 지속가능한 이용을 위해 법, 정책, 제도를 통해 유엔해양법협약에 반영되어 있는 것과 같이 국제법을 이행하기 위한 대양관련 장치를  비준, 적용하고 이행하는 과정에서 진전을 보이는 국가의 수","Anzahl der Staaten, die durch rechtliche, politische und institutionelle Rahmenbedingungen bei der Ratifizierung, Verabschiedung und Umsetzung meeresbezogener Instrumentarien, die internationales Recht zum Schutz und zur nachhaltigen Nutzung der Ozeane und ihrer Ressourcen (wie es dem Seerechtsübereinkommen der Vereinten Nationen entspricht) umsetzen, Fortschritte machen"
-global_indicators:15-1-1-title,총 육지면적중 산림 면적의 비율,Waldfläche als Anteil an der gesamten Landfläche
-global_indicators:15-1-2-title,육상 및 담수 생물다양성을 위한 보호지역 지정 비율 (생태계 유형별),"Anteil der bedeutenden Gebiete für Biodiversität an Land und im Süßwasser, die in Schutzgebieten liegen, nach Ökosystemtyp"
-global_indicators:15-2-1-title,지속가능한 산림경영 이행상황,Fortschritt bei der nachhaltigen Waldbewirtschaftung
-global_indicators:15-3-1-title,국토면적 대비 황폐화 지역 비율,"Anteil der Fläche, die von Bodendegradation betroffenen ist, an der gesamten Landfläche"
-global_indicators:15-4-1-title,산림생물다양성 관련 중요 보호지역 면적,Abdeckung der wichtigen Gebiete für Biodiversität in den Bergen durch Schutzgebiete
-global_indicators:15-4-2-title,산림피복 지수(Mountain Green Cover Index),Index der Grünbedeckung in den Bergen
-global_indicators:15-5-1-title,적색목록지수(Red list Index,Rote Liste Index
-global_indicators:15-6-1-title,"공정하고  공평한 혜택 분배를 보장하기 위해 입법적, 행정적 그리고 정책적 프레임워크를 채택한 국가의 수","Anzahl der Staaten, die gesetzliche, administrative und politische Rahmenbedingungen geschaffen haben, um Vorteile gerecht und gleichmäßig zu verteilen"
-global_indicators:15-7-1-title,불법적으로 거래되거나 밀렵된 야생생물의 거래 비율,"Anteil der gehandelten Wildtiere, die gewildert oder geschmuggelt wurden"
-global_indicators:15-8-1-title,외래칩입종의 유입 예방과 통제를 위해 국가 차원의 법률과 적당한 수단을 채택하고 있는 국가의 비율,"Anteil der Staaten, die relevante nationale Rechtsvorschriften verabschiedet haben und Maßnahmen zur Vermeidung oder Bekämpfung von invasiven, gebietsfremden Arten angemessen finanzieren"
-global_indicators:15-9-1-title,「생물다양성 전략계획2011-2020」의 Aichi 타겟2에 따라 수립된 국가 목표의 진전도,"Fortschritte bei der Erreichung nationaler Ziele, die in Übereinstimmung mit dem Aichi-Biodiversitätsziel 2 des Strategischen Plans zur Biodiversität 2011-2020 beschlossen wurden"
-global_indicators:15-a-1-title,생물 다양성과 생태계 보존과 지속가능한 이용을 위한 ODA 및 공공지출,Öffentliche Entwicklungszusammenarbeit und öffentliche Ausgaben für den Erhalt und die nachhaltige Nutzung biologischer Vielfalt und der Ökosysteme
-global_indicators:15-b-1-title,생물 다양성과 생태계의 지속가능한 이용과 보존을 위한 ODA 및 공공지출,Öffentliche Entwicklungszusammenarbeit und öffentliche Ausgaben für den Erhalt und die nachhaltige Nutzung biologischer Vielfalt und der Ökosysteme
-global_indicators:15-c-1-title,불법적으로 거래되거나 밀렵된 야생생물의 거래 비율,"Anteil der gehandelten Wildtiere, die gewildert oder geschmuggelt wurden"
-global_indicators:16-1-1-title,인구 10만명당 고의에 의한 살인범죄 피해자수의 성 및 연령별 현황,"Anzahl der Opfern vorsätzlicher Tötung je 100.000 Einwohner, nach Geschlecht und Alter"
-global_indicators:16-1-2-title,"인구 10만명당 분쟁관련 사망자수의 성, 연령 및 사유별 현황","Konfliktbedingte  Todesfälle je 100.000 Einwohner, nach Geschlecht, Alter und Ursache"
-global_indicators:16-1-3-title,"지난 12개월간 신체적, 정서적, 성적폭력에 노출된 인구비율","Anteil der Bevölkerung, die in den vergangenen 12 Monaten (a) körperlicher Gewalt, (b) psychischer Gewalt und (c) sexueller Gewalt ausgesetzt war"
-global_indicators:16-1-4-title,살고 있는 동네를 홀로 걸을 때 안전하다고 느끼는 인구 비율,"Anteil der Bevölkerung, die sich in ihrem Wohngebiet alleine sicher fühlt"
-global_indicators:16-10-1-title,"지난 12개월 동안 언론인, 관련 미디어 종사자, 노동조합원 및 인권운동가를 대상으로 한 살인, 납치, 실종, 강제구금 및 고문 건수","Anzahl der bestätigten Fälle von Tötung, Entführung, erzwungenem Verschwinden, willkürlicher Inhaftierung und Folter von Journalisten, zugehörigem Medienpersonal, Gewerkschaftern und Menschenrechtsanwälten in den vergangenen 12 Monaten"
-global_indicators:16-10-2-title,"정보에 대한 대중의 접근을 보장하는 헌법, 법률, 정책을 채택하고 이행하는 국가의 수","Anzahl der Staaten, die verfassungsrechtliche, gesetzliche und/oder politische Garantieren für den öffentlichen Zugang zu Informationen verabschiedet und umgesetzt haben"
-global_indicators:16-2-1-title,지난 1개월간 보호자로부터 체벌이나 심리적 위협을 경험한 적이 있는 1-17세 아동 비율,"Anteil der Kinder im Alter von 1-17 Jahren, die im vergangenen Monat eine körperliche Strafe und/oder psychische Aggression durch Betreuungspersonen erfahren haben"
-global_indicators:16-2-2-title,"인구 10만명당 인신매매 피해자수의 성, 연령, 착취형태별 현황","Anzahl der Opfer von Menschenhandel je 100.000 Einwohner, nach Geschlecht, Alter und Art der Ausbeutung"
-global_indicators:16-2-3-title,18-29세 성인 중 18세 이전에 성폭력을 당한 적이 있는 인구비율,"Anteil der jungen Frauen und Männer im Alter von 18-29 Jahren, die bis zum Alter von 18 Jahren sexuelle Gewalt erlebt haben"
-global_indicators:16-3-1-title,지난 12개월간 관할 당국 혹은 기타 공식적인 분쟁해결수단에 피해신고를 한 폭력범죄피해자 비율,"Anteil der Opfer von Gewalttaten in den vergangenen 12 Monaten, die ihre Viktimisierung den zuständigen Behörden oder anderen offiziell anerkannten Stellen der Konfliktaufarbeitung gemeldet haben"
-global_indicators:16-3-2-title,교도소 수용자 중 미결수 비율,Nicht-verurteilte Häftlinge als Anteil an der gesamten Gefangenenpopulation
-global_indicators:16-4-1-title,국내외 불법금융거래의 총 가액 (현 미국달러화 기준),Gesamtwert der ein- und ausgehenden illegalen Finanzströme (in aktuellen US-Dollar)
-global_indicators:16-4-2-title,"압수,적발, 회수된 무기 중 국제법제에 따라 유관당국에 의해 불법성이 추적, 확인된  비율","Anteil der beschlagnahmten, aufgegriffenen oder abgegebenen Waffen, deren illegale Herkunft oder Verwendung von einer zuständigen Behörde in Übereinstimmung mit internationalen Methoden nachverfolgt oder festgestellt wurde"
-global_indicators:16-5-1-title,"지난 12개월 동안 공무원을 최소한 1회 이상 접촉하여 뇌물을 주었거나, 공무원으로부터 뇌물을 요구 받았던 인구 비율","Anteil der Personen, die in den vergangenen 12 Monaten mindestens einen Kontakt zu einem öffentlichen Bediensteten hatten und diesem ein Bestechungsgeld gezahlt haben oder von diesen um eine Bestechung gebeten wurden"
-global_indicators:16-5-2-title,지난 12개월 동안 공무원을 최소한 1회 이상 접촉하여 뇌물을 주었거나 공무원으로부터 뇌물을 요구받았던 기업의 비율,"Anteil der Unternehmen, die in den vergangenen 12 Monaten mindestens einen Kontakt mit einem öffentlichen Bediensteten hatten und diesem ein Bestechungsgeld gezahlt haben oder von diesen um eine Bestechung gebeten wurden"
-global_indicators:16-6-1-title,최초 승인된 예산 중  정부 주요 지출액의 부문별 또는 예산코드별 비율,"Primärausgaben des Staates als Anteil am ursprünglich genehmigten Budget, nach Sektor (oder nach Haushaltscodes oder Ähnlichem)"
-global_indicators:16-6-2-title,가장 최근에 경험한 공공서비스에 대해 만족하는 인구비율,"Anteil der Bevölkerung, die mit ihrer letzten Erfahrung mit öffentlichen Dienstleistungen zufrieden war"
-global_indicators:16-7-1-title,"국가전체 대비 공공기관(국가 및 지방 입법부, 행정부, 사법부) 내 성별, 연령, 장애여부 등 인구집단별 보직분포 비율","Anteil der Stellen (nach Geschlecht, Alter, Personen mit Behinderungen und Bevölkerungsgruppen) in öffentlichen Institutionen (nationale und lokale Gesetzgebung, öffentlicher Dienst und Judikative) im Vergleich zur nationalen Verteilungen"
-global_indicators:16-7-2-title,"의사결정이 포용적이고 대응적이라고 생각하는 인구의 성별, 연령별, 장애 및 인구집단별 비율","Anteil der Bevölkerung, die glaubt, dass die Entscheidungsfindung inklusiv und bedarfsgesteuert ist, nach Geschlecht, Alter, Behinderung und Bevölkerungsgruppe"
-global_indicators:16-8-1-title,국제기구에서 개발도상국의 회원 및 투표권(voting rights) 비율,Anteil der Mitglieder und Stimmrechte von Entwicklungsländern in internationalen Organisationen
-global_indicators:16-9-1-title,5세미만 중 행정 당국에 출생 신고된 자의 연령별 비율,"Anteil der Kinder unter 5 Jahre, deren Geburt von einer Zivilbehörde registriert wurde, nach Alter"
-global_indicators:16-a-1-title,파리원칙(Paris Principles)에 따른 독립적인 국가인권기구의 존재,Existenz von unabhängigen nationalen Menschenrechtsinstitutionen in Übereinstimmung mit den 'Pariser Grundsätzen
-global_indicators:16-b-1-title,국제인권법 차별금지기준으로 지난 12개월 동안 차별 또는 괴롭힘을 당했다고 느꼈음을 보고한 인구의 비율,"Anteil der Bevölkerung, die angibt sich in den vergangenen 12 Monaten persönlich auf Basis einer Diskriminierung, die nach internationalem Menschenrecht verboten ist, diskriminiert oder belästigt gefühlt zu haben"
-global_indicators:17-1-1-title,GDP 중 정부 총수입이 차지하는 비율(항목별),"Gesamte Staatseinnahmen als Anteil am BIP, nach Quelle"
-global_indicators:17-1-2-title,국내 세금으로 충당되는 정부예산의 비율,"Anteil des Haushaltsbudgets, das durch inländische Steuern finanziert wird"
-global_indicators:17-10-1-title,국제 가중 관세 평균치,Weltweit gewichtete durchschnittliche Zollsätze
-global_indicators:17-11-1-title,전세계 수출에서 개도국 및 최빈개도국이 차지하는 비중,Anteil der Entwicklungsländer und der am wenigsten entwickelten Länder an den weltweiten Exporten
-global_indicators:17-12-1-title,"개발도상국, 최빈개도국 및 군소도서 개발국에 부과되는 평균 관세","Durchschnittliche Zölle für Entwicklungsländer, am wenigsten entwickelte Länder und kleine Inselentwicklungsländer"
-global_indicators:17-13-1-title,거시경제 관련 다양한 지표,Makroökonomisches Dashboard
-global_indicators:17-14-1-title,지속가능발전의 정책일관성을 증진하기 위해 메커니즘을 갖춘 국가의 수,Anzahl der Staaten mit Mechanismen zur Verbesserung der Politikkohärenz bezogen auf nachhaltige Entwicklung
-global_indicators:17-15-1-title,개발협력사업 공여자가 개발도상국 주도 성과체계 및 기획수단을 사용하는 정도,Umfang der Nutzung ländereigener Ergebnisrahmenwerke und Planungsinstrumente durch  Anbieter von Entwicklungszusammenarbeit
-global_indicators:17-16-1-title,SDGs 달성을 지원하기 위한 다자간 개발효과성 모니터링 프레임워크에서 진전을 보고한 국가의수,"Anzahl der Staaten, die Fortschritte bei der Kontrolle der Multi-Stakeholder-Entwicklungswirksamkeit, die das Erreichen der Ziele für nachhaltige Entwicklung unterstützen, berichten"
-global_indicators:17-17-1-title,민-관 및 시민단체 파트너십에 약정한 US달러 금액,"Betrag an US-Dollar, der für (a) öffentlich-private Partnerschaften und (b) zivilgesellschaftliche Partnerschaften zugesagt wurde"
-global_indicators:17-18-1-title,세부목표와 관련성이 있는 경우 공식통계의 기본원칙에 따라 국가적 단위에서 생산된 완전히 세분화된 지속가능발전 지표의 비율,"Anteil der Nachhaltigkeitsindikatoren, die auf nationaler Ebene vollständig - sofern gemäß dem Unterziel relevant - disaggregiert sind, in Übereinstimmung mit den Grundprinzipien der amtlichen Statistik"
-global_indicators:17-18-2-title,공식통계의 기본원칙을 준수하는 국가통계법령을 갖고 있는 국가의 수,Anzahl der Staaten mit einer nationalen statistischen Gesetzgebung im Einklang mit den Grundprinzipien der amtlichen Statistik
-global_indicators:17-18-3-title,재원이 충분히 확보되어 이행되고 있는 국가통계계획을 가진 국가의 수 (재정지원 출처별),"Anzahl der Staaten mit einem nationalen statistischen Plan, der vollständig finanziert ist und umgesetzt wird, nach Quelle der Finanzierung"
-global_indicators:17-19-1-title,개발도상국에서 통계역량 강화에 사용되는 모든 자원의 달러가치,Dollar-Wert aller zur Verfügung gestellten Ressourcen zur Stärkung der statistischen Kapazität in Entwicklungsländern
-global_indicators:17-19-2-title,"지난 10년 동안 a)최소한 한 번의 인구주택총조사를 진행했고, b)100%의 출생등록과 80%의 사망등록을 달성한 국가의 비율","Anteil der Staaten, die (a) in den letzten 10 Jahren mindestens eine Bevölkerungs- und Wohnungszählung durchgeführt haben und (b) 100% bei der Geburtenregistrierung sowie 80% bei der Registrierung der Sterbefälle erreicht haben"
-global_indicators:17-2-1-title,OECD/개발 원조 위원회(DAC) 공여국의 국민총소득(GNI) 대비 1) 총 순ODA의 비율 2) LDC(최빈개도국)에 대한 순ODA 비율,"Öffentliche Nettoentwicklungsausgaben, insgesamt und an am wenigsten entwickelte Länder, als Anteil am Bruttonationaleinkommen (BNE) der Geberländer des Ausschusses für Entwicklungshilfe der Organisation für wirtschaftliche Zusammenarbeit und Entwicklung (OECD)"
-global_indicators:17-3-1-title,"총 정부예산 중 해외직접투자, ODA 및 남남협력의 비율","Ausländische Direktinvestitionen, öffentliche Entwicklungszusammenarbeit und Süd-Süd-Kooperationen als Anteil am gesamten Haushaltsbudget"
-global_indicators:17-3-2-title,총 GDP 중 송금액의 비율(미달러 기준),Volumen der (Rück-)Überweisungen (in US-Dollar) als Anteil am gesamten BIP
-global_indicators:17-4-1-title,재화 및 서비스 수출 대비 부채상환 비율,Schuldendienst als Anteil an Güter- und Dienstleistungsexporten
-global_indicators:17-5-1-title,최빈개도국을 위한 투자촉진제도를 채택하고 이행하는 국가의 수,"Anzahl der Staaten, die Investitionsförderprogramme für die am wenigsten entwickelten Länder einführen und umsetzen"
-global_indicators:17-6-1-title,국가간 과학기술 협력을 위한 협정과 프로그램의 수 (협력 형태별),"Anzahl der Vereinbarungen und Programme über Wissenschafts- und/oder Technologie-Kooperationen zwischen Staaten, nach Art der Kooperation"
-global_indicators:17-6-2-title,인구 100명 당 유선 초고속인터넷 가입률 (속도별),"Internet-Breitband-Verträge je 100 Einwohner, nach Geschwindigkeit"
-global_indicators:17-7-1-title,"개도국에 친환경 기술의 개발과 이전, 보급 및 확산을 촉진하기 위해 지원하는 총 승인 금액","Gesamtbetrag der für Entwicklungsländer genehmigten Mittel zur Förderung der Entwicklung, des Transfers, der öffentlichen Bereitstellung und der Verbreitung umweltfreundlicher Technologien"
-global_indicators:17-8-1-title,인터넷 이용자 비율,"Anteil der Einzelpersonen, die das Internet nutzen"
-global_indicators:17-9-1-title,"개발도상국에 지원하는 (남북, 남남, 삼각협력 포함) 재정 및 기술지원금액 (달러기준)","Dollar-Wert der finanziellen und technischen Zusammenarbeit (einschließlich durch Nord-Süd-, Süd-Süd- und Dreieckskooperationen) mit Entwicklungsländern"
-global_indicators:2-1-1-title,영양부족인구비율,Prävalenz von Unterernährung
-global_indicators:2-1-2-title,식량불안경험척도 기준으로 중간 또는 심각한 수준의 식량불안경험인구비율,"Prävalenz mittlerer oder schwerer Ernährungsunsicherheit in der Bevölkerung, basierend auf der Erfahrungsskala für Ernährungsunsicherheit (FIES)"
-global_indicators:2-2-1-title,5세 미만의 발육부진비율(연령대비 신장이 WHO 아동성장표준에서 해당 연령 아동신장 중위값으로부터 표준편차가 <–2 인 경우),Prävalenz von Kleinwuchs (Körpergröße zum Alter < -2 Standardabweichung vom Median des Wachstumsstandards für Kinder der Weltgesundheitsorganisation (WHO)) bei Kindern unter 5 Jahren
-global_indicators:2-2-2-title,5세 미만의 영양불량비율(신장대비 체중이 WHO 아동성장표준에서 중위값으로부터 표준편차가 +2> 혹은 <-2인 경우),"Prävalenz von Fehlernährung (Gewicht zur Körpergröße > +2 oder < -2 Standardabweichung vom Median des Wachstumsstandards für Kinder der WHO) bei Kindern unter 5 Jahren, nach der Art (Auszehrung und Übergewicht)"
-global_indicators:2-3-1-title,"노동단위당 생산규모(농업, 축산업, 임업규모에 따른 계층별)",Produktionsvolumen je Arbeitskraft nach Unternehmensgrößenklassen der Betriebsgröße in Land-/Weide-/Forstwirtschaft
-global_indicators:2-3-2-title,소규모 식량 생산자의 평균 소득 (성 및  토착지위별),"Durchschnittliches Einkommen kleiner Nahrungsmittelproduzenten, nach Geschlecht und indigenem Status"
-global_indicators:2-4-1-title,생산적이고 지속가능한 농지면적 비율,Anteil der landwirtschaftlichen Fläche unter produktiver und nachhaltiger Bewirtschaftung
-global_indicators:2-5-1-title,식량 및 농업을 위해 중장기 보존 시설에 확보되어 있는 동식물 유전자원의 수,"Anzahl der pflanzlichen und tierischen genetischen Ressourcen für Ernährung und Landwirtschaft, die entweder in mittel- oder langfristigen Einrichtungen zu deren Erhalt gesichert sind"
-global_indicators:2-5-2-title,멸종위험수준에 따라 분류된 지역 종의 비율,"Anteil der einheimischen Arten, die als gefährdet oder nicht gefährdet klassifiziert sind oder deren Gefährdungsgrad unbekannt ist"
-global_indicators:2-a-1-title,정부지출 대비 농업관련 지출 지수,Der Agriculture Orientation Index für staatliche Ausgaben
-global_indicators:2-a-2-title,농업부문에 대한 공적지원금(ODA+다른 공적지원금),Öffentliche Leistungen insgesamt (öffentliche Entwicklungszusammenarbeit plus sonstige öffentliche Ausgaben) für den Landwirtschaftssektor
-global_indicators:2-b-1-title,농업수출보조금,Ausfuhrsubventionen für landwirtschaftliche Güter
-global_indicators:2-b-2-title,농업수출보조금,Ausfuhrsubventionen für landwirtschaftliche Güter
-global_indicators:2-c-1-title,식품가격이상지표(food price anomalies),Indikator zu Preisschwankungen bei Lebensmittelpreisen
-global_indicators:3-1-1-title,모성사망비,Müttersterblichkeitsrate
-global_indicators:3-1-2-title,의료전문인력이 진료에 참여한 출산비율,Anteil der Geburten unter der Aufsicht von qualifiziertem Gesundheitspersonal
-global_indicators:3-2-1-title,5세미만 사망률,Sterblichkeitsrate von Kindern unter 5 Jahren
-global_indicators:3-2-2-title,신생아 사망률,Sterblichkeitsrate von Neugeborenen
-global_indicators:3-3-1-title,비감염인구 1천명당 인체면역결핍바이러스(HIV) 감염자의 성·연령 및 주요 특성별 현황,"Anzahl der HIV-Neuinfektionen je 1.000 nicht infizierter Einwohner, nach Geschlecht, Alter und Risikogruppen"
-global_indicators:3-3-2-title,10만명당 결핵 발생건수,Tuberkulose-Inzidenz je 100.000 Einwohner
-global_indicators:3-3-3-title,1천명당 말라리아 발생건수,Malaria-Inzidenz je 1.000 Einwohner
-global_indicators:3-3-4-title,10만명당 B형 간염 발생건수,Hepatitis-B-Inzidenz je 100.000 Einwohner
-global_indicators:3-3-5-title,소외열대질환 치료가 필요한 인구수,"Anzahl der Personen, die Maßnahmen gegen vernachlässigte Tropenkrankheiten benötigen"
-global_indicators:3-4-1-title,"심혈관계질환, 암, 당뇨 또는 만성호흡기 질환 사망률","Sterblichkeitsrate infolge von Herz-Kreislauf-Erkrankungen, Krebs, Diabetes oder chronischen Atemwegserkrankungen"
-global_indicators:3-4-2-title,자살 사망률,Sterblichkeitsrate bei Suizid
-global_indicators:3-5-1-title,"약물장애 치료개입 (의약, 사회심리, 재활 및 사후관리 서비스)보장범위","Abdeckung durch Behandlungsmaßnahmen (pharmakologische, psychosoziale und Rehabilitations- und Nachsorgeleistungen) bei Substanzmissbrauch"
-global_indicators:3-5-2-title,연간 1인당 순 알코올 소비량,"Schädlicher Alkoholkonsum, definiert gemäß den nationalen Gegebenheiten als Alkoholkonsum pro Kopf (15 Jahre und älter) innerhalb eines Kalenderjahres in Litern reinem Alkohol"
-global_indicators:3-6-1-title,도로교통사고 사망률,Sterblichkeitsrate aufgrund von Straßenverkehrsunfällen
-global_indicators:3-7-1-title,가족계획이 필요한 가임기 여성(15-49세) 중 현대적 피임방법 사용 비율,"Anteil der Frauen im gebärfähigen Alter (15-49 Jahre), die ihren Anspruch auf Familienplanung durch moderne Methoden umsetzen können"
-global_indicators:3-7-2-title,"여성 청소년 (10-14세, 15-19세) 출산률",Geburtenrate von Jugendlichen (10-14 Jahre 15-19 Jahre) je 1.000 Frauen derselben Altersgruppe
-global_indicators:3-8-1-title,필수 보건 서비스 보장범위,"Abdeckung der grundlegenden Gesundheitsleistungen (definiert als durchschnittliche Abdeckung der grundlegenden Leistungen basierend auf Tracer-Interventionen, einschließlich reproduktiver, Mütter-, Neugeborenen- und Kindergesundheit, infektiöser Krankheiten und nicht übertragbarer Krankheiten sowie Kapazitäten und Zugang zu Serviceleistungen, innerhalb der allgemein und der überwiegend benachteiligten Bevölkerung)"
-global_indicators:3-8-2-title,가구 총지출 및 소득 대비 의료비과부담 인구 비율,Anteil der Bevölkerung mit hohen Haushaltsausgaben für Gesundheit als Anteil an den gesamten Haushaltsausgaben oder -einkommen
-global_indicators:3-9-1-title,실내공기오염 및 대기오염으로 인한 사망률,Sterblichkeitsrate infolge von Luftverschmutzung im Haushalt und der Umgebung
-global_indicators:3-9-2-title,"안전하지 않은 물과 하수처리, 부족한 위생시설로 인한 사망률","Sterblichkeitsrate infolge von Kontakt mit verunreinigtem Wasser, unzureichenden sanitären Verhältnissen und mangelnder Hygiene (Kontakt mit unzureichenden ""Wasser, Sanitäreinrichtungen und Hygiene für alle""-Leistungen (WASH))"
-global_indicators:3-9-3-title,비의도적 중독 사망률,Sterblichkeitsrate infolge von unbeabsichtigtem Vergiften
-global_indicators:3-a-1-title,연령표준화를 적용한 15세 이상 인구에서 현재 흡연률,Altersstandardisierte Prävalenz des aktuellen Tabakkonsums bei Personen im Alter von 15 Jahren und älter
-global_indicators:3-b-1-title,국가 정책에 포함된 모든 백신을 접종한 인구의 비율,"Anteil der Zielbevölkerung, die alle Impfungen laut nationalen Programm besitzt"
-global_indicators:3-b-2-title,의학연구 및 기초보건부문에 대한 순ODA총액,Gesamte öffentliche Netto-Entwicklungszusammenarbeit für medizinische Forschung und grundlegende Gesundheitsversorgung
-global_indicators:3-b-3-title,적당한 가격으로 필수 의약품을 지속적으로 구할 수 있는 의료시설 비율,"Anteil der Gesundheitseinrichtungen, die über einen Kernsatz relevanter und wichtiger Medikamente verfügen, die nachhaltig verfügbar und bezahlbar sind"
-global_indicators:3-c-1-title,보건의료인력 밀도 및 분포,Dichte und Verteilung von medizinischem Fachpersonal
-global_indicators:3-d-1-title,국제보건규정(IHR)에 의한 수용능력 및 응급대처능력,Kapazitäten für internationale Gesundheitsvorschriften (IGV) und Gesundheitsnotfallvorsorge
-global_indicators:4-1-1-title,"(a) 초등학교 2학년 혹은 3학년 시점, (b) 초등학교 말 (c) 중학교 말에 (i) 읽기와 (ii) 수학분야에서 최소숙달수준에 도달한 아동 및 청소년의 성별 비율","Anteil der Kinder und Jugendlichen, die (a) in Klasse 2/3 (b) am Ende der Grundschule und (c) am Ende der Sekundarstufe I ein Mindestleistungsniveau in (i) Lesen und (ii) Mathematik erreichen, nach Geschlecht"
-global_indicators:4-2-1-title,"건강, 학습 및 심리사회적 웰빙 측면에서  발달과정에 있는 5세미만의 성별 비율","Anteil der Kinder unter 5 Jahren mit einer altersgemäßen  Entwicklung hinsichtlich Gesundheit, Lernen und psycho-sozialem Wohlbefinden, nach Geschlecht"
-global_indicators:4-2-2-title,(정규 초등교육 입학연령이 되기 1년 전) 조직화된 학습 참여 성별 비율,"Teilnahmequote an frühkindlicher Bildung (ein Jahr vor dem offiziellen Einschulungsalter), nach Geschlecht"
-global_indicators:4-3-1-title,지난 12개월 동안 형식 및 비형식 교육· 훈련에 참여한 청소년 및 성인의 성별 비율,"Teilnahmequote von Jugendlichen und Erwachsenen an formaler und non-formaler Bildung und Ausbildung in den vergangenen 12 Monaten, nach Geschlecht"
-global_indicators:4-4-1-title,기술유형별 정보통신기술(ICT) 능력을 보유한 청소년/성인의 비율,"Anteil der Jugendlichen und Erwachsenen mit Kompetenzen in Informations- und Kommunikationstechnologie (IKT), nach Art der Kompetenz"
-global_indicators:4-5-1-title,"세분화할 수 있는 이 목록의 모든 지표 대상  형평성 지수(성, 도농, 소득분위, 데이터를 이용할 수 있는 경우 장애상태, 토착민, 분쟁영향 여부 등)","Paritäts-Indizes (weiblich/männlich, rural/urban, unterstes/oberstes Vermögensquantil und sonstige, wie z. B. Grad der Behinderung, indigene Bevölkerung und konfliktbetroffen, sobald Daten verfügbar werden) für alle Bildungsindikatoren dieser Liste, die disaggregiert werden können"
-global_indicators:4-6-1-title,특정 연령 집단에서 기능적 (a) 문해력과 (b) 수리력이 최소 일정 수준에 도달한 인구의 성별 비율,"Anteil der Bevölkerung einer bestimmten Altersgruppe, die über ein festes Mindestniveau an funktionalen (a) Lese- und (b) Rechenfähigkeiten verfügt, nach Geschlecht"
-global_indicators:4-7-1-title,성평등과 인권 등 (i) 세계시민교육 (ii)지속가능발전교육이 (a)국가교육정책 (b) 교육과정 (c) 교사교육 그리고 (d) 학생평가 등 모든 영역에서 주류화 정도,"Umfang, in dem (i) Bildung zu globaler Staatsbürgerschaft und (ii) Bildung für nachhaltige Entwicklung, einschließlich der Geschlechtergleichstellung und der Menschenrechte, auf allen Ebenen in: (a) nationale Bildungspolitik, (b) Lehrpläne, (c) Lehrerausbildung und (d) Schulleistungsuntersuchung berücksichtigt werden"
-global_indicators:4-a-1-title,"(a) 전기; (b) 교육 목적의 인터넷, (c) 교육목적의 컴퓨터; (d) 장애학생을 위한 설비와 자료 (e) 기초식수 (f) 남녀 구분 기초 위생시설;(g)(WASH 기준 부합) 기초손씻기 시설 등에 접근할 수 있는 학교 비율",Anteil der Schulen mit Zugang zu: (a) Strom (b) Internet für Unterrichtszwecke (c) Computern für Unterrichtszwecke (d) angepasste Infrastruktur und Materialien für Schüler mit Behinderungen (e) Trinkwasser (f) geschlechterspezifischen sanitären Anlagen und g) grundlegende Ausstattung zum Händewaschen (gemäß den WASH-Indikator-Definitionen)
-global_indicators:4-b-1-title,장학금의 공적개발원조(ODA) 금액의 연구부문 및 연구유형별 규모,Umfang der Ausgaben öffentlicher Entwicklungszusammenarbeit für Stipendien nach Sektor und Art des Studiums
-global_indicators:4-c-1-title,"(a)유아, (b)초등, ©중학교 및 (d)고등학교교사 중에서 국가가 요구하는 특정 수준 수업에 필요한 최소한의 체계화된 교원 교육 및 훈련을 임용 전 혹은 재직 중 받은 교사의 비율","Anteil der Lehrer in: (a) Vorschule (b) Grundschule (c ) Sekundarstufe I und (d) Sekundarstufe II, die vor oder während ihrer Tätigkeit mindestens die geforderte Grundausbildung (z. B. pädagogisches Training) zum Unterrichten für die entsprechende Klassenstufe im jeweiligen Land erhalten haben"
-global_indicators:5-1-1-title,"성에 근거한 비차별과 평등을 증진, 집행 그리고 추적할 수 있는 법적체계 존재여부","Existenz gesetzlicher Rahmenbedingungen, die Gleichstellung und Nicht-Diskriminierung aufgrund des Geschlechts fördern, durchsetzen und überwachen"
-global_indicators:5-2-1-title,"파트너가 있(었)던 15세 이상의 여성과 여아  중 지난 12개월 동안 (현재 혹은 과거의) 친밀한 파트너로 부터 신체적, 성적, 정서적인 폭력을 당한 경험이 있는 인구의 연령별 및 폭력형태별 비율","Anteil der Frauen und Mädchen im Alter von 15 Jahren und älter, die sich in ihrer jetzigen oder früheren Partnerschaft physischer, sexueller oder psychischer Gewalt durch ihren aktuellen oder früheren Intimpartner in den vergangenen 12 Monaten ausgesetzt waren, nach Art der Gewalt und Alter"
-global_indicators:5-2-2-title,15세 이상의 여성과 여아 중에서 지난 12개월 동안 친밀한 파트너 이외에 다른 사람들로부터 성적 폭력을 당한 경험이 있는 인구의 연령별 및 사건발생장소별 비율,"Anteil der Frauen und Mädchen im Alter von 15 Jahren und älter, die sexueller Gewalt durch andere Personen als einem Intimpartner in den vergangenen 12 Monaten ausgesetzt waren, nach Alter und Ort des Geschehens"
-global_indicators:5-3-1-title,20~24세 여성 중 15세 이전과 18세 이전에 결혼 또는 동거를 했던 비율,"Anteil der 20- bis 24-jährigen Frauen, die vor einem Alter von 15 oder 18 Jahren verheiratet oder in einer vergleichbaren Verbindung waren"
-global_indicators:5-3-2-title,15~49세 여아와 여성 중 여성성기절제(FGM/C)를 한 인구의 연령별 비율,"Anteil der Mädchen und Frauen im Alter von 15-49 Jahren, die weiblicher Genitalverstümmelung unterzogen wurden, nach Alter"
-global_indicators:5-4-1-title,"무보수 가사노동 및 돌봄노동에 소요된 시간의 성별, 연령 및 지역별 비율","Anteil des Zeitaufwands für unbezahlte Haus- und Pflegearbeit, nach Geschlecht, Alter und Ort"
-global_indicators:5-5-1-title,(a)국회의 여성 의석 비율 (b) 지방정부의 여성 의석 비율,Frauenanteil in (a) nationalen Parlamenten und (b) lokalen Regierungen
-global_indicators:5-5-2-title,여성 관리자 비율,Frauenanteil an  Führungspositionen
-global_indicators:5-6-1-title,"성관계, 피임제 사용 및 생식보건에 대한 충분한 정보에 따라 스스로 의사결정을 하는 15-49세의 여성비율","Anteil der Frauen im Alter von 15-49 Jahren, die eigenständig fundierte Entscheidungen über sexuelle Beziehungen, Verhütung und reproduktive Gesundheitsversorgung treffen"
-global_indicators:5-6-2-title,성 및 생식 보건에 대한 정보와 교육에 대해 15세 이상의 여성 및 남성의 완전하고 평등한 접근성을 보장하는 법과 제도가 마련된 국가의 수,"Anzahl der Staaten mit Gesetzen und Vorschriften, die einen uneingeschränkten und gleichberechtigten Zugang für Frauen und Männer im Alter von 15 Jahren und älter zu sexuellen und reproduktiven Gesundheitsleistungen, Information und Bildung garantieren"
-global_indicators:5-a-1-title,(a) 농경지에 대한 소유권 또는 확실한 권리를 가진 전체 농업인구의 비율 (성별) (b)농경지 소유자 또는 토지 관리권을 가진 사람 중 여성의 비율 (보유기간별),"(a) Anteil der gesamten landwirtschaftlichen Bevölkerung mit Eigentum oder sicheren Rechten an landwirtschaftlichen Flächen, nach Geschlecht und (b) Anteil der Frauen an den Eigentümern oder Rechteinhabern landwirtschaftlicher Flächen, nach Art der Besitzverhältnisse"
-global_indicators:5-a-2-title,토지소유나 통제에 대한 여성의 평등한 권리를 보장하는 법률적 기반(관습법을 포함)을 갖춘 국가의 비율,"Anteil der Staaten, in denen der Rechtsrahmen (einschließlich Gewohnheitsrecht) Frauen die gleichen Rechte auf Landeigentum und/oder -nutzung garantiert"
-global_indicators:5-b-1-title,휴대폰을 소유한 개인의 비율 (성별),"Anteil der Personen, die ein Mobiltelefon besitzen, nach Geschlecht"
-global_indicators:5-c-1-title,성평등과 여성의 권한강화를 위해 공공자원을 할당하고 추적하는 시스템을 갖춘 국가의 비율,Anteil der Staaten mit Systemen zur transparenten Verfolgung und Veröffentlichung von Zuwendungen für Geschlechtergleichstellung und Stärkung der Rolle der Frau
-global_indicators:6-1-1-title,안전하게 관리되는 식수서비스를 이용하는 인구 비율,Anteil der Bevölkerung mit Zugang zu einer sicheren Trinkwasserversorgung
-global_indicators:6-2-1-title,비누와 물이 있는 손씻기 시설을 포함하여  안전하게 관리되는 위생서비스시설을 이용하는 인구 비율,Anteil der Bevölkerung mit (a) Zugang zu sicherer Sanitärversorgung und (b) einem Handwaschbecken mit Seife und Wasser
-global_indicators:6-3-1-title,안전하게 처리되는 폐수의 비율,Anteil des sicher behandelten Abwassers
-global_indicators:6-3-2-title,주변 수질이 양호한 수계(bodies of water)의 비율,Anteil der Gewässer mit guter Wasserqualität
-global_indicators:6-4-1-title,시간에 따른 물 이용 효율성 변화,Veränderung der Wassernutzungseffizienz im Zeitablauf
-global_indicators:6-4-2-title,물 스트레스 수준 - 이용가능한 담수 대비 취수 비율,Grad der Wasserknappheit: Süßwasserentnahme als Anteil an den verfügbaren Süßwasserressourcen
-global_indicators:6-5-1-title,통합 수자원관리 이행 정도 (0-100),Grad der Umsetzung eines integrierten Wasserressourcenmanagements (0-100)
-global_indicators:6-5-2-title,물협력을 위한 운영협정을 맺고 있는 접경 지역 비율,Anteil der grenzüberschreitenden Flussgebiete mit einer operativen Vereinbarung zur Wasserkooperation
-global_indicators:6-6-1-title,시간 경과에 따른 물 관련 생태계 규모의 변화,Veränderung des Umfangs wasserbezogener Ökosysteme im Zeitablauf
-global_indicators:6-a-1-title,정부의 지출계획에 포함되어 있는 물과 위생분야 관련 ODA 금액,"Betrag der wasser- und sanitärbezogenen öffentlichen Entwicklungszusammenarbeit, die Teil eines geregelten öffentlichen Haushaltsplans ist"
-global_indicators:6-b-1-title,물 및 위생관리에 대한 지방 커뮤니티의  참여를 위한 확립된 행정적 정책과 절차를 갖추고 있는 지방행정단위의 비율,Anteil der lokalen Verwaltungseinheiten mit etablierten und operativen Strategien und Verfahren zur Beteiligung der Gemeinden am Wasser- und Abwassermanagement
-global_indicators:7-1-1-title,전기 접근성을 갖고 있는 인구비율,Anteil der Bevölkerung mit Zugang zu Elektrizität
-global_indicators:7-1-2-title,청정연료 및 기술에 주로 의존하는 인구비율,Anteil der Bevölkerung mit überwiegender Abhängigkeit von sauberen Energieträgern und Technologien
-global_indicators:7-2-1-title,최종 에너지 소비 중 재생에너지가 차지하는 비율,Anteil der erneuerbaren Energien am gesamten Endenergieverbrauch
-global_indicators:7-3-1-title,1차 에너지와 GDP의 측면에서 측정한 에너지 집약도,Energieintensität gemessen als Primärenergie zum BIP
-global_indicators:7-a-1-title,개도국의 하이브리드 시스템을 포함한 재생 에너지 및 청정에너지 연구 개발과 재생에너지생산을 지원하는 국제 자금 흐름,"Internationale Finanzströme an Entwicklungsländer zur Förderung von Forschung und Entwicklung im Bereich sauberer Energien sowie erneuerbarer Energieproduktion, einschließlich Hybridsystemen"
-global_indicators:7-b-1-title,지속가능한 발전 서비스 인프라와 기술에 대한 재정이전 분야에서의 해외 직접투자 금액과 에너지 효율성에 대한 투자 금액이 GDP에서 차지하는 비율,Investitionen in Energieeffizienz als Anteil am BIP und der Betrag der ausländischen Direktinvestitionen in Form von Finanzmitteln für Infrastruktur und Technologien der Dienstleistungen für nachhaltige Entwicklung
-global_indicators:8-1-1-title,1인당 실질 GDP의 연 성장률,Jährliche Wachstumsrate des realen BIP pro Kopf
-global_indicators:8-10-1-title,"성인 100,000명 당 상업은행 지점들과 ATM의 개수",(a) Anzahl der Bankfilialen je 100.000 Erwachsener und (b) Anzahl der Geldautomaten je 100.000 Erwachsener
-global_indicators:8-10-2-title,"은행이나 기타 금융기관, 혹은 모바일 금융서비스 제공자의 계좌를 보유하고 있는 (15세 이상) 성인인구 비율",Anteil der Erwachsenen (15 Jahre und älter) mit einem Konto bei einer Bank oder einem anderen Finanzinstitut oder einem mobilen Geldleistungsanbiete
-global_indicators:8-2-1-title,취업자 1인당 실질 GDP의 연 성장률,Jährliche Wachstumsrate des realen BIP je Beschäftigten
-global_indicators:8-3-1-title,비농업부문에서 비공식 고용율 (성별),"Anteil der informellen Beschäftigung an allen Beschäftigungsverhältnissen außerhalb der Landwirtschaft, nach Geschlecht"
-global_indicators:8-4-1-title,"총 및 1인당 물질발자국, GDP 대비 물질발자국","Rohstoff-Fußabdruck, Rohstoff-Fußabdruck pro Kopf und Rohstoff-Fußabdruck pro BIP"
-global_indicators:8-4-2-title,"총 및 1인당 물질소비량, GDP 대비 물질소비량","Inländische Materialverwendung, inländische Materialverwendung pro Kopf und inländische Materialverwendung pro BIP"
-global_indicators:8-5-1-title,"여성과 남성 근로자의 평균 시간당 임금 (직업, 연령 및 장애별)","Durchschnittlicher Stundenlohn von weiblichen und männlichen Beschäftigten, nach Beruf, Alter und Personen mit Behinderungen"
-global_indicators:8-5-2-title,"실업률 (성, 연령, 장애인별)","Arbeitslosenquote, nach Geschlecht, Alter und Personen mit Behinderungen"
-global_indicators:8-6-1-title,"교육, 취업, 혹은 훈련 상태에 있지 않은 청소년(15-24세)의 비율","Anteil der Jugendlichen (im Alter von 15-24 Jahren), die nicht in schulischer Ausbildung, in Beschäftigung oder Berufsaus- oder -weiterbildung sind"
-global_indicators:8-7-1-title,5-17세 아동 중 아동노동인구와 비율(성 및 연령별),"Anteil und Anzahl der Kinder im Alter von 5-17 Jahren, die Kinderarbeit verrichten, nach Geschlecht und Alter"
-global_indicators:8-8-1-title,치명적 및 비치명적 산업 재해 빈도율((성별 및 이주 상태별),"Häufigkeitsraten von tödlichen und nicht-tödlichen Arbeitsunfällen, nach Geschlecht und Migrationsstatus"
-global_indicators:8-8-2-title,국제노동기구(ILO) 협약과 국내입법에 기초한 노동권(집회 및 단체교섭의 자유)의 국가별 준수 수준 (성 및 이주 상태별),"Grad der nationalen Einhaltung der Arbeitnehmerrechte (Vereinigungsfreiheit und Tarifverhandlungen) basierend auf Textquellen der Internationalen Arbeitsorganisation (ILO) und nationaler Gesetzesgrundlagen, nach Geschlecht und Migrationsstatus"
-global_indicators:8-9-1-title,전체 GDP 및 성장률에 관광분야가 직접적으로 기여하는 GDP 비율,Direktes BIP des Tourismus als Anteil am gesamten BIP und als Wachstumsrate
-global_indicators:8-9-2-title,전체 관광산업 일자리(jobs) 중 지속가능한 관광산업 분야 일자리 수의 비율,Anteil der Arbeitsplätze im nachhaltigen Tourismus an den gesamten Arbeitsplätzen im Tourismusbereich
-global_indicators:8-a-1-title,무역원조(Aid for Trade) 약정 및 지불,Aid for Trade-Zusagen und -Auszahlungen
-global_indicators:8-b-1-title,청년층 고용에 대한 국가 계획 개발 및 운영여부 – 별도 계획 혹은 국가 계획의 일부 인지 여부,"Existenz einer entwickelten und operationalisierten nationalen Strategie zu Jugendbeschäftigung , als eigenständige Strategie oder als Teil einer nationalen Beschäftigungsstrategie"
-global_indicators:9-1-1-title,사계절 도로(all-season road) 2km 반경 내 거주하는 농촌인구비율,"Anteil der ländlichen Bevölkerung, die im Umkreis von 2 km entfernt an einer ganzjährig befahrbaren Straße lebt"
-global_indicators:9-1-2-title,승객 및 운송량  (교통수단별),"Passagiere und Frachtvolumen, nach der Art des Transports"
-global_indicators:9-2-1-title,GDP 대비 및 1인 당 제조업 부가가치 비율,Wertschöpfung des Verarbeitenden Gewerbes als Anteil am BIP und pro Kopf
-global_indicators:9-2-2-title,총 고용 대비 제조업 고용 비율,Beschäftigung im Verarbeitenden Gewerbe als Anteil an der Beschäftigung insgesamt
-global_indicators:9-3-1-title,총 산업부가가치 중 소규모(small-scale) 산업 비율,Anteil der kleiner Unternehmen an der gesamten Wertschöpfung der Industrie
-global_indicators:9-3-2-title,부채 혹은 신용한도가 있는 소규모 산업 비율,Anteil kleiner Unternehmen mit einem Kredit oder einem Kreditrahmen
-global_indicators:9-4-1-title,부가가치 단위 당 이산화탄소 배출,CO2-Emissionen pro Wertschöpfungseinheit
-global_indicators:9-5-1-title,GDP 대비 연구개발비율,Ausgaben für Forschung und Entwicklung als Anteil am BIP
-global_indicators:9-5-2-title,거주자(inhabitants) 백만 명당 (전일제) 연구자 수,Wissenschaftler (in Vollzeit-Äquivalenten) je eine Million Einwohner
-global_indicators:9-a-1-title,인프라분야에 대한 국제사회의 총공적지원(ODA+기타공적자금),Gesamte öffentliche internationale Unterstützung (öffentliche Entwicklungszusammenarbeit und andere öffentliche Mittel) für Infrastruktu
-global_indicators:9-b-1-title,총 부가가치 대비 중고급기술산업 부가가치 비율,Anteil der Wertschöpfung der Medium- und High-Tech-Industrie an der Wertschöpfung insgesamt
-global_indicators:9-c-1-title,모바일네트워크 사용 인구 비율(기술별),"Anteil der Bevölkerung, die durch ein Mobilfunknetz abgedeckt ist, nach Technologie"
-search:found_in,found in,gefunden unter
-search:indicator_search,검색어를 입력해 주시기 바랍니다.,Indikatorensuche
-search:keywords,키워드,Schlagworte
-search:no_results,검색 결과가 없습니다.,Keine Ergebnisse
-search:search,검색,Suche
-search:search_results_for,검색 결과,Ergebnisse zu
-frontpage:heading,[테스트 중입니다] 한국의 SDGs 지표,%name daten zu den Indikatoren der Ziele für nachhaltige Entwicklung
-frontpage:instructions,"지표별 상세 데이터를 확인하시려면, 아래 아이콘을 클릭하시거나 %before_link 검색창 %after_link 을 이용하시기 바랍니다.",Klicken Sie auf die einzelnen Ziele um zu den Daten zu den Daten zu den Indikatoren der Ziele für nachhaltige Entwicklung für %name zu gelangen. Oder %before_link suchen %after_link Sie gezielt nach spezifischenThemen.
-global_targets:1-1-title,Target TEST,"Bis 2030 die extreme Armut - gegenwärtig definiert als der Anteil der Menschen, die mit weniger als 1,25 Dollar pro Tag auskommen müssen - für alle Menschen überall auf der Welt beseitigen"
+global_targets:1-1-title,"By 2030, eradicate extreme poverty for all people everywhere, currently measured as people living on less than $1.25 a day","Bis 2030 die extreme Armut - gegenwärtig definiert als der Anteil der Menschen, die mit weniger als 1,25 Dollar pro Tag auskommen müssen - für alle Menschen überall auf der Welt beseitigen"
 global_targets:1-2-title,"By 2030, reduce at least by half the proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions","Bis 2030 den Anteil der Männer, Frauen und Kinder jeden Alters, die in Armut in all ihren Dimensionen nach der jeweiligen nationalen Definition leben, mindestens um die Hälfte senken"
 global_targets:1-3-title,"Implement nationally appropriate social protection systems and measures for all, including floors, and by 2030 achieve substantial coverage of the poor and the vulnerable","Den nationalen Gegebenheiten entsprechende Sozialschutzsysteme und -maßnahmen für alle umsetzen, einschließlich eines Basisschutzes, und bis 2030 eine breite Versorgung der Armen und Schwachen erreichen"
 global_targets:1-4-title,"By 2030, ensure that all men and women, in particular the poor and the vulnerable, have equal rights to economic resources, as well as access to basic services, ownership and control over land and other forms of property, inheritance, natural resources, appropriate new technology and financial services, including microfinance","Bis 2030 sicherstellen, dass alle Männer und Frauen, insbesondere die Armen und Schwachen, die gleichen Rechte auf wirtschaftliche Ressourcen sowie Zugang zu grundlegenden Diensten, Grundeigentum und Verfügungsgewalt über Grund und Boden und sonstigen Vermögensformen, Erbschaften, natürlichen Ressourcen, geeigneten neuen Technologien und Finanzdienstleistungen einschließlich Mikrofinanzierung haben"
@@ -571,40 +189,422 @@ global_targets:9-5-title,"Enhance scientific research, upgrade the technological
 global_targets:9-a-title,"Facilitate sustainable and resilient infrastructure development in developing countries through enhanced financial, technological and technical support to African countries, least developed countries, landlocked developing countries and small island developing States","Die Entwicklung einer nachhaltigen und widerstandsfähigen Infrastruktur in den Entwicklungsländern durch eine verstärkte finanzielle, technologische und technische Unterstützung der afrikanischen Länder, der am wenigsten entwickelten Länder, der Binnenentwicklungsländer und der kleinen Inselentwicklungsländer erleichtern"
 global_targets:9-b-title,"Support domestic technology development, research and innovation in developing countries, including by ensuring a conducive policy environment for, inter alia, industrial diversification and value addition to commodities","Die einheimische Technologieentwicklung, Forschung und Innovation in den Entwicklungsländern unterstützen, einschließlich durch Sicherstellung eines förderlichen politischen Umfelds, unter anderem für industrielle Diversifizierung und Wertschöpfung im Rohstoffbereich"
 global_targets:9-c-title,Significantly increase access to information and communications technology and strive to provide universal and affordable access to the Internet in least developed countries by 2020,"Den Zugang zur Informations- und Kommunikationstechnologie erheblich erweitern sowie anstreben, in den am wenigsten entwickelten Ländern bis 2020 einen allgemeinen und erschwinglichen Zugang zum Internet bereitzustellen"
-indicator:chart,그래프,Grafik
-indicator:clear_all,모두 취소,Auswahl aufheben
-indicator:clear_selections,초기화,Auswahl aufheben
-indicator:dataset_size_warning,너무 많은 항목이 선택되었습니다. 선택을 취소해 주시기 바랍니다.,Zu viele Zeitreihen ausgewählt um diese in einer Grafik darzustellen. Es können nicht alle Zeitreihen dargestellt werden
-indicator:download_chart,그래프 CSV 내려받기,Grafik im CSV-Format speichern
-indicator:download_chart_image,그래프 이미지 내려받기,Grafik herunterladen
-indicator:download_chart_image_title,그래프 이미지 내려받기,Grafik als Bild herunterladen
-indicator:download_csv,CSV 내려받기,im CSV-Format speichern
-indicator:download_csv_title,CSV 내려받기,im CSV-Format speichern
+global_indicators:1-1-1-title,"Proportion of population below the international poverty line, by sex, age, employment status and geographical location (urban/rural)","Anteil der Bevölkerung, die unter der internationalen Armutsgrenze lebt, nach Geschlecht, Alter, Erwerbsstatus  und geographischer Lage (urban/rural)"
+global_indicators:1-2-1-title,"Proportion of population living below the national poverty line, by sex and age","Anteil der Bevölkerung, die unter der nationalen Armutsgrenze lebt, nach Geschlecht und Alter"
+global_indicators:1-2-2-title,"Proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions","Anteil der Männer, Frauen und Kinder jeden Alters, die in Armut in all ihren Dimensionen gemäß nationaler Definitionen leben"
+global_indicators:1-3-1-title,"Proportion of population covered by social protection floors/systems, by sex, distinguishing children, unemployed persons, older persons, persons with disabilities, pregnant women, newborns, work-injury victims and the poor and the vulnerable","Anteil der Bevölkerung, die durch soziale Sicherungssysteme abgesichert sind, nach Geschlecht, untergliedert nach Kindern, Arbeitslosen, älteren Personen, Menschen mit Behinderungen, Schwangeren, Neugeborenen, Opfern von Arbeitsunfällen sowie Armen und Schwachen"
+global_indicators:1-4-1-title,Proportion of population living in households with access to basic services,"Anteil der Bevölkerung, die in Haushalten mit Anschluss an die Grundversorgung lebt"
+global_indicators:1-4-2-title,"Proportion of total adult population with secure tenure rights to land, with legally recognized documentation, and who perceive their rights to land as secure, by sex and by type of tenure","Anteil der erwachsenen Gesamtbevölkerung mit gesicherter Verfügungsgewalt über Grundeigentum, (a) mit gesetzlich anerkannter Dokumentation und (b) die ihr Eigentumsrecht als sicher erachten, nach Geschlecht und nach Art der Eigentumsverhältnisse"
+global_indicators:1-5-1-title,"Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population","Anzahl der infolge von Katastrophen getöteten, vermissten und direkt betroffenen Personen, je 100.000 Einwohner"
+global_indicators:1-5-2-title,Direct economic loss attributed to disasters in relation to global gross domestic product (GDP),"Unmittelbarer wirtschaftlicher Schaden infolge von Katastrophen, im Verhältnis zum globalen Bruttoinlandsprodukt (BIP)"
+global_indicators:1-5-3-title,Number of countries that adopt and implement national disaster risk reduction strategies in line with the Sendai Framework for Disaster Risk Reduction 2015–2030,"Anzahl der Staaten, die nationale Strategien zur Reduzierung des Katastrophenrisikos in Einklang mit dem Sendai-Rahmenwerk zur Katastrophenvorsorge 2015-2030 verabschiedet und umgesetzt haben"
+global_indicators:1-5-4-title,Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies,"Anteil der lokalen Regierungen, die lokale Strategien zur Reduzierung des Katastrophenrisikos in Einklang mit den nationalen Strategien zur Katastrophenvorsorge verabschiedet und umgesetzt haben"
+global_indicators:1-a-1-title,Proportion of domestically generated resources allocated by the government directly to poverty reduction programmes,"Anteil der inländisch erwirtschafteten Ressourcen, die von der Regierung direkt für Programme zur Armutsbekämpfung bereitgestellt werden"
+global_indicators:1-a-2-title,"Proportion of total government spending on essential services (education, health and social protection)","Anteil der gesamten staatlichen Ausgaben für Grundleistungen (Bildung, Gesundheit und soziale Sicherung)"
+global_indicators:1-a-3-title,Sum of total grants and non-debt-creating inflows directly allocated to poverty reduction programmes as a proportion of GDP,"Summe der gesamten Zuschüsse und nicht schuldenwirksamen Zuflüsse, die direkt Programmen zur Armutsbekämpfung zugewiesen werden, im Verhältnis zum BIP"
+global_indicators:1-b-1-title,"Proportion of government recurrent and capital spending to sectors that disproportionately benefit women, the poor and vulnerable groups","Anteil der wiederkehrenden staatlichen und Investitionsausgaben für Sektoren, die überdurchschnittlich Frauen, Arme und benachteiligte Gruppen begünstigen"
+global_indicators:10-1-1-title,Growth rates of household expenditure or income per capita among the bottom 40 per cent of the population and the total population,Wachstumsraten der Haushaltsausgaben oder -einkommen pro Kopf der unteren 40 Prozent der Bevölkerung und der Gesamtbevölkerung
+global_indicators:10-2-1-title,"Proportion of people living below 50 per cent of median income, by sex, age and persons with disabilities","Anteil der Bevölkerung, die mit weniger als 50% des Medianeinkommens leben, nach Geschlecht, Alter und Menschen mit Behinderung"
+global_indicators:10-3-1-title,Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months on the basis of a ground of discrimination prohibited under international human rights law,"Anteil der Bevölkerung, die angibt sich in den vergangenen 12 Monaten persönlich diskriminiert oder belästigt gefühlt zu haben basierend auf einem Diskriminierungsgrund, der nach internationalem Menschenrechtsgesetzen verboten ist"
+global_indicators:10-4-1-title,"Labour share of GDP, comprising wages and social protection transfers","Anteil des Arbeitsnehmerentgelts am BIP, bestehend aus Löhnen, Gehältern und Sozialversicherungsbeiträgen"
+global_indicators:10-5-1-title,Financial Soundness Indicators (FSIs),Financial Soundness Indicators
+global_indicators:10-6-1-title,Proportion of members and voting rights of developing countries in international organizations,Anteil der Mitglieder und Stimmrechte der Entwicklungsländer  in internationalen Organisationen
+global_indicators:10-7-1-title,Recruitment cost borne by employee as a proportion of yearly income earned in country of destination,Von Beschäftigten getragene Einstellungskosten als Anteil des Jahreseinkommens des Bestimmungslandes
+global_indicators:10-7-2-title,Number of countries that have implemented well-managed migration policies,Anzahl der Staaten mit gut umgesetzter Migrationspolitik
+global_indicators:10-a-1-title,Proportion of tariff lines applied to imports from least developed countries and developing countries with zero-tariff,Anteil der Zolltarife auf Einfuhren aus den am wenigsten entwickelten Ländern sowie Entwicklungsländer mit Zollfreiheit
+global_indicators:10-b-1-title,"Total resource flows for development, by recipient and donor countries and type of flow (e.g. official development assistance, foreign direct investment and other flows)","Gesamte Kapitalströme für Entwicklung, nach Nehmer- und Geberländern und Art des Zahlungsstroms (z. B. öffentliche Entwicklungszusammenarbeit, ausländische Direktinvestitionen und sonstige Geldströme)"
+global_indicators:10-c-1-title,Remittance costs as a proportion of the amount remitted,Überweisungskosten  als Anteil am überwiesenen Betrag
+global_indicators:11-1-1-title,"Proportion of urban population living in slums, informal settlements or inadequate housing","Anteil der urbanen Bevölkerung, die in Slums, informellen Siedlungen oder unzureichenden Behausungen lebt"
+global_indicators:11-2-1-title,"Proportion of population that has convenient access to public transport, by sex, age and persons with disabilities","Anteil der Bevölkerung, der einen angemessenen Zugang zu öffentlichen Verkehrsmitteln hat, nach Geschlecht, Alter und Menschen mit Behinderung"
+global_indicators:11-3-1-title,Ratio of land consumption rate to population growth rate,Verhältnis der Flächennutzungs- zur Bevölkerungswachstumsrate
+global_indicators:11-3-2-title,Proportion of cities with a direct participation structure of civil society in urban planning and management that operate regularly and democratically,"Anteil der Städte mit einer direkten Beteiligungsstruktur der Zivilgesellschaft an der Stadtplanung und -verwaltung, die regelmäßig und demokratisch arbeiten"
+global_indicators:11-4-1-title,"Total expenditure (public and private) per capita spent on the preservation, protection and conservation of all cultural and natural heritage, by type of heritage (cultural, natural, mixed and World Heritage Centre designation), level of government (national, regional and local/municipal), type of expenditure (operating expenditure/investment) and type of private funding (donations in kind, private non-profit sector and sponsorship)","Gesamtausgaben (öffentlich und privat) pro Kopf für die Bewahrung, den Schutz und die Erhaltung des Kultur- und Naturerbes, nach Art des Erbes (Kultur, Natur, gemischt und durch das Welterbezentrum ernannt), Regierungsebene (national, regional und lokal/kommunal), Art der Ausgabe (Betriebsausgabe/Investition) und Art der privaten Finanzierung (Sachspenden, privater gemeinnütziger Sektor und Förderer)"
+global_indicators:11-5-1-title,"Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population","Anzahl der infolge von Katastrophen getöteten, vermissten und direkt betroffenen Personen, je 100.000 Einwohner"
+global_indicators:11-5-2-title,"Direct economic loss in relation to global GDP, damage to critical infrastructure and number of disruptions to basic services, attributed to disasters","Unmittelbarer wirtschaftlicher Schaden im Verhältnis zum globalen BIP, Schäden kritischer Infrastruktur und Anzahl der Ausfälle von Grundversorgungsleistungen infolge von Katastrophen"
+global_indicators:11-6-1-title,"Proportion of urban solid waste regularly collected and with adequate final discharge out of total urban solid waste generated, by cities","Anteil der Siedlungsabfälle, die regelmäßig gesammelt und ordnungsgemäß entsorgt werden, an den insgesamt erzeugten Siedlungsabfällen, nach Städten"
+global_indicators:11-6-2-title,Annual mean levels of fine particulate matter (e.g. PM2.5 and PM10) in cities (population weighted),"Jahresmittelwerte für Feinstaub (z. B. PM2,5 und PM10) in Städten (bevölkerungsgewichtet)"
+global_indicators:11-7-1-title,"Average share of the built-up area of cities that is open space for public use for all, by sex, age and persons with disabilities","Durchschnittlicher Anteil der bebauten Fläche in Städten, die als Freifläche öffentlich zugänglich ist, nach Geschlecht, Alter und Personen mit Behinderungen"
+global_indicators:11-7-2-title,"Proportion of persons victim of physical or sexual harassment, by sex, age, disability status and place of occurrence, in the previous 12 months","Anteil der Personen, die in den vergangenen 12 Monaten Opfer körperlicher oder sexueller Belästigung wurden, nach Geschlecht, Alter, Behinderungsstatus und Ort des Geschehens"
+global_indicators:11-a-1-title,"Proportion of population living in cities that implement urban and regional development plans integrating population projections and resource needs, by size of city","Anteil der Bevölkerung in Städten, die Stadt- und Regionalentwicklungspläne unter Berücksichtigung der Bevölkerungsprognosen und des Ressourcenbedarfs umsetzen, nach Größe der Stadt"
+global_indicators:11-b-1-title,Number of countries that adopt and implement national disaster risk reduction strategies in line with the Sendai Framework for Disaster Risk Reduction 2015–2030,"Anzahl der Staaten, die nationale Strategien zur Reduzierung des Katastrophenrisikos in Einklang mit dem Sendai-Rahmenwerk zur Katastrophenvorsorge 2015-2030 verabschiedet und umgesetzt haben"
+global_indicators:11-b-2-title,Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies,"Anteil der lokalen Regierungen, die lokale Strategien zur Reduzierung des Katastrophenrisikos in Einklang mit den nationalen Strategien zur Katastrophenvorsorge verabschiedet und umgesetzt haben"
+global_indicators:11-c-1-title,"Proportion of financial support to the least developed countries that is allocated to the construction and retrofitting of sustainable, resilient and resource-efficient buildings utilizing local materials","Anteil der finanziellen Unterstützung, die den am wenigsten entwickelten Ländern für den Umbau zu und Neubau von nachhaltigen, widerstandsfähigen und ressourceneffizienten Gebäuden unter Verwendung lokaler Materialien bereitgestellt wird"
+global_indicators:12-1-1-title,Number of countries with sustainable consumption and production (SCP) national action plans or SCP mainstreamed as a priority or a target into national policies,"Anzahl der Staaten mit nationalen Aktionsplänen zu nachhaltigem Konsum und Produktion (SCP) oder SCP, die als Priorität oder Ziel in nationale Politik aufgenommen wurden"
+global_indicators:12-2-1-title,"Material footprint, material footprint per capita, and material footprint per GDP","Rohstoff-Fußabdruck, Rohstoff-Fußabdruck pro Kopf und Rohstoff-Fußabdruck pro BIP"
+global_indicators:12-2-2-title,"Domestic material consumption, domestic material consumption per capita, and domestic material consumption per GDP","Inländische Materialverwendung, inländische Materialverwendung pro Kopf und inländische Materialverwendung pro BIP"
+global_indicators:12-3-1-title,Global food loss index,Index zu globalen Nahrungsmittelverlusten
+global_indicators:12-4-1-title,"Number of parties to international multilateral environmental agreements on hazardous waste, and other chemicals that meet their commitments and obligations in transmitting information as required by each relevant agreement","Anzahl der Vertragsparteien internationaler multilateraler Umweltabkommen über gefährliche Abfälle und andere Chemikalien, die ihren Bekenntnissen und Verpflichtungen nachkommen, indem sie die gemäß dem jeweiligen Übereinkommen geforderten Informationen übermitteln"
+global_indicators:12-4-2-title,"Hazardous waste generated per capita and proportion of hazardous waste treated, by type of treatment","Erzeugte gefährliche Abfälle pro Kopf und Anteil der behandelten gefährlichen Abfälle, nach Art der Behandlung"
+global_indicators:12-5-1-title,"National recycling rate, tons of material recycled","Nationale Recyclingquote, Tonnen an recyceltem Material"
+global_indicators:12-6-1-title,Number of companies publishing sustainability reports,"Anzahl der Unternehmen, die Nachhaltigkeitsberichte veröffentlichen"
+global_indicators:12-7-1-title,Number of countries implementing sustainable public procurement policies and action plans,"Anzahl der Staaten, die nachhaltige öffentliche Beschaffungspolitik und Aktionspläne umsetzen"
+global_indicators:12-8-1-title,Extent to which (i) global citizenship education and (ii) education for sustainable development (including climate change education) are mainstreamed in (a) national education policies; (b) curricula; (c) teacher education; and (d) student assessment,"Umfang, in dem (i) Bildung zu globaler Staatsbürgerschaft und (ii) Bildung für nachhaltige Entwicklung, einschließlich der Geschlechtergleichstellung und der Menschenrechte, auf allen Ebenen in: (a) nationale Bildungspolitik, (b) Lehrpläne, (c) Lehrerausbildung und (d) Schulleistungsuntersuchung berücksichtigt werden"
+global_indicators:12-a-1-title,Amount of support to developing countries on research and development for sustainable consumption and production and environmentally sound technologies,Umfang der Unterstützung für Entwicklungsländer bei Forschung und Entwicklung im Hinblick auf nachhaltigen Konsum und nachhaltige Produktion sowie umweltfreundliche Technologien
+global_indicators:12-b-1-title,Number of sustainable tourism strategies or policies and implemented action plans with agreed monitoring and evaluation tools,Anzahl der Strategien oder Politiken für einen nachhaltigen Tourismus und umgesetzte Aktionspläne mit vereinbarten Kontroll- und Bewertungsinstrumenten
+global_indicators:12-c-1-title,Amount of fossil-fuel subsidies per unit of GDP (production and consumption) and as a proportion of total national expenditure on fossil fuels,Betrag der Subventionen für fossile Energieträger je Einheit BIP (Produktion und Konsum) und als Anteil an den gesamten nationalen Ausgaben für fossile Energieträger
+global_indicators:13-1-1-title,"Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population","Anzahl der infolge von Katastrophen getöteten, vermissten und direkt betroffenen Personen, je 100.000 Einwohner"
+global_indicators:13-1-2-title,Number of countries that adopt and implement national disaster risk reduction strategies in line with the Sendai Framework for Disaster Risk Reduction 2015–2030,"Anzahl der Staaten, die nationale Strategien zur Reduzierung des Katastrophenrisikos in Einklang mit dem Sendai-Rahmenwerk zur Katastrophenvorsorge 2015-2030 verabschiedet und umgesetzt haben"
+global_indicators:13-1-3-title,Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies,"Anteil der lokalen Regierungen, die lokale Strategien zur Reduzierung des Katastrophenrisikos in Einklang mit den nationalen Strategien zur Katastrophenvorsorge verabschiedet und umgesetzt haben"
+global_indicators:13-2-1-title,"Number of countries that have communicated the establishment or operationalization of an integrated policy/strategy/plan which increases their ability to adapt to the adverse impacts of climate change, and foster climate resilience and low greenhouse gas emissions development in a manner that does not threaten food production (including a national adaptation plan, nationally determined contribution, national communication, biennial update report or other)","Anzahl der Staaten, die die Ausarbeitung oder Umsetzung einer/s integrierten Politik/Strategie/Plans verkündet haben, welche/r ihre Fähigkeit zur Anpassung an die negativen Auswirkungen des Klimawandels erhöht und die Widerstandsfähigkeit gegenüber Klimaänderungen als auch eine rückläufige Entwicklung der Treibhausgasemissionen fördert ohne die Nahrungsmittelproduktion zu gefährden (einschließlich eines nationalen Anpassungsplans, national festgelegten Beitrags, nationaler Kommunikation, zweijährlichen Aktualisierungsberichts oder anderer)"
+global_indicators:13-3-1-title,"Number of countries that have integrated mitigation, adaptation, impact reduction and early warning into primary, secondary and tertiary curricula","Anzahl der Staaten, die die Minderung, Anpassung, Reduzierung der Auswirkungen und Frühwarnsysteme in den primären, sekundären und tertiären Lehrplänen integriert haben"
+global_indicators:13-3-2-title,"Number of countries that have communicated the strengthening of institutional, systemic and individual capacity-building to implement adaptation, mitigation and technology transfer, and development actions","Anzahl der Staaten, die die Stärkung des institutionellen, systemischen und individuellen Kapazitätsaufbaus zur Umsetzung von Anpassung, Minderung und Technologietransfer und Entwicklungsmaßnahmen verkündet haben"
+global_indicators:13-a-1-title,Mobilized amount of United States dollars per year between 2020 and 2025 accountable towards the $100 billion commitment,"Mobilisierter Betrag an US-Dollar pro Jahr zwischen 2020 und 2025, anrechenbar auf die Zusage von 100 Milliarden US-Dollar"
+global_indicators:13-b-1-title,"Number of least developed countries and small island developing States that are receiving specialized support, and amount of support, including finance, technology and capacity-building, for mechanisms for raising capacities for effective climate change-related planning and management, including focusing on women, youth and local and marginalized communities","Anzahl der am wenigsten entwickelten Länder und kleinen Inselentwicklungsstaaten, die besondere Unterstützung erhalten und der Betrag der Unterstützung (Finanzmittel, Technologie und capacity-building umfassend) für Mechanismen zum Aufbau von Kapazitäten für eine wirksame klimawandelbezogene Planung und Verwaltung, mit Fokus auf Frauen, Jugendliche und lokale und marginalisierte Gemeinschaften"
+global_indicators:14-1-1-title,Index of coastal eutrophication and floating plastic debris density,Index der Eutrophierung der Küsten und Konzentration des schwimmenden Plastikmülls
+global_indicators:14-2-1-title,Proportion of national exclusive economic zones managed using ecosystem-based approaches,"Anteil der nationalen ausschließlichen Wirtschaftszonen, die mit ökosystembasierten Ansätzen verwaltet werden"
+global_indicators:14-3-1-title,Average marine acidity (pH) measured at agreed suite of representative sampling stations,Durchschnittliche Versauerung der Meere (pH) gemessen an einer vereinbarten Reihe von repräsentativen Probeentnahmestationen
+global_indicators:14-4-1-title,Proportion of fish stocks within biologically sustainable levels,Anteil der Fischbestände innerhalb des biologisch nachhaltigen Niveaus
+global_indicators:14-5-1-title,Coverage of protected areas in relation to marine areas,Abdeckung durch Schutzgebiete im Vergleich zu Meeresgebieten
+global_indicators:14-6-1-title,"Progress by countries in the degree of implementation of international instruments aiming to combat illegal, unreported and unregulated fishing","Fortschritt der Staaten hinsichtlich des Grades der Umsetzung internationaler Instrumente mit dem Ziel zur Bekämpfung illegaler, nicht gemeldeter und unregulierter Fischerei"
+global_indicators:14-7-1-title,"Sustainable fisheries as a proportion of GDP in small island developing States, least developed countries and all countries","Nachhaltige Fischerei als Anteil am BIP in kleinen Inselentwicklungsstaaten, in den am wenigsten entwickelten Ländern und allen Ländern"
+global_indicators:14-a-1-title,Proportion of total research budget allocated to research in the field of marine technology,Anteil am gesamten Forschungsbudget für Forschung im Bereich der Meerestechnik
+global_indicators:14-b-1-title,Progress by countries in the degree of application of a legal/regulatory/policy/institutional framework which recognizes and protects access rights for small-scale fisheries,"Fortschritt der Staaten hinsichtlich der Umsetzung von gesetzlichen/ regulatorischen/ politischen/ institutionellen Rahmenwerken, die Zugangsrechte für kleine Fischereien anerkennen und schützen"
+global_indicators:14-c-1-title,"Number of countries making progress in ratifying, accepting and implementing through legal, policy and institutional frameworks, ocean-related instruments that implement international law, as reflected in the United Nations Convention on the Law of the Sea, for the conservation and sustainable use of the oceans and their resources","Anzahl der Staaten, die durch rechtliche, politische und institutionelle Rahmenbedingungen bei der Ratifizierung, Verabschiedung und Umsetzung meeresbezogener Instrumentarien, die internationales Recht zum Schutz und zur nachhaltigen Nutzung der Ozeane und ihrer Ressourcen (wie es dem Seerechtsübereinkommen der Vereinten Nationen entspricht) umsetzen, Fortschritte machen"
+global_indicators:15-1-1-title,Forest area as a proportion of total land area,Waldfläche als Anteil an der gesamten Landfläche
+global_indicators:15-1-2-title,"Proportion of important sites for terrestrial and freshwater biodiversity that are covered by protected areas, by ecosystem type","Anteil der bedeutenden Gebiete für Biodiversität an Land und im Süßwasser, die in Schutzgebieten liegen, nach Ökosystemtyp"
+global_indicators:15-2-1-title,Progress towards sustainable forest management,Fortschritt bei der nachhaltigen Waldbewirtschaftung
+global_indicators:15-3-1-title,Proportion of land that is degraded over total land area,"Anteil der Fläche, die von Bodendegradation betroffenen ist, an der gesamten Landfläche"
+global_indicators:15-4-1-title,Coverage by protected areas of important sites for mountain biodiversity,Abdeckung der wichtigen Gebiete für Biodiversität in den Bergen durch Schutzgebiete
+global_indicators:15-4-2-title,Mountain Green Cover Index,Index der Grünbedeckung in den Bergen
+global_indicators:15-5-1-title,Red List Index,Rote Liste Index
+global_indicators:15-6-1-title,"Number of countries that have adopted legislative, administrative and policy frameworks to ensure fair and equitable sharing of benefits","Anzahl der Staaten, die gesetzliche, administrative und politische Rahmenbedingungen geschaffen haben, um Vorteile gerecht und gleichmäßig zu verteilen"
+global_indicators:15-7-1-title,Proportion of traded wildlife that was poached or illicitly trafficked,"Anteil der gehandelten Wildtiere, die gewildert oder geschmuggelt wurden"
+global_indicators:15-8-1-title,Proportion of countries adopting relevant national legislation and adequately resourcing the prevention or control of invasive alien species,"Anteil der Staaten, die relevante nationale Rechtsvorschriften verabschiedet haben und Maßnahmen zur Vermeidung oder Bekämpfung von invasiven, gebietsfremden Arten angemessen finanzieren"
+global_indicators:15-9-1-title,Progress towards national targets established in accordance with Aichi Biodiversity Target 2 of the Strategic Plan for Biodiversity 2011–2020,"Fortschritte bei der Erreichung nationaler Ziele, die in Übereinstimmung mit dem Aichi-Biodiversitätsziel 2 des Strategischen Plans zur Biodiversität 2011-2020 beschlossen wurden"
+global_indicators:15-a-1-title,Official development assistance and public expenditure on conservation and sustainable use of biodiversity and ecosystems,Öffentliche Entwicklungszusammenarbeit und öffentliche Ausgaben für den Erhalt und die nachhaltige Nutzung biologischer Vielfalt und der Ökosysteme
+global_indicators:15-b-1-title,Official development assistance and public expenditure on conservation and sustainable use of biodiversity and ecosystems,Öffentliche Entwicklungszusammenarbeit und öffentliche Ausgaben für den Erhalt und die nachhaltige Nutzung biologischer Vielfalt und der Ökosysteme
+global_indicators:15-c-1-title,Proportion of traded wildlife that was poached or illicitly trafficked,"Anteil der gehandelten Wildtiere, die gewildert oder geschmuggelt wurden"
+global_indicators:16-1-1-title,"Number of victims of intentional homicide per 100,000 population, by sex and age","Anzahl der Opfern vorsätzlicher Tötung je 100.000 Einwohner, nach Geschlecht und Alter"
+global_indicators:16-1-2-title,"Conflict-related deaths per 100,000 population, by sex, age and cause","Konfliktbedingte  Todesfälle je 100.000 Einwohner, nach Geschlecht, Alter und Ursache"
+global_indicators:16-1-3-title,"Proportion of population subjected to (a) physical violence, (b) psychological violence and (c) sexual violence in the previous 12 months","Anteil der Bevölkerung, die in den vergangenen 12 Monaten (a) körperlicher Gewalt, (b) psychischer Gewalt und (c) sexueller Gewalt ausgesetzt war"
+global_indicators:16-1-4-title,Proportion of population that feel safe walking alone around the area they live,"Anteil der Bevölkerung, die sich in ihrem Wohngebiet alleine sicher fühlt"
+global_indicators:16-10-1-title,"Number of verified cases of killing, kidnapping, enforced disappearance, arbitrary detention and torture of journalists, associated media personnel, trade unionists and human rights advocates in the previous 12 months","Anzahl der bestätigten Fälle von Tötung, Entführung, erzwungenem Verschwinden, willkürlicher Inhaftierung und Folter von Journalisten, zugehörigem Medienpersonal, Gewerkschaftern und Menschenrechtsanwälten in den vergangenen 12 Monaten"
+global_indicators:16-10-2-title,"Number of countries that adopt and implement constitutional, statutory and/or policy guarantees for public access to information","Anzahl der Staaten, die verfassungsrechtliche, gesetzliche und/oder politische Garantieren für den öffentlichen Zugang zu Informationen verabschiedet und umgesetzt haben"
+global_indicators:16-2-1-title,Proportion of children aged 1–17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month,"Anteil der Kinder im Alter von 1-17 Jahren, die im vergangenen Monat eine körperliche Strafe und/oder psychische Aggression durch Betreuungspersonen erfahren haben"
+global_indicators:16-2-2-title,"Number of victims of human trafficking per 100,000 population, by sex, age and form of exploitation","Anzahl der Opfer von Menschenhandel je 100.000 Einwohner, nach Geschlecht, Alter und Art der Ausbeutung"
+global_indicators:16-2-3-title,Proportion of young women and men aged 18–29 years who experienced sexual violence by age 18,"Anteil der jungen Frauen und Männer im Alter von 18-29 Jahren, die bis zum Alter von 18 Jahren sexuelle Gewalt erlebt haben"
+global_indicators:16-3-1-title,Proportion of victims of violence in the previous 12 months who reported their victimization to competent authorities or other officially recognized conflict resolution mechanisms,"Anteil der Opfer von Gewalttaten in den vergangenen 12 Monaten, die ihre Viktimisierung den zuständigen Behörden oder anderen offiziell anerkannten Stellen der Konfliktaufarbeitung gemeldet haben"
+global_indicators:16-3-2-title,Unsentenced detainees as a proportion of overall prison population,Nicht-verurteilte Häftlinge als Anteil an der gesamten Gefangenenpopulation
+global_indicators:16-4-1-title,Total value of inward and outward illicit financial flows (in current United States dollars),Gesamtwert der ein- und ausgehenden illegalen Finanzströme (in aktuellen US-Dollar)
+global_indicators:16-4-2-title,"Proportion of seized, found or surrendered arms whose illicit origin or context has been traced or established by a competent authority in line with international instruments","Anteil der beschlagnahmten, aufgegriffenen oder abgegebenen Waffen, deren illegale Herkunft oder Verwendung von einer zuständigen Behörde in Übereinstimmung mit internationalen Methoden nachverfolgt oder festgestellt wurde"
+global_indicators:16-5-1-title,"Proportion of persons who had at least one contact with a public official and who paid a bribe to a public official, or were asked for a bribe by those public officials, during the previous 12 months","Anteil der Personen, die in den vergangenen 12 Monaten mindestens einen Kontakt zu einem öffentlichen Bediensteten hatten und diesem ein Bestechungsgeld gezahlt haben oder von diesen um eine Bestechung gebeten wurden"
+global_indicators:16-5-2-title,"Proportion of businesses that had at least one contact with a public official and that paid a bribe to a public official, or were asked for a bribe by those public officials during the previous 12 months","Anteil der Unternehmen, die in den vergangenen 12 Monaten mindestens einen Kontakt mit einem öffentlichen Bediensteten hatten und diesem ein Bestechungsgeld gezahlt haben oder von diesen um eine Bestechung gebeten wurden"
+global_indicators:16-6-1-title,"Primary government expenditures as a proportion of original approved budget, by sector (or by budget codes or similar)","Primärausgaben des Staates als Anteil am ursprünglich genehmigten Budget, nach Sektor (oder nach Haushaltscodes oder Ähnlichem)"
+global_indicators:16-6-2-title,Proportion of population satisfied with their last experience of public services,"Anteil der Bevölkerung, die mit ihrer letzten Erfahrung mit öffentlichen Dienstleistungen zufrieden war"
+global_indicators:16-7-1-title,"Proportions of positions (by sex, age, persons with disabilities and population groups) in public institutions (national and local legislatures, public service, and judiciary) compared to national distributions","Anteil der Stellen (nach Geschlecht, Alter, Personen mit Behinderungen und Bevölkerungsgruppen) in öffentlichen Institutionen (nationale und lokale Gesetzgebung, öffentlicher Dienst und Judikative) im Vergleich zur nationalen Verteilungen"
+global_indicators:16-7-2-title,"Proportion of population who believe decision-making is inclusive and responsive, by sex, age, disability and population group","Anteil der Bevölkerung, die glaubt, dass die Entscheidungsfindung inklusiv und bedarfsgesteuert ist, nach Geschlecht, Alter, Behinderung und Bevölkerungsgruppe"
+global_indicators:16-8-1-title,Proportion of members and voting rights of developing countries in international organizations,Anteil der Mitglieder und Stimmrechte von Entwicklungsländern in internationalen Organisationen
+global_indicators:16-9-1-title,"Proportion of children under 5 years of age whose births have been registered with a civil authority, by age","Anteil der Kinder unter 5 Jahre, deren Geburt von einer Zivilbehörde registriert wurde, nach Alter"
+global_indicators:16-a-1-title,Existence of independent national human rights institutions in compliance with the Paris Principles,Existenz von unabhängigen nationalen Menschenrechtsinstitutionen in Übereinstimmung mit den 'Pariser Grundsätzen
+global_indicators:16-b-1-title,Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months on the basis of a ground of discrimination prohibited under international human rights law,"Anteil der Bevölkerung, die angibt sich in den vergangenen 12 Monaten persönlich auf Basis einer Diskriminierung, die nach internationalem Menschenrecht verboten ist, diskriminiert oder belästigt gefühlt zu haben"
+global_indicators:17-1-1-title,"Total government revenue as a proportion of GDP, by source","Gesamte Staatseinnahmen als Anteil am BIP, nach Quelle"
+global_indicators:17-1-2-title,Proportion of domestic budget funded by domestic taxes,"Anteil des Haushaltsbudgets, das durch inländische Steuern finanziert wird"
+global_indicators:17-10-1-title,Worldwide weighted tariff-average,Weltweit gewichtete durchschnittliche Zollsätze
+global_indicators:17-11-1-title,Developing countries’ and least developed countries’ share of global exports,Anteil der Entwicklungsländer und der am wenigsten entwickelten Länder an den weltweiten Exporten
+global_indicators:17-12-1-title,"Average tariffs faced by developing countries, least developed countries and small island developing States","Durchschnittliche Zölle für Entwicklungsländer, am wenigsten entwickelte Länder und kleine Inselentwicklungsländer"
+global_indicators:17-13-1-title,Macroeconomic Dashboard,Makroökonomisches Dashboard
+global_indicators:17-14-1-title,Number of countries with mechanisms in place to enhance policy coherence of sustainable development,Anzahl der Staaten mit Mechanismen zur Verbesserung der Politikkohärenz bezogen auf nachhaltige Entwicklung
+global_indicators:17-15-1-title,Extent of use of country-owned results frameworks and planning tools by providers of development cooperation,Umfang der Nutzung ländereigener Ergebnisrahmenwerke und Planungsinstrumente durch  Anbieter von Entwicklungszusammenarbeit
+global_indicators:17-16-1-title,Number of countries reporting progress in multi-stakeholder development effectiveness monitoring frameworks that support the achievement of the sustainable development goals,"Anzahl der Staaten, die Fortschritte bei der Kontrolle der Multi-Stakeholder-Entwicklungswirksamkeit, die das Erreichen der Ziele für nachhaltige Entwicklung unterstützen, berichten"
+global_indicators:17-17-1-title,Amount of United States dollars committed to public-private and civil society partnerships,"Betrag an US-Dollar, der für (a) öffentlich-private Partnerschaften und (b) zivilgesellschaftliche Partnerschaften zugesagt wurde"
+global_indicators:17-18-1-title,"Proportion of sustainable development indicators produced at the national level with full disaggregation when relevant to the target, in accordance with the Fundamental Principles of Official Statistics","Anteil der Nachhaltigkeitsindikatoren, die auf nationaler Ebene vollständig - sofern gemäß dem Unterziel relevant - disaggregiert sind, in Übereinstimmung mit den Grundprinzipien der amtlichen Statistik"
+global_indicators:17-18-2-title,Number of countries that have national statistical legislation that complies with the Fundamental Principles of Official Statistics,Anzahl der Staaten mit einer nationalen statistischen Gesetzgebung im Einklang mit den Grundprinzipien der amtlichen Statistik
+global_indicators:17-18-3-title,"Number of countries with a national statistical plan that is fully funded and under implementation, by source of funding","Anzahl der Staaten mit einem nationalen statistischen Plan, der vollständig finanziert ist und umgesetzt wird, nach Quelle der Finanzierung"
+global_indicators:17-19-1-title,Dollar value of all resources made available to strengthen statistical capacity in developing countries,Dollar-Wert aller zur Verfügung gestellten Ressourcen zur Stärkung der statistischen Kapazität in Entwicklungsländern
+global_indicators:17-19-2-title,Proportion of countries that (a) have conducted at least one population and housing census in the last 10 years; and (b) have achieved 100 per cent birth registration and 80 per cent death registration,"Anteil der Staaten, die (a) in den letzten 10 Jahren mindestens eine Bevölkerungs- und Wohnungszählung durchgeführt haben und (b) 100% bei der Geburtenregistrierung sowie 80% bei der Registrierung der Sterbefälle erreicht haben"
+global_indicators:17-2-1-title,"Net official development assistance, total and to least developed countries, as a proportion of the Organization for Economic Cooperation and Development (OECD) Development Assistance Committee donors’ gross national income (GNI)","Öffentliche Nettoentwicklungsausgaben, insgesamt und an am wenigsten entwickelte Länder, als Anteil am Bruttonationaleinkommen (BNE) der Geberländer des Ausschusses für Entwicklungshilfe der Organisation für wirtschaftliche Zusammenarbeit und Entwicklung (OECD)"
+global_indicators:17-3-1-title,"Foreign direct investment (FDI), official development assistance and South-South cooperation as a proportion of total domestic budget","Ausländische Direktinvestitionen, öffentliche Entwicklungszusammenarbeit und Süd-Süd-Kooperationen als Anteil am gesamten Haushaltsbudget"
+global_indicators:17-3-2-title,Volume of remittances (in United States dollars) as a proportion of total GDP,Volumen der (Rück-)Überweisungen (in US-Dollar) als Anteil am gesamten BIP
+global_indicators:17-4-1-title,Debt service as a proportion of exports of goods and services,Schuldendienst als Anteil an Güter- und Dienstleistungsexporten
+global_indicators:17-5-1-title,Number of countries that adopt and implement investment promotion regimes for least developed countries,"Anzahl der Staaten, die Investitionsförderprogramme für die am wenigsten entwickelten Länder einführen und umsetzen"
+global_indicators:17-6-1-title,"Number of science and/or technology cooperation agreements and programmes between countries, by type of cooperation","Anzahl der Vereinbarungen und Programme über Wissenschafts- und/oder Technologie-Kooperationen zwischen Staaten, nach Art der Kooperation"
+global_indicators:17-6-2-title,"Fixed Internet broadband subscriptions per 100 inhabitants, by speed","Internet-Breitband-Verträge je 100 Einwohner, nach Geschwindigkeit"
+global_indicators:17-7-1-title,"Total amount of approved funding for developing countries to promote the development, transfer, dissemination and diffusion of environmentally sound technologies","Gesamtbetrag der für Entwicklungsländer genehmigten Mittel zur Förderung der Entwicklung, des Transfers, der öffentlichen Bereitstellung und der Verbreitung umweltfreundlicher Technologien"
+global_indicators:17-8-1-title,Proportion of individuals using the Internet,"Anteil der Einzelpersonen, die das Internet nutzen"
+global_indicators:17-9-1-title,"Dollar value of financial and technical assistance (including through North-South, South‐South and triangular cooperation) committed to developing countries","Dollar-Wert der finanziellen und technischen Zusammenarbeit (einschließlich durch Nord-Süd-, Süd-Süd- und Dreieckskooperationen) mit Entwicklungsländern"
+global_indicators:2-1-1-title,Prevalence of undernourishment,Prävalenz von Unterernährung
+global_indicators:2-1-2-title,"Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)","Prävalenz mittlerer oder schwerer Ernährungsunsicherheit in der Bevölkerung, basierend auf der Erfahrungsskala für Ernährungsunsicherheit (FIES)"
+global_indicators:2-2-1-title,Prevalence of stunting (height for age <-2 standard deviation from the median of the World Health Organization (WHO) Child Growth Standards) among children under 5 years of age,Prävalenz von Kleinwuchs (Körpergröße zum Alter < -2 Standardabweichung vom Median des Wachstumsstandards für Kinder der Weltgesundheitsorganisation (WHO)) bei Kindern unter 5 Jahren
+global_indicators:2-2-2-title,"Prevalence of malnutrition (weight for height >+2 or <-2 standard deviation from the median of the WHO Child Growth Standards) among children under 5 years of age, by type (wasting and overweight)","Prävalenz von Fehlernährung (Gewicht zur Körpergröße > +2 oder < -2 Standardabweichung vom Median des Wachstumsstandards für Kinder der WHO) bei Kindern unter 5 Jahren, nach der Art (Auszehrung und Übergewicht)"
+global_indicators:2-3-1-title,Volume of production per labour unit by classes of farming/pastoral/forestry enterprise size,Produktionsvolumen je Arbeitskraft nach Unternehmensgrößenklassen der Betriebsgröße in Land-/Weide-/Forstwirtschaft
+global_indicators:2-3-2-title,"Average income of small-scale food producers, by sex and indigenous status","Durchschnittliches Einkommen kleiner Nahrungsmittelproduzenten, nach Geschlecht und indigenem Status"
+global_indicators:2-4-1-title,Proportion of agricultural area under productive and sustainable agriculture,Anteil der landwirtschaftlichen Fläche unter produktiver und nachhaltiger Bewirtschaftung
+global_indicators:2-5-1-title,Number of plant and animal genetic resources for food and agriculture secured in either medium- or long-term conservation facilities,"Anzahl der pflanzlichen und tierischen genetischen Ressourcen für Ernährung und Landwirtschaft, die entweder in mittel- oder langfristigen Einrichtungen zu deren Erhalt gesichert sind"
+global_indicators:2-5-2-title,"Proportion of local breeds classified as being at risk, not at risk or at unknown level of risk of extinction","Anteil der einheimischen Arten, die als gefährdet oder nicht gefährdet klassifiziert sind oder deren Gefährdungsgrad unbekannt ist"
+global_indicators:2-a-1-title,The agriculture orientation index for government expenditures,Der Agriculture Orientation Index für staatliche Ausgaben
+global_indicators:2-a-2-title,Total official flows (official development assistance plus other official flows) to the agriculture sector,Öffentliche Leistungen insgesamt (öffentliche Entwicklungszusammenarbeit plus sonstige öffentliche Ausgaben) für den Landwirtschaftssektor
+global_indicators:2-b-1-title,Agricultural export subsidies,Ausfuhrsubventionen für landwirtschaftliche Güter
+global_indicators:2-b-2-title,Agricultural export subsidies,Ausfuhrsubventionen für landwirtschaftliche Güter
+global_indicators:2-c-1-title,Indicator of food price anomalies,Indikator zu Preisschwankungen bei Lebensmittelpreisen
+global_indicators:3-1-1-title,Maternal mortality ratio,Müttersterblichkeitsrate
+global_indicators:3-1-2-title,Proportion of births attended by skilled health personnel,Anteil der Geburten unter der Aufsicht von qualifiziertem Gesundheitspersonal
+global_indicators:3-2-1-title,Under‐five mortality rate,Sterblichkeitsrate von Kindern unter 5 Jahren
+global_indicators:3-2-2-title,Neonatal mortality rate,Sterblichkeitsrate von Neugeborenen
+global_indicators:3-3-1-title,"Number of new HIV infections per 1,000 uninfected population, by sex, age and key populations","Anzahl der HIV-Neuinfektionen je 1.000 nicht infizierter Einwohner, nach Geschlecht, Alter und Risikogruppen"
+global_indicators:3-3-2-title,"Tuberculosis incidence per 100,000 population",Tuberkulose-Inzidenz je 100.000 Einwohner
+global_indicators:3-3-3-title,"Malaria incidence per 1,000 population",Malaria-Inzidenz je 1.000 Einwohner
+global_indicators:3-3-4-title,"Hepatitis B incidence per 100,000 population",Hepatitis-B-Inzidenz je 100.000 Einwohner
+global_indicators:3-3-5-title,Number of people requiring interventions against neglected tropical diseases,"Anzahl der Personen, die Maßnahmen gegen vernachlässigte Tropenkrankheiten benötigen"
+global_indicators:3-4-1-title,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease","Sterblichkeitsrate infolge von Herz-Kreislauf-Erkrankungen, Krebs, Diabetes oder chronischen Atemwegserkrankungen"
+global_indicators:3-4-2-title,Suicide mortality rate,Sterblichkeitsrate bei Suizid
+global_indicators:3-5-1-title,"Coverage of treatment interventions (pharmacological, psychosocial and rehabilitation and aftercare services) for substance use disorders","Abdeckung durch Behandlungsmaßnahmen (pharmakologische, psychosoziale und Rehabilitations- und Nachsorgeleistungen) bei Substanzmissbrauch"
+global_indicators:3-5-2-title,"Harmful use of alcohol, defined according to the national context as alcohol per capita consumption (aged 15 years and older) within a calendar year in litres of pure alcohol","Schädlicher Alkoholkonsum, definiert gemäß den nationalen Gegebenheiten als Alkoholkonsum pro Kopf (15 Jahre und älter) innerhalb eines Kalenderjahres in Litern reinem Alkohol"
+global_indicators:3-6-1-title,Death rate due to road traffic injuries,Sterblichkeitsrate aufgrund von Straßenverkehrsunfällen
+global_indicators:3-7-1-title,Proportion of women of reproductive age (aged 15–49 years) who have their need for family planning satisfied with modern methods,"Anteil der Frauen im gebärfähigen Alter (15-49 Jahre), die ihren Anspruch auf Familienplanung durch moderne Methoden umsetzen können"
+global_indicators:3-7-2-title,"Adolescent birth rate (aged 10–14 years; aged 15–19 years) per 1,000 women in that age group",Geburtenrate von Jugendlichen (10-14 Jahre 15-19 Jahre) je 1.000 Frauen derselben Altersgruppe
+global_indicators:3-8-1-title,"Coverage of essential health services (defined as the average coverage of essential services based on tracer interventions that include reproductive, maternal, newborn and child health, infectious diseases, non-communicable diseases and service capacity and access, among the general and the most disadvantaged population)","Abdeckung der grundlegenden Gesundheitsleistungen (definiert als durchschnittliche Abdeckung der grundlegenden Leistungen basierend auf Tracer-Interventionen, einschließlich reproduktiver, Mütter-, Neugeborenen- und Kindergesundheit, infektiöser Krankheiten und nicht übertragbarer Krankheiten sowie Kapazitäten und Zugang zu Serviceleistungen, innerhalb der allgemein und der überwiegend benachteiligten Bevölkerung)"
+global_indicators:3-8-2-title,Proportion of population with large household expenditures on health as a share of total household expenditure or income,Anteil der Bevölkerung mit hohen Haushaltsausgaben für Gesundheit als Anteil an den gesamten Haushaltsausgaben oder -einkommen
+global_indicators:3-9-1-title,Mortality rate attributed to household and ambient air pollution,Sterblichkeitsrate infolge von Luftverschmutzung im Haushalt und der Umgebung
+global_indicators:3-9-2-title,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene (exposure to unsafe Water, Sanitation and Hygiene for All (WASH) services)","Sterblichkeitsrate infolge von Kontakt mit verunreinigtem Wasser, unzureichenden sanitären Verhältnissen und mangelnder Hygiene (Kontakt mit unzureichenden ""Wasser, Sanitäreinrichtungen und Hygiene für alle""-Leistungen (WASH))"
+global_indicators:3-9-3-title,Mortality rate attributed to unintentional poisoning,Sterblichkeitsrate infolge von unbeabsichtigtem Vergiften
+global_indicators:3-a-1-title,Age-standardized prevalence of current tobacco use among persons aged 15 years and older,Altersstandardisierte Prävalenz des aktuellen Tabakkonsums bei Personen im Alter von 15 Jahren und älter
+global_indicators:3-b-1-title,Proportion of the target population covered by all vaccines included in their national programme,"Anteil der Zielbevölkerung, die alle Impfungen laut nationalen Programm besitzt"
+global_indicators:3-b-2-title,Total net official development assistance to medical research and basic health sectors,Gesamte öffentliche Netto-Entwicklungszusammenarbeit für medizinische Forschung und grundlegende Gesundheitsversorgung
+global_indicators:3-b-3-title,Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis,"Anteil der Gesundheitseinrichtungen, die über einen Kernsatz relevanter und wichtiger Medikamente verfügen, die nachhaltig verfügbar und bezahlbar sind"
+global_indicators:3-c-1-title,Health worker density and distribution,Dichte und Verteilung von medizinischem Fachpersonal
+global_indicators:3-d-1-title,International Health Regulations (IHR) capacity and health emergency preparedness,Kapazitäten für internationale Gesundheitsvorschriften (IGV) und Gesundheitsnotfallvorsorge
+global_indicators:4-1-1-title,"Proportion of children and young people (a) in grades 2/3; (b) at the end of primary; and (c) at the end of lower secondary achieving at least a minimum proficiency level in (i) reading and (ii) mathematics, by sex","Anteil der Kinder und Jugendlichen, die (a) in Klasse 2/3 (b) am Ende der Grundschule und (c) am Ende der Sekundarstufe I ein Mindestleistungsniveau in (i) Lesen und (ii) Mathematik erreichen, nach Geschlecht"
+global_indicators:4-2-1-title,"Proportion of children under 5 years of age who are developmentally on track in health, learning and psychosocial well-being, by sex","Anteil der Kinder unter 5 Jahren mit einer altersgemäßen  Entwicklung hinsichtlich Gesundheit, Lernen und psycho-sozialem Wohlbefinden, nach Geschlecht"
+global_indicators:4-2-2-title,"Participation rate in organized learning (one year before the official primary entry age), by sex","Teilnahmequote an frühkindlicher Bildung (ein Jahr vor dem offiziellen Einschulungsalter), nach Geschlecht"
+global_indicators:4-3-1-title,"Participation rate of youth and adults in formal and non-formal education and training in the previous 12 months, by sex","Teilnahmequote von Jugendlichen und Erwachsenen an formaler und non-formaler Bildung und Ausbildung in den vergangenen 12 Monaten, nach Geschlecht"
+global_indicators:4-4-1-title,"Proportion of youth and adults with information and communications technology (ICT) skills, by type of skill","Anteil der Jugendlichen und Erwachsenen mit Kompetenzen in Informations- und Kommunikationstechnologie (IKT), nach Art der Kompetenz"
+global_indicators:4-5-1-title,"Parity indices (female/male, rural/urban, bottom/top wealth quintile and others such as disability status, indigenous peoples and conflict-affected, as data become available) for all education indicators on this list that can be disaggregated","Paritäts-Indizes (weiblich/männlich, rural/urban, unterstes/oberstes Vermögensquantil und sonstige, wie z. B. Grad der Behinderung, indigene Bevölkerung und konfliktbetroffen, sobald Daten verfügbar werden) für alle Bildungsindikatoren dieser Liste, die disaggregiert werden können"
+global_indicators:4-6-1-title,"Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy and (b) numeracy skills, by sex","Anteil der Bevölkerung einer bestimmten Altersgruppe, die über ein festes Mindestniveau an funktionalen (a) Lese- und (b) Rechenfähigkeiten verfügt, nach Geschlecht"
+global_indicators:4-7-1-title,"Extent to which (i) global citizenship education and (ii) education for sustainable development, including gender equality and human rights, are mainstreamed at all levels in (a) national education policies; (b) curricula; (c) teacher education; and (d) student assessment","Umfang, in dem (i) Bildung zu globaler Staatsbürgerschaft und (ii) Bildung für nachhaltige Entwicklung, einschließlich der Geschlechtergleichstellung und der Menschenrechte, auf allen Ebenen in: (a) nationale Bildungspolitik, (b) Lehrpläne, (c) Lehrerausbildung und (d) Schulleistungsuntersuchung berücksichtigt werden"
+global_indicators:4-a-1-title,Proportion of schools with access to (a) electricity; (b) the Internet for pedagogical purposes; (c) computers for pedagogical purposes; (d) adapted infrastructure and materials for students with disabilities; (e) basic drinking water; (f) single-sex basic sanitation facilities; and (g) basic handwashing facilities (as per the WASH indicator definitions),Anteil der Schulen mit Zugang zu: (a) Strom (b) Internet für Unterrichtszwecke (c) Computern für Unterrichtszwecke (d) angepasste Infrastruktur und Materialien für Schüler mit Behinderungen (e) Trinkwasser (f) geschlechterspezifischen sanitären Anlagen und g) grundlegende Ausstattung zum Händewaschen (gemäß den WASH-Indikator-Definitionen)
+global_indicators:4-b-1-title,Volume of official development assistance flows for scholarships by sector and type of study,Umfang der Ausgaben öffentlicher Entwicklungszusammenarbeit für Stipendien nach Sektor und Art des Studiums
+global_indicators:4-c-1-title,Proportion of teachers in: (a) pre-primary; (b) primary; (c) lower secondary; and (d) upper secondary education who have received at least the minimum organized teacher training (e.g. pedagogical training) pre-service or in-service required for teaching at the relevant level in a given country,"Anteil der Lehrer in: (a) Vorschule (b) Grundschule (c ) Sekundarstufe I und (d) Sekundarstufe II, die vor oder während ihrer Tätigkeit mindestens die geforderte Grundausbildung (z. B. pädagogisches Training) zum Unterrichten für die entsprechende Klassenstufe im jeweiligen Land erhalten haben"
+global_indicators:5-1-1-title,"Whether or not legal frameworks are in place to promote, enforce and monitor equality and non‐discrimination on the basis of sex","Existenz gesetzlicher Rahmenbedingungen, die Gleichstellung und Nicht-Diskriminierung aufgrund des Geschlechts fördern, durchsetzen und überwachen"
+global_indicators:5-2-1-title,"Proportion of ever-partnered women and girls aged 15 years and older subjected to physical, sexual or psychological violence by a current or former intimate partner in the previous 12 months, by form of violence and by age","Anteil der Frauen und Mädchen im Alter von 15 Jahren und älter, die sich in ihrer jetzigen oder früheren Partnerschaft physischer, sexueller oder psychischer Gewalt durch ihren aktuellen oder früheren Intimpartner in den vergangenen 12 Monaten ausgesetzt waren, nach Art der Gewalt und Alter"
+global_indicators:5-2-2-title,"Proportion of women and girls aged 15 years and older subjected to sexual violence by persons other than an intimate partner in the previous 12 months, by age and place of occurrence","Anteil der Frauen und Mädchen im Alter von 15 Jahren und älter, die sexueller Gewalt durch andere Personen als einem Intimpartner in den vergangenen 12 Monaten ausgesetzt waren, nach Alter und Ort des Geschehens"
+global_indicators:5-3-1-title,Proportion of women aged 20–24 years who were married or in a union before age 15 and before age 18,"Anteil der 20- bis 24-jährigen Frauen, die vor einem Alter von 15 oder 18 Jahren verheiratet oder in einer vergleichbaren Verbindung waren"
+global_indicators:5-3-2-title,"Proportion of girls and women aged 15–49 years who have undergone female genital mutilation/cutting, by age","Anteil der Mädchen und Frauen im Alter von 15-49 Jahren, die weiblicher Genitalverstümmelung unterzogen wurden, nach Alter"
+global_indicators:5-4-1-title,"Proportion of time spent on unpaid domestic and care work, by sex, age and location","Anteil des Zeitaufwands für unbezahlte Haus- und Pflegearbeit, nach Geschlecht, Alter und Ort"
+global_indicators:5-5-1-title,Proportion of seats held by women in (a) national parliaments and (b) local governments,Frauenanteil in (a) nationalen Parlamenten und (b) lokalen Regierungen
+global_indicators:5-5-2-title,Proportion of women in managerial positions,Frauenanteil an  Führungspositionen
+global_indicators:5-6-1-title,"Proportion of women aged 15–49 years who make their own informed decisions regarding sexual relations, contraceptive use and reproductive health care","Anteil der Frauen im Alter von 15-49 Jahren, die eigenständig fundierte Entscheidungen über sexuelle Beziehungen, Verhütung und reproduktive Gesundheitsversorgung treffen"
+global_indicators:5-6-2-title,"Number of countries with laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care, information and education","Anzahl der Staaten mit Gesetzen und Vorschriften, die einen uneingeschränkten und gleichberechtigten Zugang für Frauen und Männer im Alter von 15 Jahren und älter zu sexuellen und reproduktiven Gesundheitsleistungen, Information und Bildung garantieren"
+global_indicators:5-a-1-title,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex; and (b) share of women among owners or rights-bearers of agricultural land, by type of tenure","(a) Anteil der gesamten landwirtschaftlichen Bevölkerung mit Eigentum oder sicheren Rechten an landwirtschaftlichen Flächen, nach Geschlecht und (b) Anteil der Frauen an den Eigentümern oder Rechteinhabern landwirtschaftlicher Flächen, nach Art der Besitzverhältnisse"
+global_indicators:5-a-2-title,Proportion of countries where the legal framework (including customary law) guarantees women’s equal rights to land ownership and/or control,"Anteil der Staaten, in denen der Rechtsrahmen (einschließlich Gewohnheitsrecht) Frauen die gleichen Rechte auf Landeigentum und/oder -nutzung garantiert"
+global_indicators:5-b-1-title,"Proportion of individuals who own a mobile telephone, by sex","Anteil der Personen, die ein Mobiltelefon besitzen, nach Geschlecht"
+global_indicators:5-c-1-title,Proportion of countries with systems to track and make public allocations for gender equality and women’s empowerment,Anteil der Staaten mit Systemen zur transparenten Verfolgung und Veröffentlichung von Zuwendungen für Geschlechtergleichstellung und Stärkung der Rolle der Frau
+global_indicators:6-1-1-title,Proportion of population using safely managed drinking water services,Anteil der Bevölkerung mit Zugang zu einer sicheren Trinkwasserversorgung
+global_indicators:6-2-1-title,"Proportion of population using safely managed sanitation services, including a handwashing facility with soap and water",Anteil der Bevölkerung mit (a) Zugang zu sicherer Sanitärversorgung und (b) einem Handwaschbecken mit Seife und Wasser
+global_indicators:6-3-1-title,Proportion of wastewater safely treated,Anteil des sicher behandelten Abwassers
+global_indicators:6-3-2-title,Proportion of bodies of water with good ambient water quality,Anteil der Gewässer mit guter Wasserqualität
+global_indicators:6-4-1-title,Change in water-use efficiency over time,Veränderung der Wassernutzungseffizienz im Zeitablauf
+global_indicators:6-4-2-title,Level of water stress: freshwater withdrawal as a proportion of available freshwater resources,Grad der Wasserknappheit: Süßwasserentnahme als Anteil an den verfügbaren Süßwasserressourcen
+global_indicators:6-5-1-title,Degree of integrated water resources management implementation (0 to 100),Grad der Umsetzung eines integrierten Wasserressourcenmanagements (0-100)
+global_indicators:6-5-2-title,Proportion of transboundary basin area with an operational arrangement for water cooperation,Anteil der grenzüberschreitenden Flussgebiete mit einer operativen Vereinbarung zur Wasserkooperation
+global_indicators:6-6-1-title,Change in the extent of water-related ecosystems over time,Veränderung des Umfangs wasserbezogener Ökosysteme im Zeitablauf
+global_indicators:6-a-1-title,Amount of water- and sanitation-related official development assistance that is part of a government-coordinated spending plan,"Betrag der wasser- und sanitärbezogenen öffentlichen Entwicklungszusammenarbeit, die Teil eines geregelten öffentlichen Haushaltsplans ist"
+global_indicators:6-b-1-title,Proportion of local administrative units with established and operational policies and procedures for participation of local communities in water and sanitation management,Anteil der lokalen Verwaltungseinheiten mit etablierten und operativen Strategien und Verfahren zur Beteiligung der Gemeinden am Wasser- und Abwassermanagement
+global_indicators:7-1-1-title,Proportion of population with access to electricity,Anteil der Bevölkerung mit Zugang zu Elektrizität
+global_indicators:7-1-2-title,Proportion of population with primary reliance on clean fuels and technology,Anteil der Bevölkerung mit überwiegender Abhängigkeit von sauberen Energieträgern und Technologien
+global_indicators:7-2-1-title,Renewable energy share in the total final energy consumption,Anteil der erneuerbaren Energien am gesamten Endenergieverbrauch
+global_indicators:7-3-1-title,Energy intensity measured in terms of primary energy and GDP,Energieintensität gemessen als Primärenergie zum BIP
+global_indicators:7-a-1-title,"International financial flows to developing countries in support of clean energy research and development and renewable energy production, including in hybrid systems","Internationale Finanzströme an Entwicklungsländer zur Förderung von Forschung und Entwicklung im Bereich sauberer Energien sowie erneuerbarer Energieproduktion, einschließlich Hybridsystemen"
+global_indicators:7-b-1-title,Investments in energy efficiency as a proportion of GDP and the amount of foreign direct investment in financial transfer for infrastructure and technology to sustainable development services,Investitionen in Energieeffizienz als Anteil am BIP und der Betrag der ausländischen Direktinvestitionen in Form von Finanzmitteln für Infrastruktur und Technologien der Dienstleistungen für nachhaltige Entwicklung
+global_indicators:8-1-1-title,Annual growth rate of real GDP per capita,Jährliche Wachstumsrate des realen BIP pro Kopf
+global_indicators:8-10-1-title,"(a) Number of commercial bank branches per 100,000 adults and (b) number of automated teller machines (ATMs) per 100,000 adults",(a) Anzahl der Bankfilialen je 100.000 Erwachsener und (b) Anzahl der Geldautomaten je 100.000 Erwachsener
+global_indicators:8-10-2-title,Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider,Anteil der Erwachsenen (15 Jahre und älter) mit einem Konto bei einer Bank oder einem anderen Finanzinstitut oder einem mobilen Geldleistungsanbiete
+global_indicators:8-2-1-title,Annual growth rate of real GDP per employed person,Jährliche Wachstumsrate des realen BIP je Beschäftigten
+global_indicators:8-3-1-title,"Proportion of informal employment in non‐agriculture employment, by sex","Anteil der informellen Beschäftigung an allen Beschäftigungsverhältnissen außerhalb der Landwirtschaft, nach Geschlecht"
+global_indicators:8-4-1-title,"Material footprint, material footprint per capita, and material footprint per GDP","Rohstoff-Fußabdruck, Rohstoff-Fußabdruck pro Kopf und Rohstoff-Fußabdruck pro BIP"
+global_indicators:8-4-2-title,"Domestic material consumption, domestic material consumption per capita, and domestic material consumption per GDP","Inländische Materialverwendung, inländische Materialverwendung pro Kopf und inländische Materialverwendung pro BIP"
+global_indicators:8-5-1-title,"Average hourly earnings of female and male employees, by occupation, age and persons with disabilities","Durchschnittlicher Stundenlohn von weiblichen und männlichen Beschäftigten, nach Beruf, Alter und Personen mit Behinderungen"
+global_indicators:8-5-2-title,"Unemployment rate, by sex, age and persons with disabilities","Arbeitslosenquote, nach Geschlecht, Alter und Personen mit Behinderungen"
+global_indicators:8-6-1-title,"Proportion of youth (aged 15–24 years) not in education, employment or training","Anteil der Jugendlichen (im Alter von 15-24 Jahren), die nicht in schulischer Ausbildung, in Beschäftigung oder Berufsaus- oder -weiterbildung sind"
+global_indicators:8-7-1-title,"Proportion and number of children aged 5–17 years engaged in child labour, by sex and age","Anteil und Anzahl der Kinder im Alter von 5-17 Jahren, die Kinderarbeit verrichten, nach Geschlecht und Alter"
+global_indicators:8-8-1-title,"Frequency rates of fatal and non-fatal occupational injuries, by sex and migrant status","Häufigkeitsraten von tödlichen und nicht-tödlichen Arbeitsunfällen, nach Geschlecht und Migrationsstatus"
+global_indicators:8-8-2-title,"Level of national compliance with labour rights (freedom of association and collective bargaining) based on International Labour Organization (ILO) textual sources and national legislation, by sex and migrant status","Grad der nationalen Einhaltung der Arbeitnehmerrechte (Vereinigungsfreiheit und Tarifverhandlungen) basierend auf Textquellen der Internationalen Arbeitsorganisation (ILO) und nationaler Gesetzesgrundlagen, nach Geschlecht und Migrationsstatus"
+global_indicators:8-9-1-title,Tourism direct GDP as a proportion of total GDP and in growth rate,Direktes BIP des Tourismus als Anteil am gesamten BIP und als Wachstumsrate
+global_indicators:8-9-2-title,Proportion of jobs in sustainable tourism industries out of total tourism jobs,Anteil der Arbeitsplätze im nachhaltigen Tourismus an den gesamten Arbeitsplätzen im Tourismusbereich
+global_indicators:8-a-1-title,Aid for Trade commitments and disbursements,Aid for Trade-Zusagen und -Auszahlungen
+global_indicators:8-b-1-title,"Existence of a developed and operationalized national strategy for youth employment, as a distinct strategy or as part of a national employment strategy","Existenz einer entwickelten und operationalisierten nationalen Strategie zu Jugendbeschäftigung , als eigenständige Strategie oder als Teil einer nationalen Beschäftigungsstrategie"
+global_indicators:9-1-1-title,Proportion of the rural population who live within 2 km of an all-season road,"Anteil der ländlichen Bevölkerung, die im Umkreis von 2 km entfernt an einer ganzjährig befahrbaren Straße lebt"
+global_indicators:9-1-2-title,"Passenger and freight volumes, by mode of transport","Passagiere und Frachtvolumen, nach der Art des Transports"
+global_indicators:9-2-1-title,Manufacturing value added as a proportion of GDP and per capita,Wertschöpfung des Verarbeitenden Gewerbes als Anteil am BIP und pro Kopf
+global_indicators:9-2-2-title,Manufacturing employment as a proportion of total employment,Beschäftigung im Verarbeitenden Gewerbe als Anteil an der Beschäftigung insgesamt
+global_indicators:9-3-1-title,Proportion of small-scale industries in total industry value added,Anteil der kleiner Unternehmen an der gesamten Wertschöpfung der Industrie
+global_indicators:9-3-2-title,Proportion of small-scale industries with a loan or line of credit,Anteil kleiner Unternehmen mit einem Kredit oder einem Kreditrahmen
+global_indicators:9-4-1-title,CO2 emission per unit of value added,CO2-Emissionen pro Wertschöpfungseinheit
+global_indicators:9-5-1-title,Research and development expenditure as a proportion of GDP,Ausgaben für Forschung und Entwicklung als Anteil am BIP
+global_indicators:9-5-2-title,Researchers (in full-time equivalent) per million inhabitants,Wissenschaftler (in Vollzeit-Äquivalenten) je eine Million Einwohner
+global_indicators:9-a-1-title,Total official international support (official development assistance plus other official flows) to infrastructure,Gesamte öffentliche internationale Unterstützung (öffentliche Entwicklungszusammenarbeit und andere öffentliche Mittel) für Infrastruktu
+global_indicators:9-b-1-title,Proportion of medium and high-tech industry value added in total value added,Anteil der Wertschöpfung der Medium- und High-Tech-Industrie an der Wertschöpfung insgesamt
+global_indicators:9-c-1-title,"Proportion of population covered by a mobile network, by technology","Anteil der Bevölkerung, die durch ein Mobilfunknetz abgedeckt ist, nach Technologie"
+frontpage:heading,%name data for Sustainable Development Goal indicators,%name daten zu den Indikatoren der Ziele für nachhaltige Entwicklung
+frontpage:instructions,"Click on each goal, or %before_link search, %after_link for %name statistics for Sustainable Development Goal global indicators.",Klicken Sie auf die einzelnen Ziele um zu den Daten zu den Daten zu den Indikatoren der Ziele für nachhaltige Entwicklung für %name zu gelangen. Oder %before_link suchen %after_link Sie gezielt nach spezifischenThemen.
+global_goals:1-short,No poverty,Keine Armut
+global_goals:1-title,End poverty in all its forms everywhere,Armut in allen ihren Formen und überall beenden
+global_goals:10-short,Reduced inequalities,Weniger Ungleichheiten
+global_goals:10-title,Reduce inequality within and among countries,Ungleichheit in und zwischen Ländern verringern
+global_goals:11-short,Sustainable cities & communities,Nachhaltige Städte und Gemeinden
+global_goals:11-title,"Make cities and human settlements inclusive, safe, resilient and sustainable","Städte und Siedlungen inklusiv, sicher, widerstandsfähig und nachhaltig gestalten"
+global_goals:12-short,Responsible consumption and production,Verantwortungsvolle Konsum- und Produktionsmuster
+global_goals:12-title,Ensure sustainable consumption and production patterns,Nachhaltige Konsum- und Produktionsmuster sicherstellen
+global_goals:13-short,Climate action,Maßnahmen zum Klimaschutz
+global_goals:13-title,Take urgent action to combat climate change and its impacts,Umgehend Maßnahmen zur Bekämpfung des Klimawandels und seiner Auswirkungen ergreifen
+global_goals:14-short,Life below water,Leben unter Wasser
+global_goals:14-title,"Conserve and sustainably use the oceans, seas and marine resources for sustainable development","Ozeane, Meere und Meeresressourcen im Sinne nachhaltiger Entwicklung erhalten und nachhaltig nutzen"
+global_goals:15-short,Life on land,Leben an Land
+global_goals:15-title,"Protect, restore and promote sustainable use of terrestrial ecosystems, sustainably manage forests, combat desertification, and halt and reverse land degradation and halt biodiversity loss","Landökosysteme schützen, wiederherstellen und ihre nachhaltige Nutzung fördern, Wälder nachhaltig bewirtschaften, Wüstenbildung bekämpfen, Bodendegradation beenden und umkehren und "
+global_goals:16-short,Peace and justice - strong institutions,"Frieden, Gerechtigkeit und starke Institutionen"
+global_goals:16-title,"Promote peaceful and inclusive societies for sustainable development, provide access to justice for all and build effective, accountable and inclusive institutions at all levels","Friedliche und inklusive Gesellschaften für eine nachhaltige Entwicklung fördern, allen Menschen Zugang zur Justiz ermöglichen und leistungsfähige, rechenschaftspflichtige und inklusive Institutionen auf allen Ebenen aufbauen"
+global_goals:17-short,Partnerships for the goals,Partnerschaften zur Erreichung der Ziele
+global_goals:17-title,Strengthen the means of implementation and revitalize the Global Partnership for Sustainable Development,Umsetzungsmittel stärken und die Globale Partnerschaft für nachhaltige Entwicklung mit neuem Leben erfüllen
+global_goals:2-short,Zero hunger,Kein Hunger
+global_goals:2-title,"End hunger, achieve food security and improved nutrition and promote sustainable agriculture","Den Hunger beenden, Ernährungssicherheit und eine bessere Ernährung erreichen und eine nachhaltige Landwirtschaft fördern"
+global_goals:3-short,Good health and well-being,Gesundheit und Wohlergehen
+global_goals:3-title,Ensure healthy lives and promote well-being for all at all ages,Ein gesundes Leben für alle Menschen jeden Alters gewährleisten und ihr Wohlergehen fördern
+global_goals:4-short,Quality education,Hochwertige Bildung
+global_goals:4-title,Ensure inclusive and equitable quality education and promote lifelong learning opportunities for all,"Inklusive, gleichberechtigte und hochwertige Bildung gewährleisten und Möglichkeiten lebenslangen Lernens für alle fördern"
+global_goals:5-short,Gender equality,Geschlechtergleichstellung
+global_goals:5-title,Achieve gender equality and empower all women and girls,Geschlechtergleichstellung erreichen und alle Frauen und Mädchen zur Selbstbestimmung befähigen
+global_goals:6-short,Clean water and sanitation,Sauberes Wasser und Sanitärversorgung
+global_goals:6-title,Ensure availability and sustainable management of water and sanitation for all,Verfügbarkeit und nachhaltige Bewirtschaftung von Wasser und Sanitärversorgung für alle gewährleisten
+global_goals:7-short,Affordable and clean energy,Bezahlbare und saubere Energie
+global_goals:7-title,"Ensure access to affordable, reliable, sustainable and modern energy for all","Zugang zu bezahlbarer, verlässlicher, nachhaltiger und moderner Energie für alle sichern"
+global_goals:8-short,Decent jobs and economic growth,Menschenwürdige Arbeit und Wirtschaftswachstum
+global_goals:8-title,"Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all","Dauerhaftes, breitenwirksames und nachhaltiges Wirtschaftswachstum, produktive Vollbeschäftigung und menschenwürdige Arbeit für alle fördern"
+global_goals:9-short,"Industry, innovation and infrastructure","Industrie, Innovationen und Infrastruktur"
+global_goals:9-title,"Build resilient infrastructure, promote inclusive and sustainable industrialization and foster innovation","Eine widerstandsfähige Infrastruktur aufbauen, breitenwirksame und nachhaltige Industrialisierung fördern und Innovationen unterstützen"
+menu:about,About,Über uns
+menu:contact_us,Contact us,Kontakt
+menu:cookies,Cookies,Cookies
+menu:faq,FAQ,FAQ
+menu:guidance,Guidance,Technische Hinweise
+menu:menu,Menu,Menü
+menu:publications,Publications,Veröffentlichungen
+menu:reporting_status,Reporting Status,Berichtsstatus
+menu:updates,Updates,
+indicator:chart,Chart,Grafik
+indicator:clear_all,Clear all,Auswahl aufheben
+indicator:clear_selections,Clear selections,Auswahl aufheben
+indicator:dataset_size_warning,There are too many datasets to show on the chart. Not all will be shown until you remove some selections.,Zu viele Zeitreihen ausgewählt um diese in einer Grafik darzustellen. Es können nicht alle Zeitreihen dargestellt werden
+indicator:download_chart,Download Chart CSV,Grafik im CSV-Format speichern
+indicator:download_chart_image,Download Chart Image,Grafik herunterladen
+indicator:download_chart_image_title,Download chart as image,Grafik als Bild herunterladen
+indicator:download_csv,Download CSV,im CSV-Format speichern
+indicator:download_csv_title,Download as CSV,im CSV-Format speichern
 indicator:download_headline,Download Headline CSV,Speichern der Headline im CSV-Format
 indicator:download_headline_title,Download headline data as CSV,Speichern der Headline im CSV-Format
-indicator:download_source,출처 CSV 내려받기,Daten im CSV-Format speichern
-indicator:download_source_title,출처 CSV 내려받기,Daten im CSV-Format speichern
-indicator:download_table,표 CSV 내려받기,Tabelle im CSV-Format speichern
-indicator:edit,자료 수정,Bearbeiten
-indicator:edit_data,데이터 수정,Daten bearbeiten
-indicator:edit_metadata,메타데이터 수정,Metadaten bearbeiten
-indicator:footnote,주석,Fußnote
-indicator:geographical_area,지역,Geographische Abdeckung
-indicator:global_metadata,UN 메타데이터,Globale Metadaten
-indicator:global_metadata_blurb,,"Diese Übersicht stellt Informationen zu den globalen Metadaten des jeweiligen SDG-Indikators bereit. Die <a href=""""https://unstats.un.org/sdgs/metadata/"""">globalen Metadaten</a> werden durch die Statistische Division der Vereinten Nationen bereitgestellt."
-indicator:legend_help,범례의 개별 항목을 클릭하면 해당 항목을 그래프에서 삭제하실 수 있습니다.,Klicken Sie auf die Legende um Zeitreihen aus der Grafik zu entfernen.
-indicator:loading_map,지도를 불어오고 있습니다.,Karte wird geladen
-indicator:map,지도,Karte
-indicator:national_metadata,통계설명자료,Nationale Metadaten
-indicator:national_metadata_blurb,,"Im Folgenden werden Metadaten zu den national verfügbaren Zeitreihen für %country_name zum jeweiligen globalen SDG-Indikator bereitgestellt. Die angegebene Datenreihe ist die vergleichbarste, national verfügbare Zeitreihe. Entspricht die angezeigte Datenreihe voll den globalen Metadaten, so ist dennoch auf diese nationalen Metadaten für methodische sowie weitere länderspezifische Informationen hinzuweisen."
+indicator:download_source,Download Source CSV,Daten im CSV-Format speichern
+indicator:download_source_title,Download source data as CSV,Daten im CSV-Format speichern
+indicator:download_table,Download Table CSV,Tabelle im CSV-Format speichern
+indicator:edit,Edit,Bearbeiten
+indicator:edit_data,Edit Data,Daten bearbeiten
+indicator:edit_metadata,Edit Metadata,Metadaten bearbeiten
+indicator:footnote,Footnote,Fußnote
+indicator:geographical_area,Geographical Area,Geographische Abdeckung
+indicator:global_metadata,Global Metadata,Globale Metadaten
+indicator:global_metadata_blurb,"This table provides information on metadata for SDG indicators as defined by the UN Statistical Commission. <a href=""https://unstats.un.org/sdgs/metadata/"">Complete global metadata</a> is provided by the UN Statistics Division.","Diese Übersicht stellt Informationen zu den globalen Metadaten des jeweiligen SDG-Indikators bereit. Die <a href=""""https://unstats.un.org/sdgs/metadata/"""">globalen Metadaten</a> werden durch die Statistische Division der Vereinten Nationen bereitgestellt."
+indicator:legend_help,Click on the legend to remove individual lines from the chart.,Klicken Sie auf die Legende um Zeitreihen aus der Grafik zu entfernen.
+indicator:loading_map,Loading map,Karte wird geladen
+indicator:map,Map,Karte
+indicator:national_metadata,National Metadata,Nationale Metadaten
+indicator:national_metadata_blurb,"This table provides metadata for the actual indicator available from %country_name statistics closest to the corresponding global SDG indicator. Please note that even when the global SDG indicator is fully available from %country_adjective statistics, this table should be consulted for information on national methodology and other %country_adjective-specific metadata information.","Im Folgenden werden Metadaten zu den national verfügbaren Zeitreihen für %country_name zum jeweiligen globalen SDG-Indikator bereitgestellt. Die angegebene Datenreihe ist die vergleichbarste, national verfügbare Zeitreihe. Entspricht die angezeigte Datenreihe voll den globalen Metadaten, so ist dennoch auf diese nationalen Metadaten für methodische sowie weitere länderspezifische Informationen hinzuweisen."
 indicator:no_data_hint,No options available because of filters above,Aufgrund der bereits getroffenen Auswahl sind keine weiteren Auswahlmöglichkeiten verfügbar.
-indicator:select_all,모두 선택,Alle auswählen
-indicator:series_help,상세한 정보를 원하시는 세부 항목을 아래에서 선택해 주시기 바랍니다.,"Wählen Sie Disaggregationsdimensionen aus, damit die verfügbaren Disaggregationskategorien angezeigt werden. Manche werden erst angezeigt, sobald eine Überkategorie ausgewählt wird."
-indicator:source,출처,Datenquelle
-indicator:sources,출처 정보,Datenquellen
-indicator:sub_categories,세부 항목,Disaggregationsdimensionen
-indicator:table,표,Tabelle
-indicator:unit_of_measurement,단위,Einheit
+indicator:select_all,Select all,Alle auswählen
+indicator:series_help,Choose categories from the dropdowns below to see different breakdowns of the data. Some will not be available until a higher level is chosen.,"Wählen Sie Disaggregationsdimensionen aus, damit die verfügbaren Disaggregationskategorien angezeigt werden. Manche werden erst angezeigt, sobald eine Überkategorie ausgewählt wird."
+indicator:source,Source,Datenquelle
+indicator:sources,Sources,Datenquellen
+indicator:sub_categories,Sub-categories,Disaggregationsdimensionen
+indicator:table,Table,Tabelle
+indicator:unit_of_measurement,Unit of Measurement,Einheit
 indicator:units_type,Units type,Einheit
-indicator:variable_hint,먼저 '%field' 항목을 선택해 주시기 바랍니다.,Verfügbar
+indicator:variable_hint,Available when '%field' is selected,Verfügbar
 indicator:view_indicator_list,View this goal's indicator list,Zeigt die Indikatorenliste zum SDG-Ziel an.
+general:facebook,Facebook,Facebook
+general:goal,Goal,Ziel
+general:goals,Goals,Ziele
+general:home,Home,Home
+general:indicator,Indicator,Indikator
+general:indicators,Indicators,Indikatoren
+general:loading,Loading search results,Ergebnisse werden geladen
+general:opens_new_window,opens in a new window,in neuem Fenster öffnen
+general:sdg,Sustainable Development Goals,Ziele für Nachhaltige Entwicklung
+general:target,Target,Unterziel
+general:targets,Targets,Unterziele
+general:twitter,Twitter,Twitter
+metadata_fields:comments_limitations,Other information,Weitere Informationen
+metadata_fields:computation_calculations,Calculations,Methodik
+metadata_fields:computation_definitions,Definitions,Definitionen
+metadata_fields:computation_units,Unit of measurement,Einheit
+metadata_fields:goal_meta_link,Link to UN metadata,Link zu den globalen Metadaten
+metadata_fields:indicator,Indicator number,Indikatorennummerierung
+metadata_fields:indicator_definition,Global indicator description,Globale Indikatorenbeschreibung
+metadata_fields:indicator_name,Indicator name,Indikatorenbezeichnung
+metadata_fields:indicator_sort_order,Indicator display order (within Goal page),Indikatorenreihenfolge (in der Zielübersicht)
+metadata_fields:national_data_update_url,Data last updated,Daten zuletzt aktualisiert am
+metadata_fields:national_geographical_coverage,Geographical coverage,Geographische Abdeckung
+metadata_fields:national_indicator_available,Indicator available,Verfügbare Datenreihenbezeichnung
+metadata_fields:national_indicator_description,Indicator description,Indikatorenbeschreibung
+metadata_fields:national_metadata_update_url,Metadata last updated,Metadaten zuletzt aktualisiert am
+metadata_fields:source_contact_1,Contact details,Kontaktinformationen
+metadata_fields:source_contact_2,Contact details,Kontaktinformationen
+metadata_fields:source_contact_3,Contact details,Kontaktinformationen
+metadata_fields:source_contact_4,Contact details,Kontaktinformationen
+metadata_fields:source_contact_5,Contact details,Kontaktinformationen
+metadata_fields:source_contact_6,Contact details,Kontaktinformationen
+metadata_fields:source_earliest_available_1,Earliest available data,Daten verfügbar seit
+metadata_fields:source_earliest_available_2,Earliest available data,Daten verfügbar seit
+metadata_fields:source_earliest_available_3,Earliest available data,Daten verfügbar seit
+metadata_fields:source_earliest_available_4,Earliest available data,Daten verfügbar seit
+metadata_fields:source_earliest_available_5,Earliest available data,Daten verfügbar seit
+metadata_fields:source_earliest_available_6,Earliest available data,Daten verfügbar seit
+metadata_fields:source_geographical_coverage_1,Geographical coverage,Geographische Abdeckung
+metadata_fields:source_geographical_coverage_2,Geographical coverage,Geographische Abdeckung
+metadata_fields:source_geographical_coverage_3,Geographical coverage,Geographische Abdeckung
+metadata_fields:source_geographical_coverage_4,Geographical coverage,Geographische Abdeckung
+metadata_fields:source_geographical_coverage_5,Geographical coverage,Geographische Abdeckung
+metadata_fields:source_geographical_coverage_6,Geographical coverage,Geographische Abdeckung
+metadata_fields:source_next_release_1,Next release,Nächste Veröffentlichung am
+metadata_fields:source_next_release_2,Next release,Nächste Veröffentlichung am
+metadata_fields:source_next_release_3,Next release,Nächste Veröffentlichung am
+metadata_fields:source_next_release_4,Next release,Nächste Veröffentlichung am
+metadata_fields:source_next_release_5,Next release,Nächste Veröffentlichung am
+metadata_fields:source_next_release_6,Next release,Nächste Veröffentlichung am
+metadata_fields:source_organisation_1,Organisation,Organisation
+metadata_fields:source_organisation_2,Organisation,Organisation
+metadata_fields:source_organisation_3,Organisation,Organisation
+metadata_fields:source_organisation_4,Organisation,Organisation
+metadata_fields:source_organisation_5,Organisation,Organisation
+metadata_fields:source_organisation_6,Organisation,Organisation
+metadata_fields:source_other_info_1,Other information,Weitere Informationen
+metadata_fields:source_other_info_2,Other information,Weitere Informationen
+metadata_fields:source_other_info_3,Other information,Weitere Informationen
+metadata_fields:source_other_info_4,Other information,Weitere Informationen
+metadata_fields:source_other_info_5,Other information,Weitere Informationen
+metadata_fields:source_other_info_6,Other information,Weitere Informationen
+metadata_fields:source_periodicity_1,Periodicity,Periodizität
+metadata_fields:source_periodicity_2,Periodicity,Periodizität
+metadata_fields:source_periodicity_3,Periodicity,Periodizität
+metadata_fields:source_periodicity_4,Periodicity,Periodizität
+metadata_fields:source_periodicity_5,Periodicity,Periodizität
+metadata_fields:source_periodicity_6,Periodicity,Periodizität
+metadata_fields:source_release_date_1,Release date,Veröffentlichungsdatum
+metadata_fields:source_release_date_2,Release date,Veröffentlichungsdatum
+metadata_fields:source_release_date_3,Release date,Veröffentlichungsdatum
+metadata_fields:source_release_date_4,Release date,Veröffentlichungsdatum
+metadata_fields:source_release_date_5,Release date,Veröffentlichungsdatum
+metadata_fields:source_release_date_6,Release date,Veröffentlichungsdatum
+metadata_fields:source_statistical_classification_1,Statistical classification, Datentyp
+metadata_fields:source_statistical_classification_2,Statistical classification,Datentyp
+metadata_fields:source_statistical_classification_3,Statistical classification,Datentyp
+metadata_fields:source_statistical_classification_4,Statistical classification,Datentyp
+metadata_fields:source_statistical_classification_5,Statistical classification,Datentyp
+metadata_fields:source_statistical_classification_6,Statistical classification,Datentyp
+metadata_fields:source_url_1,Link to data source,Link zur Datenquelle
+metadata_fields:source_url_2,Link to data source,Link zur Datenquelle
+metadata_fields:source_url_3,Link to data source,Link zur Datenquelle
+metadata_fields:source_url_4,Link to data source,Link zur Datenquelle
+metadata_fields:source_url_5,Link to data source,Link zur Datenquelle
+metadata_fields:source_url_6,Link to data source,Link zur Datenquelle
+metadata_fields:target,Target name,Unterziel
+metadata_fields:target_id,Target number,Unterzielnummerierung
+metadata_fields:un_custodian_agency,UN custodian agency,VN Custodian Agency
+metadata_fields:un_designated_tier,UN designated tier,VN Tier Klassifikation
+post:posts_by_category,Posts by Category,Beiträge geordnet nach Kategorien
+post:view_all_in_category,View all posts in the %category_name category, Zeige alle Beiträge in der %category_name Kategorie an

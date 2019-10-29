@@ -1,179 +1,179 @@
 ﻿key,en,fr
-global_goals:1-short,빈곤퇴치,Pas de pauvreté
-global_goals:10-short,불평등 완화,Inégalités réduites
-global_goals:11-short,지속가능한 도시와 공동체,Villes et communautés durables
-global_goals:12-short,책임감있는 소비와 생산,Consommation et production responsables
-global_goals:13-short,기후변화 대응,Mesures relatives à la lutte contre les changements climatiques
-global_goals:14-short,해양 생태계,Vie aquatique
-global_goals:15-short,육상 생태계,Vie terrestre
-global_goals:16-short,"평화, 정의와 제도","Paix, justice et institutions efficaces"
-global_goals:17-short,SDGs를 위한 파트너십,Partenariats pour la réalisation des objectifs
-global_goals:2-short,기아종식,"Faim ""zéro"""
-global_goals:3-short,건강과 웰빙,Bonne santé et bien-être
-global_goals:4-short,양질의 교육,Éducation de qualité
-global_goals:5-short,양성평등,Égalité entre les sexes
-global_goals:6-short,물과 위생,Eau propre et assainissement
-global_goals:7-short,깨끗한 에너지,Energies propres et d'un coût abordable
-global_goals:8-short,양질의 일자리와 경제성장,Travaux décent et croissance économique
-global_goals:9-short,"산업, 혁신과 사회기반시설","Industrie, innovation et infrastructure"
-menu:about,개요,Sur
+status:exploring_data_sources,Exploring data sources,Explorer les sources de données
+status:not_applicable,Not applicable,Non applicable
+status:overall_reporting_status,Overall Reporting Status,Statut général de rapport
+status:reported_online,Reported online,Signalé en ligne
+status:reporting_status,Reporting Status,Statut de rapport
+status:statistics_in_progress,Statistics in progress,Statistiques en cours
+status:status_by_goal,Status by goal,Statut par but
+search:found_in,found in,trouvé dans
+search:indicator_search,Indicator search,Recherche d&#39;indicateur
+search:keywords,Keywords,Mots clés
+search:no_results,No results,Aucun résultat
+search:search,Search,Chercher
+search:search_results_for,Search results for,Résultats de recherche pour
+header:alpha,Alpha,Alpha
+header:default_contrast,Default contrast,contraste standard
+header:disable_high_contrast,Disable high contrast,Désactiver le contraste élevé
+header:disclaimer,"This is a development website. We welcome your <a href=""mailto:%email_address"">feedback</a>.",Ceci est un site de développement. Nous apprécions vos commentaires.
+header:enable_high_contrast,Enable high contrast,Activer le contraste élevé
+header:high_contrast,High contrast,contraste élevé
+header:skip_link,Skip to main content,Passer au contenu principal
+header:tag_line,17 Goals to Transform our World,17 objectifs pour transformer notre monde
+frontpage:heading,%name data for Sustainable Development Goal indicators,Données %name pour les indicateurs des objectifs de développement durable
+frontpage:instructions,"Click on each goal, or %before_link search, %after_link for %name statistics for Sustainable Development Goal global indicators.","Cliquez sur chaque objectif, ou %before_link recherchez, %after_link pour %name statistiques pour Sustainable Development Goal global indicateurs."
+global_goals:1-short,No poverty,Pas de pauvreté
+global_goals:10-short,Reduced inequalities,Inégalités réduites
+global_goals:11-short,Sustainable cities & communities,Villes et communautés durables
+global_goals:12-short,Responsible consumption and production,Consommation et production responsables
+global_goals:13-short,Climate action,Mesures relatives à la lutte contre les changements climatiques
+global_goals:14-short,Life below water,Vie aquatique
+global_goals:15-short,Life on land,Vie terrestre
+global_goals:16-short,Peace and justice - strong institutions,"Paix, justice et institutions efficaces"
+global_goals:17-short,Partnerships for the goals,Partenariats pour la réalisation des objectifs
+global_goals:2-short,Zero hunger,"Faim ""zéro"""
+global_goals:3-short,Good health and well-being,Bonne santé et bien-être
+global_goals:4-short,Quality education,Éducation de qualité
+global_goals:5-short,Gender equality,Égalité entre les sexes
+global_goals:6-short,Clean water and sanitation,Eau propre et assainissement
+global_goals:7-short,Affordable and clean energy,Energies propres et d'un coût abordable
+global_goals:8-short,Decent jobs and economic growth,Travaux décent et croissance économique
+global_goals:9-short,"Industry, innovation and infrastructure","Industrie, innovation et infrastructure"
+menu:about,About,Sur
 menu:contact_us,Contact us,Contactez nous
 menu:cookies,Cookies,Biscuits
 menu:faq,FAQ,FAQ
-menu:guidance,매뉴얼,Orientation
-menu:menu,메뉴,Menu
-menu:publications,간행물,Publications
-menu:reporting_status,지표현황,Statut de rapport
-menu:updates,업데이트,
-general:facebook,Facebook,Facebook
-general:goal,목표,Objectif
-general:goals,목표,Buts
-general:home,Home,Accueil
-general:indicator,지표,Indicateur
-general:indicators,개 지표,Indicateurs
-general:loading,검색 결과를 불러오고 있습니다.,Chargement des résultats de recherche
-general:opens_new_window,새 창에서 열기,Ouvre dans une nouvelle fenêtre
-general:sdg,지속가능발전목표,Objectifs de développement durable
-general:target,세부목표,Cible
-general:targets,세부목표,Les cibles
-general:twitter,Twitter,Twitter
-status:exploring_data_sources,작업중,Explorer les sources de données
-status:not_applicable,Not applicable,Non applicable
-status:overall_reporting_status,총괄 현황 -,Statut général de rapport
-status:reported_online,이용가능,Signalé en ligne
-status:reporting_status,지표 현황,Statut de rapport
-status:statistics_in_progress,Statistics in progress,Statistiques en cours
-status:status_by_goal,목표별 현황,Statut par but
-metadata_fields:comments_limitations,비고,Les autres informations
-metadata_fields:computation_calculations,계산방법,Calculs
-metadata_fields:computation_definitions,정의,Définitions
-metadata_fields:computation_units,단위,Unité de mesure
-metadata_fields:goal_meta_link,UN 메타데이터,Lien vers les métadonnées UN
-metadata_fields:indicator,지표 번호,Numéro de l&#39;indicateur
-metadata_fields:indicator_definition,지표 상세 설명,Description de l&#39;indicateur global
-metadata_fields:indicator_name,지표명,Nom de l&#39;indicateur
-metadata_fields:indicator_sort_order,지표 정렬 번호,Ordre d&#39;affichage des indicateurs (dans la page Objectif)
-metadata_fields:national_data_update_url,데이터 갱신 이력,Données mises à jour en dernier
-metadata_fields:national_geographical_coverage,지역적 범위,Couverture géographique
-metadata_fields:national_indicator_available,지표 가용성,Indicateur disponible
-metadata_fields:national_indicator_description,지표 상세 설명,Description de l&#39;indicateur
-metadata_fields:national_metadata_update_url,메타데이터 갱신 이력,Dernière mise à jour des métadonnées
-metadata_fields:source_contact_1,연락처,Détails du contact
-metadata_fields:source_contact_2,연락처,Détails du contact
-metadata_fields:source_contact_3,연락처,Détails du contact
-metadata_fields:source_contact_4,연락처,Détails du contact
-metadata_fields:source_contact_5,연락처,Détails du contact
-metadata_fields:source_contact_6,연락처,Détails du contact
-metadata_fields:source_earliest_available_1,최초 공표,Les premières données disponibles
-metadata_fields:source_earliest_available_2,최초 공표,Les premières données disponibles
-metadata_fields:source_earliest_available_3,최초 공표,Les premières données disponibles
-metadata_fields:source_earliest_available_4,최초 공표,Les premières données disponibles
-metadata_fields:source_earliest_available_5,최초 공표,Les premières données disponibles
-metadata_fields:source_earliest_available_6,최초 공표,Les premières données disponibles
-metadata_fields:source_geographical_coverage_1,지역적 범위,Couverture géographique
-metadata_fields:source_geographical_coverage_2,지역적 범위,Couverture géographique
-metadata_fields:source_geographical_coverage_3,지역적 범위,Couverture géographique
-metadata_fields:source_geographical_coverage_4,지역적 범위,Couverture géographique
-metadata_fields:source_geographical_coverage_5,지역적 범위,Couverture géographique
-metadata_fields:source_geographical_coverage_6,지역적 범위,Couverture géographique
-metadata_fields:source_next_release_1,다음 공표,Prochaine sortie
-metadata_fields:source_next_release_2,다음 공표,Prochaine sortie
-metadata_fields:source_next_release_3,다음 공표,Prochaine sortie
-metadata_fields:source_next_release_4,다음 공표,Prochaine sortie
-metadata_fields:source_next_release_5,다음 공표,Prochaine sortie
-metadata_fields:source_next_release_6,다음 공표,Prochaine sortie
-metadata_fields:source_organisation_1,작성기관,Organisation
-metadata_fields:source_organisation_2,작성기관,Organisation
-metadata_fields:source_organisation_3,작성기관,Organisation
-metadata_fields:source_organisation_4,작성기관,Organisation
-metadata_fields:source_organisation_5,작성기관,Organisation
-metadata_fields:source_organisation_6,작성기관,Organisation
-metadata_fields:source_other_info_1,비고,Les autres informations
-metadata_fields:source_other_info_2,비고,Les autres informations
-metadata_fields:source_other_info_3,비고,Les autres informations
-metadata_fields:source_other_info_4,비고,Les autres informations
-metadata_fields:source_other_info_5,비고,Les autres informations
-metadata_fields:source_other_info_6,비고,Les autres informations
-metadata_fields:source_periodicity_1,작성주기,Périodicité
-metadata_fields:source_periodicity_2,작성주기,Périodicité
-metadata_fields:source_periodicity_3,작성주기,Périodicité
-metadata_fields:source_periodicity_4,작성주기,Périodicité
-metadata_fields:source_periodicity_5,작성주기,Périodicité
-metadata_fields:source_periodicity_6,작성주기,Périodicité
-metadata_fields:source_release_date_1,공표일,Date de sortie
-metadata_fields:source_release_date_2,공표일,Date de sortie
-metadata_fields:source_release_date_3,공표일,Date de sortie
-metadata_fields:source_release_date_4,공표일,Date de sortie
-metadata_fields:source_release_date_5,공표일,Date de sortie
-metadata_fields:source_release_date_6,공표일,Date de sortie
-metadata_fields:source_statistical_classification_1,통계분류,Classification statistique
-metadata_fields:source_statistical_classification_2,통계분류,Classification statistique
-metadata_fields:source_statistical_classification_3,통계분류,Classification statistique
-metadata_fields:source_statistical_classification_4,통계분류,Classification statistique
-metadata_fields:source_statistical_classification_5,통계분류,Classification statistique
-metadata_fields:source_statistical_classification_6,통계분류,Classification statistique
-metadata_fields:source_url_1,출처 바로가기,Lien vers la source de données
-metadata_fields:source_url_2,출처 바로가기,Lien vers la source de données
-metadata_fields:source_url_3,출처 바로가기,Lien vers la source de données
-metadata_fields:source_url_4,출처 바로가기,Lien vers la source de données
-metadata_fields:source_url_5,출처 바로가기,Lien vers la source de données
-metadata_fields:source_url_6,출처 바로가기,Lien vers la source de données
-metadata_fields:target,세부목표명,Nom de la cible
-metadata_fields:target_id,세부목표 번호,Numéro cible
-metadata_fields:un_custodian_agency,소관 국제기구,Agence dépositaire des Nations Unies
-metadata_fields:un_designated_tier,티어(Tier),Niveau désigné par les Nations Unies
-post:posts_by_category,Posts by Category,Messages par catégorie
-post:view_all_in_category,View all posts in the %category_name category,Voir tous les articles dans la catégorie %category_name
-header:alpha,Alpha,Alpha
-header:default_contrast,원래대로,contraste standard
-header:disable_high_contrast,고대비 불가,Désactiver le contraste élevé
-header:disclaimer,"This is a development website. We welcome your <a href=""mailto:%email_address"">feedback</a>.",Ceci est un site de développement. Nous apprécions vos commentaires.
-header:enable_high_contrast,고대비 가능,Activer le contraste élevé
-header:high_contrast,고대비,contraste élevé
-header:skip_link,Skip to main content,Passer au contenu principal
-header:tag_line,17 Goals to Transform our World,17 objectifs pour transformer notre monde
-search:found_in,found in,trouvé dans
-search:indicator_search,검색어를 입력해 주시기 바랍니다.,Recherche d&#39;indicateur
-search:keywords,키워드,Mots clés
-search:no_results,검색 결과가 없습니다.,Aucun résultat
-search:search,검색,Chercher
-search:search_results_for,검색 결과,Résultats de recherche pour
-frontpage:heading,[테스트 중입니다] 한국의 SDGs 지표,Données %name pour les indicateurs des objectifs de développement durable
-frontpage:instructions,"지표별 상세 데이터를 확인하시려면, 아래 아이콘을 클릭하시거나 %before_link 검색창 %after_link 을 이용하시기 바랍니다.","Cliquez sur chaque objectif, ou %before_link recherchez, %after_link pour %name statistiques pour Sustainable Development Goal global indicateurs."
-indicator:chart,그래프,Graphique
-indicator:clear_all,모두 취소,Tout effacer
-indicator:clear_selections,초기화,Effacer les sélections
-indicator:dataset_size_warning,너무 많은 항목이 선택되었습니다. 선택을 취소해 주시기 바랍니다.,Il y a trop de jeux de données à afficher sur le graphique. Tout ne sera pas affiché jusqu&#39;à ce que vous supprimiez certaines sélections.
-indicator:download_chart,그래프 CSV 내려받기,Télécharger le graphique CSV
-indicator:download_chart_image,그래프 이미지 내려받기,Télécharger l'image graphique
-indicator:download_chart_image_title,그래프 이미지 내려받기,Télécharger le graphique en image
-indicator:download_csv,CSV 내려받기,Télécharger CSV
-indicator:download_csv_title,CSV 내려받기,Télécharger en format CSV
+menu:guidance,Guidance,Orientation
+menu:menu,Menu,Menu
+menu:publications,Publications,Publications
+menu:reporting_status,Reporting Status,Statut de rapport
+menu:updates,Updates,
+indicator:chart,Chart,Graphique
+indicator:clear_all,Clear all,Tout effacer
+indicator:clear_selections,Clear selections,Effacer les sélections
+indicator:dataset_size_warning,There are too many datasets to show on the chart. Not all will be shown until you remove some selections.,Il y a trop de jeux de données à afficher sur le graphique. Tout ne sera pas affiché jusqu&#39;à ce que vous supprimiez certaines sélections.
+indicator:download_chart,Download Chart CSV,Télécharger le graphique CSV
+indicator:download_chart_image,Download Chart Image,Télécharger l'image graphique
+indicator:download_chart_image_title,Download chart as image,Télécharger le graphique en image
+indicator:download_csv,Download CSV,Télécharger CSV
+indicator:download_csv_title,Download as CSV,Télécharger en format CSV
 indicator:download_headline,Download Headline CSV,Télécharger Headline CSV
 indicator:download_headline_title,Download headline data as CSV,Télécharger les données de titre au format CSV
-indicator:download_source,출처 CSV 내려받기,Télécharger Source CSV
-indicator:download_source_title,출처 CSV 내려받기,Télécharger les données source au format CSV
-indicator:download_table,표 CSV 내려받기,Télécharger le tableau CSV
-indicator:edit,자료 수정,modifier
-indicator:edit_data,데이터 수정,Modifier les données
-indicator:edit_metadata,메타데이터 수정,Modifier les métadonnées
-indicator:footnote,주석,note de bas de page
-indicator:geographical_area,지역,Zone géographique
-indicator:global_metadata,UN 메타데이터,Métadonnées globales
-indicator:global_metadata_blurb,,"Ce tableau fournit des informations sur les métadonnées pour les indicateurs SDG définis par la Commission de statistique des Nations Unies. <a href=""https://unstats.un.org/sdgs/metadata/"">Les métadonnées globales complètes</a> sont fournies par la Division de statistique de l&#39;ONU."
-indicator:legend_help,범례의 개별 항목을 클릭하면 해당 항목을 그래프에서 삭제하실 수 있습니다.,Cliquez sur la légende pour supprimer les lignes individuelles du graphique.
-indicator:loading_map,지도를 불어오고 있습니다.,Chargement de la carte
-indicator:map,지도,Carte
-indicator:national_metadata,통계설명자료,Métadonnées nationales
-indicator:national_metadata_blurb,,"Cette table fournit des métadonnées pour l&#39;indicateur réel disponible à partir des statistiques %country_name les plus proches de l&#39;indicateur SDG global correspondant. Veuillez noter que même lorsque l&#39;indicateur global des ODD est entièrement disponible à partir des statistiques %country_adjective, ce tableau devrait être consulté pour obtenir des informations sur la méthodologie nationale et d&#39;autres informations sur les métadonnées spécifiques à un pays_adjectif."
+indicator:download_source,Download Source CSV,Télécharger Source CSV
+indicator:download_source_title,Download source data as CSV,Télécharger les données source au format CSV
+indicator:download_table,Download Table CSV,Télécharger le tableau CSV
+indicator:edit,Edit,modifier
+indicator:edit_data,Edit Data,Modifier les données
+indicator:edit_metadata,Edit Metadata,Modifier les métadonnées
+indicator:footnote,Footnote,note de bas de page
+indicator:geographical_area,Geographical Area,Zone géographique
+indicator:global_metadata,Global Metadata,Métadonnées globales
+indicator:global_metadata_blurb,"This table provides information on metadata for SDG indicators as defined by the UN Statistical Commission. <a href=""https://unstats.un.org/sdgs/metadata/"">Complete global metadata</a> is provided by the UN Statistics Division.","Ce tableau fournit des informations sur les métadonnées pour les indicateurs SDG définis par la Commission de statistique des Nations Unies. <a href=""https://unstats.un.org/sdgs/metadata/"">Les métadonnées globales complètes</a> sont fournies par la Division de statistique de l&#39;ONU."
+indicator:legend_help,Click on the legend to remove individual lines from the chart.,Cliquez sur la légende pour supprimer les lignes individuelles du graphique.
+indicator:loading_map,Loading map,Chargement de la carte
+indicator:map,Map,Carte
+indicator:national_metadata,National Metadata,Métadonnées nationales
+indicator:national_metadata_blurb,"This table provides metadata for the actual indicator available from %country_name statistics closest to the corresponding global SDG indicator. Please note that even when the global SDG indicator is fully available from %country_adjective statistics, this table should be consulted for information on national methodology and other %country_adjective-specific metadata information.","Cette table fournit des métadonnées pour l&#39;indicateur réel disponible à partir des statistiques %country_name les plus proches de l&#39;indicateur SDG global correspondant. Veuillez noter que même lorsque l&#39;indicateur global des ODD est entièrement disponible à partir des statistiques %country_adjective, ce tableau devrait être consulté pour obtenir des informations sur la méthodologie nationale et d&#39;autres informations sur les métadonnées spécifiques à un pays_adjectif."
 indicator:no_data_hint,No options available because of filters above,Aucune option disponible en raison des filtres ci-dessus
-indicator:select_all,모두 선택,Tout sélectionner
-indicator:series_help,상세한 정보를 원하시는 세부 항목을 아래에서 선택해 주시기 바랍니다.,Choisissez des catégories dans les listes déroulantes ci-dessous pour voir différentes répartitions des données. Certains ne seront pas disponibles jusqu&#39;à ce qu&#39;un niveau supérieur soit choisi.
-indicator:source,출처,La source
-indicator:sources,출처 정보,Sources
-indicator:sub_categories,세부 항목,Sous-catégories
-indicator:table,표,Table
-indicator:unit_of_measurement,단위,Unité de mesure
+indicator:select_all,Select all,Tout sélectionner
+indicator:series_help,Choose categories from the dropdowns below to see different breakdowns of the data. Some will not be available until a higher level is chosen.,Choisissez des catégories dans les listes déroulantes ci-dessous pour voir différentes répartitions des données. Certains ne seront pas disponibles jusqu&#39;à ce qu&#39;un niveau supérieur soit choisi.
+indicator:source,Source,La source
+indicator:sources,Sources,Sources
+indicator:sub_categories,Sub-categories,Sous-catégories
+indicator:table,Table,Table
+indicator:unit_of_measurement,Unit of Measurement,Unité de mesure
 indicator:units_type,Units type,Type d&#39;unités
-indicator:variable_hint,먼저 '%field' 항목을 선택해 주시기 바랍니다.,Disponible lorsque le champ '%field' est sélectionné
+indicator:variable_hint,Available when '%field' is selected,Disponible lorsque le champ '%field' est sélectionné
 indicator:view_indicator_list,View this goal's indicator list,Voir la liste des indicateurs de cet objectif
+general:facebook,Facebook,Facebook
+general:goal,Goal,Objectif
+general:goals,Goals,Buts
+general:home,Home,Accueil
+general:indicator,Indicator,Indicateur
+general:indicators,Indicators,Indicateurs
+general:loading,Loading search results,Chargement des résultats de recherche
+general:opens_new_window,opens in a new window,Ouvre dans une nouvelle fenêtre
+general:sdg,Sustainable Development Goals,Objectifs de développement durable
+general:target,Target,Cible
+general:targets,Targets,Les cibles
+general:twitter,Twitter,Twitter
+metadata_fields:comments_limitations,Other information,Les autres informations
+metadata_fields:computation_calculations,Calculations,Calculs
+metadata_fields:computation_definitions,Definitions,Définitions
+metadata_fields:computation_units,Unit of measurement,Unité de mesure
+metadata_fields:goal_meta_link,Link to UN metadata,Lien vers les métadonnées UN
+metadata_fields:indicator,Indicator number,Numéro de l&#39;indicateur
+metadata_fields:indicator_definition,Global indicator description,Description de l&#39;indicateur global
+metadata_fields:indicator_name,Indicator name,Nom de l&#39;indicateur
+metadata_fields:indicator_sort_order,Indicator display order (within Goal page),Ordre d&#39;affichage des indicateurs (dans la page Objectif)
+metadata_fields:national_data_update_url,Data last updated,Données mises à jour en dernier
+metadata_fields:national_geographical_coverage,Geographical coverage,Couverture géographique
+metadata_fields:national_indicator_available,Indicator available,Indicateur disponible
+metadata_fields:national_indicator_description,Indicator description,Description de l&#39;indicateur
+metadata_fields:national_metadata_update_url,Metadata last updated,Dernière mise à jour des métadonnées
+metadata_fields:source_contact_1,Contact details,Détails du contact
+metadata_fields:source_contact_2,Contact details,Détails du contact
+metadata_fields:source_contact_3,Contact details,Détails du contact
+metadata_fields:source_contact_4,Contact details,Détails du contact
+metadata_fields:source_contact_5,Contact details,Détails du contact
+metadata_fields:source_contact_6,Contact details,Détails du contact
+metadata_fields:source_earliest_available_1,Earliest available data,Les premières données disponibles
+metadata_fields:source_earliest_available_2,Earliest available data,Les premières données disponibles
+metadata_fields:source_earliest_available_3,Earliest available data,Les premières données disponibles
+metadata_fields:source_earliest_available_4,Earliest available data,Les premières données disponibles
+metadata_fields:source_earliest_available_5,Earliest available data,Les premières données disponibles
+metadata_fields:source_earliest_available_6,Earliest available data,Les premières données disponibles
+metadata_fields:source_geographical_coverage_1,Geographical coverage,Couverture géographique
+metadata_fields:source_geographical_coverage_2,Geographical coverage,Couverture géographique
+metadata_fields:source_geographical_coverage_3,Geographical coverage,Couverture géographique
+metadata_fields:source_geographical_coverage_4,Geographical coverage,Couverture géographique
+metadata_fields:source_geographical_coverage_5,Geographical coverage,Couverture géographique
+metadata_fields:source_geographical_coverage_6,Geographical coverage,Couverture géographique
+metadata_fields:source_next_release_1,Next release,Prochaine sortie
+metadata_fields:source_next_release_2,Next release,Prochaine sortie
+metadata_fields:source_next_release_3,Next release,Prochaine sortie
+metadata_fields:source_next_release_4,Next release,Prochaine sortie
+metadata_fields:source_next_release_5,Next release,Prochaine sortie
+metadata_fields:source_next_release_6,Next release,Prochaine sortie
+metadata_fields:source_organisation_1,Organisation,Organisation
+metadata_fields:source_organisation_2,Organisation,Organisation
+metadata_fields:source_organisation_3,Organisation,Organisation
+metadata_fields:source_organisation_4,Organisation,Organisation
+metadata_fields:source_organisation_5,Organisation,Organisation
+metadata_fields:source_organisation_6,Organisation,Organisation
+metadata_fields:source_other_info_1,Other information,Les autres informations
+metadata_fields:source_other_info_2,Other information,Les autres informations
+metadata_fields:source_other_info_3,Other information,Les autres informations
+metadata_fields:source_other_info_4,Other information,Les autres informations
+metadata_fields:source_other_info_5,Other information,Les autres informations
+metadata_fields:source_other_info_6,Other information,Les autres informations
+metadata_fields:source_periodicity_1,Periodicity,Périodicité
+metadata_fields:source_periodicity_2,Periodicity,Périodicité
+metadata_fields:source_periodicity_3,Periodicity,Périodicité
+metadata_fields:source_periodicity_4,Periodicity,Périodicité
+metadata_fields:source_periodicity_5,Periodicity,Périodicité
+metadata_fields:source_periodicity_6,Periodicity,Périodicité
+metadata_fields:source_release_date_1,Release date,Date de sortie
+metadata_fields:source_release_date_2,Release date,Date de sortie
+metadata_fields:source_release_date_3,Release date,Date de sortie
+metadata_fields:source_release_date_4,Release date,Date de sortie
+metadata_fields:source_release_date_5,Release date,Date de sortie
+metadata_fields:source_release_date_6,Release date,Date de sortie
+metadata_fields:source_statistical_classification_1,Statistical classification,Classification statistique
+metadata_fields:source_statistical_classification_2,Statistical classification,Classification statistique
+metadata_fields:source_statistical_classification_3,Statistical classification,Classification statistique
+metadata_fields:source_statistical_classification_4,Statistical classification,Classification statistique
+metadata_fields:source_statistical_classification_5,Statistical classification,Classification statistique
+metadata_fields:source_statistical_classification_6,Statistical classification,Classification statistique
+metadata_fields:source_url_1,Link to data source,Lien vers la source de données
+metadata_fields:source_url_2,Link to data source,Lien vers la source de données
+metadata_fields:source_url_3,Link to data source,Lien vers la source de données
+metadata_fields:source_url_4,Link to data source,Lien vers la source de données
+metadata_fields:source_url_5,Link to data source,Lien vers la source de données
+metadata_fields:source_url_6,Link to data source,Lien vers la source de données
+metadata_fields:target,Target name,Nom de la cible
+metadata_fields:target_id,Target number,Numéro cible
+metadata_fields:un_custodian_agency,UN custodian agency,Agence dépositaire des Nations Unies
+metadata_fields:un_designated_tier,UN designated tier,Niveau désigné par les Nations Unies
+post:posts_by_category,Posts by Category,Messages par catégorie
+post:view_all_in_category,View all posts in the %category_name category,Voir tous les articles dans la catégorie %category_name
