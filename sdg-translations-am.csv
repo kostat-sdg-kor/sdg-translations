@@ -181,6 +181,46 @@ global_targets:9-5-title,"Enhance scientific research, upgrade the technological
 global_targets:9-a-title,"Facilitate sustainable and resilient infrastructure development in developing countries through enhanced financial, technological and technical support to African countries, least developed countries, landlocked developing countries and small island developing States","Դյուրացնել կայուն և դիմակայուն ենթակառուցվածքների զարգացումը զարգացող երկրներում՝ ցուցաբերելով ընդլայնված ֆինանսական, տեխնոլոգիական և փորձագիտական օժանդակություն  աֆրիկյան երկրներին, առավել թույլ զարգացած երկրներին, դեպի ծով ելք չունեցող զարգացող երկրներին և զարգացող փոքր կղզի-պետություններին "
 global_targets:9-b-title,"Support domestic technology development, research and innovation in developing countries, including by ensuring a conducive policy environment for, inter alia, industrial diversification and value addition to commodities","Օժանդակել հայրենական տեխնոլոգիաների զարգացմանը, գիտահետազոտական աշխատանքներին և նորարարությանը զարգացող երկրներում, այդ թվում՝ ապահովելով քաղաքականությունների առումով նպաստավոր միջավայր, ի թիվս այլոց, արդյունաբերության բազմազանեցման և հումքային ապրանքներին արժեքի ավելացման համար "
 global_targets:9-c-title,Significantly increase access to information and communications technology and strive to provide universal and affordable access to the Internet in least developed countries by 2020,Զգալիորեն մեծացնել տեղեկատվական և հաղորդակցման տեխնոլոգիաների հասանելիությունը և ձգտել տրամադրել համացանցի համընդհանուր և մատչելի հասանելիություն առավել թույլ զարգացած երկրներին մինչև 2020թ. 
+general:facebook,Facebook,Ֆեյսբուք
+general:goal,Goal,Նպատակը
+general:goals,Goals,Նպատակները
+general:home,Home,Գլխավոր էջ
+general:indicator,Indicator,Ցուցանիշ
+general:indicators,Indicators,Ցուցանիշներ
+general:loading,Loading search results,Որոնման արդյունքները բեռնվում են 
+general:opens_new_window,opens in a new window,Բացվում է նոր պատուհանում
+general:sdg,Sustainable Development Goals,Կայուն զարգացման նպատակներ
+general:target,Target,Թիրախը
+general:targets,Targets,Թիրախներ
+general:twitter,Twitter,Թվիթերի
+frontpage:heading,%name data for Sustainable Development Goal indicators,%name Կայուն զարգացման նպատակների ցուցանիշների տվյալներ
+frontpage:instructions,"Click on each goal, or %before_link search, %after_link for %name statistics for Sustainable Development Goal global indicators.","Սեղմեք յուրաքանչյուր նպատակի վրա %before_link որոնում, %after_link երկիր_անվանում Կայուն Զարգացման Նպատակների գլոբալ ցուցանիշների համար "
+header:alpha,Alpha,Ալֆա
+header:default_contrast,Default contrast,լռելյայն հակադրություն
+header:disable_high_contrast,Disable high contrast,Անջատեք բարձր հակադրություն
+header:disclaimer,"This is a development website. We welcome your <a href=""mailto:%email_address"">feedback</a>.","Սա մշակման վեբ կայք է: Մենք ողջունում ենք ձեր <a href=""mailto:%email_address""> հետադարձ կապը  "
+header:enable_high_contrast,Enable high contrast,Միացնել բարձր հակադրություն
+header:high_contrast,High contrast,բարձր հակադրություն
+header:skip_link,Skip to main content,Անցեք հիմնական բովանդակությանը 
+header:tag_line,17 Goals to Transform our World,17 նպատակներ մեր աշխարհը փոխակերպելու համար
+post:posts_by_category,Posts by Category,Գրառումներ ըստ կատեգորիաների  
+post:view_all_in_category,View all posts in the %category_name category,Տեսնել բոլոր գրառումները %category_name category
+menu:about,About,Վերաբերյալ
+menu:contact_us,Contact us,Կապ մեզ հետ
+menu:cookies,Cookies,Քուկիներ 
+menu:faq,FAQ,ՀՏՀ
+menu:guidance,Guidance,Ուղեցույց
+menu:menu,Menu,Ցանկ
+menu:publications,Publications,Հրապարակումներ
+menu:reporting_status,Reporting Status,Հաշվետվության կարգավիճակը 
+menu:updates,Updates,
+status:exploring_data_sources,Exploring data sources,Ուսումնասիրել տվյալների աղբյուրները 
+status:not_applicable,Not applicable,ոչ կիրառելի
+status:overall_reporting_status,Overall Reporting Status,Ընդհանուր հաշվետվության կարգավիճակը
+status:reported_online,Reported online,Առցանց հաշվետվություն 
+status:reporting_status,Reporting Status,Հաշվետվության կարգավիճակը 
+status:statistics_in_progress,Statistics in progress,Վիճակագրությունը ընթացքում է
+status:status_by_goal,Status by goal,Գոլի կարգավիճակ
 global_goals:1-short,No poverty,Ոչ աղքատությանը
 global_goals:1-title,End poverty in all its forms everywhere,Ամենուրեք վերացնել աղքատությունը՝ իր բոլոր ձևերով ու դրսևորումներով
 global_goals:10-short,Reduced inequalities,Կրճատված անհավասարություն
@@ -218,8 +258,12 @@ global_goals:8-short,Decent jobs and economic growth,Արժանապատիվ աշ
 global_goals:8-title,"Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all","Խթանել կայացած, ներառական և կայուն տնտեսական աճ, լիարժեք և արտադրողական զբաղվածություն և արժանապատիվ աշխատանք բոլորի համար"
 global_goals:9-short,"Industry, innovation and infrastructure","Արդյունաբերություն, նորարարություն և ենթակառուցվածքներ"
 global_goals:9-title,"Build resilient infrastructure, promote inclusive and sustainable industrialization and foster innovation","Ստեղծել դիմակայուն ենթակառուցվածքներ, աջակցել ներառական և կայուն արդյունաբերության զարգացմանը և խթանել նորարարությունը"
-post:posts_by_category,Posts by Category,Գրառումներ ըստ կատեգորիաների  
-post:view_all_in_category,View all posts in the %category_name category,Տեսնել բոլոր գրառումները %category_name category
+search:found_in,found in,Գտնված է
+search:indicator_search,Indicator search,Ցուցանիշների որոնում
+search:keywords,Keywords,Հիմնաբառեր
+search:no_results,No results,Արդյունքներ չկան
+search:search,Search,Որոնում
+search:search_results_for,Search results for,Որոնման արդյունքներ
 indicator:chart,Chart,Գծապատկեր
 indicator:clear_all,Clear all,Մաքրել ամեն ինչ 
 indicator:clear_selections,Clear selections,Մաքրել նշվածները 
@@ -502,35 +546,6 @@ global_indicators:9-5-2-title,Researchers (in full-time equivalent) per million 
 global_indicators:9-a-1-title,Total official international support (official development assistance plus other official flows) to infrastructure,Ընդհանուր միջազգային պաշտոնական օժանդակություն (զարգացմանն ուղղված պաշտոնական օգնություն՝ գումարած այլ պաշտոնական հոսքեր) ենթակառուցվածքներին 
 global_indicators:9-b-1-title,Proportion of medium and high-tech industry value added in total value added,Միջին և բարձր տեխնոլոգիաների ճյուղի ավելացված արժեքի համամասնությունը ընդհանուր ավելացված արժեքի մեջ 
 global_indicators:9-c-1-title,"Proportion of population covered by a mobile network, by technology",Բջջային ցանցի ծածկույթ ունեցող բնակչության համամասնությունը ըստ տեխնոլոգիայի 
-status:exploring_data_sources,Exploring data sources,Ուսումնասիրել տվյալների աղբյուրները 
-status:not_applicable,Not applicable,ոչ կիրառելի
-status:overall_reporting_status,Overall Reporting Status,Ընդհանուր հաշվետվության կարգավիճակը
-status:reported_online,Reported online,Առցանց հաշվետվություն 
-status:reporting_status,Reporting Status,Հաշվետվության կարգավիճակը 
-status:statistics_in_progress,Statistics in progress,Վիճակագրությունը ընթացքում է
-status:status_by_goal,Status by goal,Գոլի կարգավիճակ
-frontpage:heading,%name data for Sustainable Development Goal indicators,%name Կայուն զարգացման նպատակների ցուցանիշների տվյալներ
-frontpage:instructions,"Click on each goal, or %before_link search, %after_link for %name statistics for Sustainable Development Goal global indicators.","Սեղմեք յուրաքանչյուր նպատակի վրա %before_link որոնում, %after_link երկիր_անվանում Կայուն Զարգացման Նպատակների գլոբալ ցուցանիշների համար "
-header:alpha,Alpha,Ալֆա
-header:default_contrast,Default contrast,լռելյայն հակադրություն
-header:disable_high_contrast,Disable high contrast,Անջատեք բարձր հակադրություն
-header:disclaimer,"This is a development website. We welcome your <a href=""mailto:%email_address"">feedback</a>.","Սա մշակման վեբ կայք է: Մենք ողջունում ենք ձեր <a href=""mailto:%email_address""> հետադարձ կապը  "
-header:enable_high_contrast,Enable high contrast,Միացնել բարձր հակադրություն
-header:high_contrast,High contrast,բարձր հակադրություն
-header:skip_link,Skip to main content,Անցեք հիմնական բովանդակությանը 
-header:tag_line,17 Goals to Transform our World,17 նպատակներ մեր աշխարհը փոխակերպելու համար
-general:facebook,Facebook,Ֆեյսբուք
-general:goal,Goal,Նպատակը
-general:goals,Goals,Նպատակները
-general:home,Home,Գլխավոր էջ
-general:indicator,Indicator,Ցուցանիշ
-general:indicators,Indicators,Ցուցանիշներ
-general:loading,Loading search results,Որոնման արդյունքները բեռնվում են 
-general:opens_new_window,opens in a new window,Բացվում է նոր պատուհանում
-general:sdg,Sustainable Development Goals,Կայուն զարգացման նպատակներ
-general:target,Target,Թիրախը
-general:targets,Targets,Թիրախներ
-general:twitter,Twitter,Թվիթերի
 metadata_fields:comments_limitations,Other information,Այլ տեղեկություններ 
 metadata_fields:computation_calculations,Calculations,Հաշվարկներ 
 metadata_fields:computation_definitions,Definitions,Սահմանումներ 
@@ -615,18 +630,3 @@ metadata_fields:target,Target name,Թիրախի անվանումը
 metadata_fields:target_id,Target number,Թիրախի համարը 
 metadata_fields:un_custodian_agency,UN custodian agency,ՄԱԿ -ի պահառու գործակալություն
 metadata_fields:un_designated_tier,UN designated tier,ՄԱԿ-ի կողմից նշանակված աստիճան 
-menu:about,About,Վերաբերյալ
-menu:contact_us,Contact us,Կապ մեզ հետ
-menu:cookies,Cookies,Քուկիներ 
-menu:faq,FAQ,ՀՏՀ
-menu:guidance,Guidance,Ուղեցույց
-menu:menu,Menu,Ցանկ
-menu:publications,Publications,Հրապարակումներ
-menu:reporting_status,Reporting Status,Հաշվետվության կարգավիճակը 
-menu:updates,Updates,
-search:found_in,found in,Գտնված է
-search:indicator_search,Indicator search,Ցուցանիշների որոնում
-search:keywords,Keywords,Հիմնաբառեր
-search:no_results,No results,Արդյունքներ չկան
-search:search,Search,Որոնում
-search:search_results_for,Search results for,Որոնման արդյունքներ
