@@ -193,6 +193,72 @@ general:sdg,Sustainable Development Goals,Կայուն զարգացման նպա
 general:target,Target,Թիրախը
 general:targets,Targets,Թիրախներ
 general:twitter,Twitter,Թվիթերի
+frontpage:heading,%name data for Sustainable Development Goal indicators,%name Կայուն զարգացման նպատակների ցուցանիշների տվյալներ
+frontpage:instructions,"Click on each goal, or %before_link search, %after_link for %name statistics for Sustainable Development Goal global indicators.","Սեղմեք յուրաքանչյուր նպատակի վրա %before_link որոնում, %after_link երկիր_անվանում Կայուն Զարգացման Նպատակների գլոբալ ցուցանիշների համար "
+post:posts_by_category,Posts by Category,Գրառումներ ըստ կատեգորիաների  
+post:view_all_in_category,View all posts in the %category_name category,Տեսնել բոլոր գրառումները %category_name category
+menu:about,About,Վերաբերյալ
+menu:contact_us,Contact us,Կապ մեզ հետ
+menu:cookies,Cookies,Քուկիներ 
+menu:faq,FAQ,ՀՏՀ
+menu:goals,goals,goals
+menu:guidance,Guidance,Ուղեցույց
+menu:menu,Menu,Ցանկ
+menu:publications,Publications,Հրապարակումներ
+menu:reporting_status,Reporting Status,Հաշվետվության կարգավիճակը 
+menu:updates,Updates,
+global_goals:1-short,No poverty,Ոչ աղքատությանը
+global_goals:1-title,End poverty in all its forms everywhere,Ամենուրեք վերացնել աղքատությունը՝ իր բոլոր ձևերով ու դրսևորումներով
+global_goals:10-short,Reduced inequalities,Կրճատված անհավասարություն
+global_goals:10-title,Reduce inequality within and among countries,Կրճատել անհավասարությունը երկրների ներսում և դրանց միջև
+global_goals:11-short,Sustainable cities & communities,Կայուն քաղաքներ և համայնքներ
+global_goals:11-title,"Make cities and human settlements inclusive, safe, resilient and sustainable","Քաղաքները և մարդկային բնակավայրերը դարձնել ներառական, դիմակայուն, անվտանգ և կայուն"
+global_goals:12-short,Responsible consumption and production,Պատասխանատու սպառում և արտադրություն
+global_goals:12-title,Ensure sustainable consumption and production patterns,Ապահովել սպառման և արտադրության կայուն մոդելներ
+global_goals:13-short,Climate action,Գործողություն՝ ի նպաստ կլիմայի
+global_goals:13-title,Take urgent action to combat climate change and its impacts,"Ձեռնարկել անհապաղ գործողություններ՝ պայքարելու կլիմայի
+փոփոխության և դրա ազդեցությունների դեմ"
+global_goals:14-short,Life below water,Կյանքը ջրի տակ
+global_goals:14-title,"Conserve and sustainably use the oceans, seas and marine resources for sustainable development","Ապահովել օվկիանոսների, ծովերի ու ջրային պաշարների պահպանությունը և կայուն օգտագործումը՝ հանուն կայուն զարգացման"
+global_goals:15-short,Life on land,Կյանքը ցամաքում
+global_goals:15-title,"Protect, restore and promote sustainable use of terrestrial ecosystems, sustainably manage forests, combat desertification, and halt and reverse land degradation and halt biodiversity loss","Պահպանել, վերականգնել և խթանել ցամաքային էկոհամակարգերի կայուն օգտագործումը, ապահովել անտառների կայուն կառավարումը,
+պայքարել անապատացման դեմ, դադարեցնել և շրջադարձել հողերի
+վատթարացումը, կասեցնել կենսաբազմազանության կորուստը"
+global_goals:16-short,Peace and justice - strong institutions,"Խաղաղություն, արդարություն և ամուր հաստատություններ"
+global_goals:16-title,"Promote peaceful and inclusive societies for sustainable development, provide access to justice for all and build effective, accountable and inclusive institutions at all levels","Խթանել խաղաղ և ներառական հասարակությունների կառուցումը՝ հանուն կայուն զարգացման, բոլորի համար հասանելի դարձնել արդարությունը, բոլոր մակարդակներում ստեղծել արդյունավետ, հաշվետու և ներառական հաստատություններ"
+global_goals:17-short,Partnerships for the goals,Համագործակցություն՝ նպատակների համար
+global_goals:17-title,Strengthen the means of implementation and revitalize the Global Partnership for Sustainable Development,Ուժեղացնել կայուն զարգացման իրագործման միջոցները և ակտիվացնել գլոբալ գործընկերությունը հանուն այս նպատակի
+global_goals:2-short,Zero hunger,Ոչ սովին
+global_goals:2-title,"End hunger, achieve food security and improved nutrition and promote sustainable agriculture","Վերացնել սովը, հասնել պարենային ապահովության ու բարելավված սնուցման, խթանել գյուղատնտեսության կայուն զարգացումը"
+global_goals:3-short,Good health and well-being,Առողջություն և բարեկեցություն
+global_goals:3-title,Ensure healthy lives and promote well-being for all at all ages,Ապահովել առողջ կյանք և խթանել բարեկեցություն բոլորի համար՝ անկախ տարիքից
+global_goals:4-short,Quality education,Որակյալ կրթություն
+global_goals:4-title,Ensure inclusive and equitable quality education and promote lifelong learning opportunities for all,Ապահովել ներառական ու համապատասխան որակյալ կրթություն բոլորի համար և խթանել ողջ կյանքի ընթացքում ուսման հնարավորություններ
+global_goals:5-short,Gender equality,Գենդերային հավասարություն
+global_goals:5-title,Achieve gender equality and empower all women and girls,Հասնել գենդերային հավասարության և զորացնել բոլոր կանանց ու աղջիկներին
+global_goals:6-short,Clean water and sanitation,Մաքուր ջուր և սանիտարական պայմաններ
+global_goals:6-title,Ensure availability and sustainable management of water and sanitation for all,Ապահովել հասանելիություն և կայուն ձևով կառավարել ջուրն ու սանիտարական պայմանները բոլորի համար
+global_goals:7-short,Affordable and clean energy,Մատչելի և մաքուր էներգիա
+global_goals:7-title,"Ensure access to affordable, reliable, sustainable and modern energy for all","Ապահովել բոլորի համար մատչելի, հուսալի, կայուն և ժամանակակից էներգիայի հասանելիություն"
+global_goals:8-short,Decent jobs and economic growth,Արժանապատիվ աշխատանք և տնտեսական աճ
+global_goals:8-title,"Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all","Խթանել կայացած, ներառական և կայուն տնտեսական աճ, լիարժեք և արտադրողական զբաղվածություն և արժանապատիվ աշխատանք բոլորի համար"
+global_goals:9-short,"Industry, innovation and infrastructure","Արդյունաբերություն, նորարարություն և ենթակառուցվածքներ"
+global_goals:9-title,"Build resilient infrastructure, promote inclusive and sustainable industrialization and foster innovation","Ստեղծել դիմակայուն ենթակառուցվածքներ, աջակցել ներառական և կայուն արդյունաբերության զարգացմանը և խթանել նորարարությունը"
+header:alpha,Alpha,Ալֆա
+header:default_contrast,Default contrast,լռելյայն հակադրություն
+header:disable_high_contrast,Disable high contrast,Անջատեք բարձր հակադրություն
+header:disclaimer,"This is a development website. We welcome your <a href=""mailto:%email_address"">feedback</a>.","Սա մշակման վեբ կայք է: Մենք ողջունում ենք ձեր <a href=""mailto:%email_address""> հետադարձ կապը  "
+header:enable_high_contrast,Enable high contrast,Միացնել բարձր հակադրություն
+header:high_contrast,High contrast,բարձր հակադրություն
+header:skip_link,Skip to main content,Անցեք հիմնական բովանդակությանը 
+header:tag_line,17 Goals to Transform our World,17 նպատակներ մեր աշխարհը փոխակերպելու համար
+status:exploring_data_sources,Exploring data sources,Ուսումնասիրել տվյալների աղբյուրները 
+status:not_applicable,Not applicable,ոչ կիրառելի
+status:overall_reporting_status,Overall Reporting Status,Ընդհանուր հաշվետվության կարգավիճակը
+status:reported_online,Reported online,Առցանց հաշվետվություն 
+status:reporting_status,Reporting Status,Հաշվետվության կարգավիճակը 
+status:statistics_in_progress,Statistics in progress,Վիճակագրությունը ընթացքում է
+status:status_by_goal,Status by goal,Գոլի կարգավիճակ
 global_indicators:1-1-1-title,"Proportion of population below the international poverty line, by sex, age, employment status and geographical location (urban/rural)","Աղքատության միջազգային շեմից ցած ապրող բնակչության համամասնությունը՝ ըստ սեռի, տարիքային խմբի, զբաղվածության կարգավիճակի և աշխարհագրական վայրի (քաղաքային/գյուղական)"
 global_indicators:1-2-1-title,"Proportion of population living below the national poverty line, by sex and age",Աղքատության ազգային շեմից ցած ապրող բնակչության համամասնությունը՝ ըստ սեռի և տարիքային խմբի 
 global_indicators:1-2-2-title,"Proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions","Ըստ ազգային սահմանումների աղքատության բոլոր ձևերի մեջ ապրող բոլոր տարիքների տղամարդկանց, կանանց և երեխաների համամասնությունը "
@@ -371,8 +437,7 @@ global_indicators:3-d-1-title,International Health Regulations (IHR) capacity an
 global_indicators:3-d-2-title,Percentage of bloodstream infections due to selected antimicrobial-resistant organisms,Percentage of bloodstream infections due to selected antimicrobial-resistant organisms
 global_indicators:4-1-1-title,"Proportion of children and young people (a) in grades 2/3; (b) at the end of primary; and (c) at the end of lower secondary achieving at least a minimum proficiency level in (i) reading and (ii) mathematics, by sex","Երեխաների և երիտասարդների համամասնությունը՝ (ա) 2¬րդ կամ 3¬րդ դասարաններում, (բ) տարրական դպրոցն ավարտելիս, (գ) հիմնական դպրոցն ավարտելիս, ովքեր ձեռք են բերել առնվազն գիտելիքների նվազագույն մակարդակ (i) ընթերցանությունից և (ii) մաթեմատիկայից՝ ըստ սեռի "
 global_indicators:4-1-2-title,"completion rate(primary education, lower secondary education, upper secondary education)","completion rate(primary education, lower secondary education, upper secondary education)"
-global_indicators:4-2-1-title,"Proportion of children under 5 years of age who are developmentally on track in health, learning and psychosocial well-being, by sex","Մինչև 5 տարեկան երեխաների համամասնությունը, ովքեր զարգացման առումով ունեն առողջության, ուսումնառության և սոցիալ-հոգեբանական բարեկեցության բնականոն մակարդակ՝ ըստ սեռի "
-global_indicators:4-2-2-title,"Participation rate in organized learning (one year before the official primary entry age), by sex",Կազմակերպված ուսումնառությանը մասնակցության թիվը (տարրական դպրոց ընդունվելու պաշտոնական տարիքից մեկ տարի առաջ)՝ ըստ սեռի 
+global_indicators:4-2-1-title,"Participation rate in organized learning (one year before the official primary entry age), by sex",Կազմակերպված ուսումնառությանը մասնակցության թիվը (տարրական դպրոց ընդունվելու պաշտոնական տարիքից մեկ տարի առաջ)՝ ըստ սեռի 
 global_indicators:4-3-1-title,"Participation rate of youth and adults in formal and non-formal education and training in the previous 12 months, by sex",Ֆորմալ և ոչ ֆորմալ կրթությանը և ուսուցմանը երիտասարդների և մեծահասակների մասնակցության մակարդակը նախորդ 12 ամիսներին՝ ըստ սեռի
 global_indicators:4-4-1-title,"Proportion of youth and adults with information and communications technology (ICT) skills, by type of skill",Տեղեկատվական և հաղորդակցման տեխնոլոգիաների (ՏՀՏ) հմտությունների տիրապետող պատանիների և (կամ) մեծահասակների համամասնությունը ըստ հմտության տեսակի 
 global_indicators:4-5-1-title,"Parity indices (female/male, rural/urban, bottom/top wealth quintile and others such as disability status, indigenous peoples and conflict-affected, as data become available) for all education indicators on this list that can be disaggregated","Հավասարության համաթվեր (իգական/արական, գյուղական/ քաղաքային, ունևորության ստորին/ վերին քվինտիլ և այլն, օրինակ, հաշմանդամության կարգավիճակ, տեղաբնիկ ժողովուրդներ և հակամարտություններից տուժածներ, երբ տվյալներ առկա լինեն) այս ցանկի բոլոր կրթական ցուցանիշների համար, որոնք հնարավոր է տարանջատել "
@@ -525,6 +590,12 @@ metadata_fields:target,Target name,Թիրախի անվանումը
 metadata_fields:target_id,Target number,Թիրախի համարը 
 metadata_fields:un_custodian_agency,UN custodian agency,ՄԱԿ -ի պահառու գործակալություն
 metadata_fields:un_designated_tier,UN designated tier,ՄԱԿ-ի կողմից նշանակված աստիճան 
+search:found_in,found in,Գտնված է
+search:indicator_search,Indicator search,Ցուցանիշների որոնում
+search:keywords,Keywords,Հիմնաբառեր
+search:no_results,No results,Արդյունքներ չկան
+search:search,Search,Որոնում
+search:search_results_for,Search results for,Որոնման արդյունքներ
 indicator:chart,Chart,Գծապատկեր
 indicator:clear_all,Clear all,Մաքրել ամեն ինչ 
 indicator:clear_selections,Clear selections,Մաքրել նշվածները 
@@ -562,75 +633,3 @@ indicator:unit_of_measurement,Unit of Measurement,Չափման  միավոր
 indicator:units_type,Units type,Միավորների տեսակը
 indicator:variable_hint,Available when '%field' is selected,"Հասանելի է, երբ ընտրված է դաշտը '%field' "
 indicator:view_indicator_list,View this goal's indicator list,Տեսնել այս նպատակի ցուցանիշների ցանկը
-frontpage:heading,%name data for Sustainable Development Goal indicators,%name Կայուն զարգացման նպատակների ցուցանիշների տվյալներ
-frontpage:instructions,"Click on each goal, or %before_link search, %after_link for %name statistics for Sustainable Development Goal global indicators.","Սեղմեք յուրաքանչյուր նպատակի վրա %before_link որոնում, %after_link երկիր_անվանում Կայուն Զարգացման Նպատակների գլոբալ ցուցանիշների համար "
-search:found_in,found in,Գտնված է
-search:indicator_search,Indicator search,Ցուցանիշների որոնում
-search:keywords,Keywords,Հիմնաբառեր
-search:no_results,No results,Արդյունքներ չկան
-search:search,Search,Որոնում
-search:search_results_for,Search results for,Որոնման արդյունքներ
-post:posts_by_category,Posts by Category,Գրառումներ ըստ կատեգորիաների  
-post:view_all_in_category,View all posts in the %category_name category,Տեսնել բոլոր գրառումները %category_name category
-global_goals:1-short,No poverty,Ոչ աղքատությանը
-global_goals:1-title,End poverty in all its forms everywhere,Ամենուրեք վերացնել աղքատությունը՝ իր բոլոր ձևերով ու դրսևորումներով
-global_goals:10-short,Reduced inequalities,Կրճատված անհավասարություն
-global_goals:10-title,Reduce inequality within and among countries,Կրճատել անհավասարությունը երկրների ներսում և դրանց միջև
-global_goals:11-short,Sustainable cities & communities,Կայուն քաղաքներ և համայնքներ
-global_goals:11-title,"Make cities and human settlements inclusive, safe, resilient and sustainable","Քաղաքները և մարդկային բնակավայրերը դարձնել ներառական, դիմակայուն, անվտանգ և կայուն"
-global_goals:12-short,Responsible consumption and production,Պատասխանատու սպառում և արտադրություն
-global_goals:12-title,Ensure sustainable consumption and production patterns,Ապահովել սպառման և արտադրության կայուն մոդելներ
-global_goals:13-short,Climate action,Գործողություն՝ ի նպաստ կլիմայի
-global_goals:13-title,Take urgent action to combat climate change and its impacts,"Ձեռնարկել անհապաղ գործողություններ՝ պայքարելու կլիմայի
-փոփոխության և դրա ազդեցությունների դեմ"
-global_goals:14-short,Life below water,Կյանքը ջրի տակ
-global_goals:14-title,"Conserve and sustainably use the oceans, seas and marine resources for sustainable development","Ապահովել օվկիանոսների, ծովերի ու ջրային պաշարների պահպանությունը և կայուն օգտագործումը՝ հանուն կայուն զարգացման"
-global_goals:15-short,Life on land,Կյանքը ցամաքում
-global_goals:15-title,"Protect, restore and promote sustainable use of terrestrial ecosystems, sustainably manage forests, combat desertification, and halt and reverse land degradation and halt biodiversity loss","Պահպանել, վերականգնել և խթանել ցամաքային էկոհամակարգերի կայուն օգտագործումը, ապահովել անտառների կայուն կառավարումը,
-պայքարել անապատացման դեմ, դադարեցնել և շրջադարձել հողերի
-վատթարացումը, կասեցնել կենսաբազմազանության կորուստը"
-global_goals:16-short,Peace and justice - strong institutions,"Խաղաղություն, արդարություն և ամուր հաստատություններ"
-global_goals:16-title,"Promote peaceful and inclusive societies for sustainable development, provide access to justice for all and build effective, accountable and inclusive institutions at all levels","Խթանել խաղաղ և ներառական հասարակությունների կառուցումը՝ հանուն կայուն զարգացման, բոլորի համար հասանելի դարձնել արդարությունը, բոլոր մակարդակներում ստեղծել արդյունավետ, հաշվետու և ներառական հաստատություններ"
-global_goals:17-short,Partnerships for the goals,Համագործակցություն՝ նպատակների համար
-global_goals:17-title,Strengthen the means of implementation and revitalize the Global Partnership for Sustainable Development,Ուժեղացնել կայուն զարգացման իրագործման միջոցները և ակտիվացնել գլոբալ գործընկերությունը հանուն այս նպատակի
-global_goals:2-short,Zero hunger,Ոչ սովին
-global_goals:2-title,"End hunger, achieve food security and improved nutrition and promote sustainable agriculture","Վերացնել սովը, հասնել պարենային ապահովության ու բարելավված սնուցման, խթանել գյուղատնտեսության կայուն զարգացումը"
-global_goals:3-short,Good health and well-being,Առողջություն և բարեկեցություն
-global_goals:3-title,Ensure healthy lives and promote well-being for all at all ages,Ապահովել առողջ կյանք և խթանել բարեկեցություն բոլորի համար՝ անկախ տարիքից
-global_goals:4-short,Quality education,Որակյալ կրթություն
-global_goals:4-title,Ensure inclusive and equitable quality education and promote lifelong learning opportunities for all,Ապահովել ներառական ու համապատասխան որակյալ կրթություն բոլորի համար և խթանել ողջ կյանքի ընթացքում ուսման հնարավորություններ
-global_goals:5-short,Gender equality,Գենդերային հավասարություն
-global_goals:5-title,Achieve gender equality and empower all women and girls,Հասնել գենդերային հավասարության և զորացնել բոլոր կանանց ու աղջիկներին
-global_goals:6-short,Clean water and sanitation,Մաքուր ջուր և սանիտարական պայմաններ
-global_goals:6-title,Ensure availability and sustainable management of water and sanitation for all,Ապահովել հասանելիություն և կայուն ձևով կառավարել ջուրն ու սանիտարական պայմանները բոլորի համար
-global_goals:7-short,Affordable and clean energy,Մատչելի և մաքուր էներգիա
-global_goals:7-title,"Ensure access to affordable, reliable, sustainable and modern energy for all","Ապահովել բոլորի համար մատչելի, հուսալի, կայուն և ժամանակակից էներգիայի հասանելիություն"
-global_goals:8-short,Decent jobs and economic growth,Արժանապատիվ աշխատանք և տնտեսական աճ
-global_goals:8-title,"Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all","Խթանել կայացած, ներառական և կայուն տնտեսական աճ, լիարժեք և արտադրողական զբաղվածություն և արժանապատիվ աշխատանք բոլորի համար"
-global_goals:9-short,"Industry, innovation and infrastructure","Արդյունաբերություն, նորարարություն և ենթակառուցվածքներ"
-global_goals:9-title,"Build resilient infrastructure, promote inclusive and sustainable industrialization and foster innovation","Ստեղծել դիմակայուն ենթակառուցվածքներ, աջակցել ներառական և կայուն արդյունաբերության զարգացմանը և խթանել նորարարությունը"
-status:exploring_data_sources,Exploring data sources,Ուսումնասիրել տվյալների աղբյուրները 
-status:not_applicable,Not applicable,ոչ կիրառելի
-status:overall_reporting_status,Overall Reporting Status,Ընդհանուր հաշվետվության կարգավիճակը
-status:reported_online,Reported online,Առցանց հաշվետվություն 
-status:reporting_status,Reporting Status,Հաշվետվության կարգավիճակը 
-status:statistics_in_progress,Statistics in progress,Վիճակագրությունը ընթացքում է
-status:status_by_goal,Status by goal,Գոլի կարգավիճակ
-header:alpha,Alpha,Ալֆա
-header:default_contrast,Default contrast,լռելյայն հակադրություն
-header:disable_high_contrast,Disable high contrast,Անջատեք բարձր հակադրություն
-header:disclaimer,"This is a development website. We welcome your <a href=""mailto:%email_address"">feedback</a>.","Սա մշակման վեբ կայք է: Մենք ողջունում ենք ձեր <a href=""mailto:%email_address""> հետադարձ կապը  "
-header:enable_high_contrast,Enable high contrast,Միացնել բարձր հակադրություն
-header:high_contrast,High contrast,բարձր հակադրություն
-header:skip_link,Skip to main content,Անցեք հիմնական բովանդակությանը 
-header:tag_line,17 Goals to Transform our World,17 նպատակներ մեր աշխարհը փոխակերպելու համար
-menu:about,About,Վերաբերյալ
-menu:contact_us,Contact us,Կապ մեզ հետ
-menu:cookies,Cookies,Քուկիներ 
-menu:faq,FAQ,ՀՏՀ
-menu:goals,goals,goals
-menu:guidance,Guidance,Ուղեցույց
-menu:menu,Menu,Ցանկ
-menu:publications,Publications,Հրապարակումներ
-menu:reporting_status,Reporting Status,Հաշվետվության կարգավիճակը 
-menu:updates,Updates,
