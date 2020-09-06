@@ -19,7 +19,7 @@ geographical_area: 지역
 unit_of_measurement: 단위
 footnote: 주석
 units_type: 구분
-legend_help: 성, 연령 등에 따른 세분화된 값을 보려면 해당되는 항목을 선택해 주십시오.
+legend_help: ''
 dataset_size_warning: 너무 많은 항목이 선택되었습니다.
   선택을 취소해 주시기 바랍니다.
 view_indicator_list: View this goal's indicator list
