@@ -3,9 +3,9 @@ title: SDG Translations
 description: >-
   A project to compile and translate text related to the United Nation's
   Sustainable Development Goals, and then provide those translations as JSON.
-baseurl: "/sdg-translations-beta"
+baseurl: "/sdg-translations"
 url: "https://kostat-sdg-kor.github.io"
-repo: "https://github.com/kostat-sdg-kor/sdg-translations-beta"
+repo: "https://github.com/kostat-sdg-kor/sdg-translations"
 
 # Build settings
 markdown: kramdown
