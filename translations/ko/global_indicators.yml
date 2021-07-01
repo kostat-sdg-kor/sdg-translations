@@ -1,471 +1,242 @@
-1-1-1-title: Proportion of the population living below the international poverty line
-  by sex, age, employment status and geographic location (urban/rural)
-1-2-1-title: Proportion of population living below the national poverty line, by sex
-  and age
-1-2-2-title: Proportion of men, women and children of all ages living in poverty in
-  all its dimensions according to national definitions
-1-3-1-title: Proportion of population covered by social protection floors/systems,
-  by sex, distinguishing children, unemployed persons, older persons, persons with
-  disabilities, pregnant women, newborns, work-injury victims and the poor and the
-  vulnerable
-1-4-1-title: Proportion of population living in households with access to basic services
-1-4-2-title: Proportion of total adult population with secure tenure rights to land,
-  (a) with legally recognized documentation, and (b) who perceive their rights to
-  land as secure, by sex and type of tenure
-1-5-1-title: Number of deaths, missing persons and directly affected persons attributed
-  to disasters per 100,000 population
-1-5-2-title: Direct economic loss attributed to disasters in relation to global gross
-  domestic product (GDP)
-1-5-3-title: Number of countries that adopt and implement national disaster risk reduction
-  strategies in line with the Sendai Framework for Disaster Risk Reduction 2015–2030
-1-5-4-title: Proportion of local governments that adopt and implement local disaster
-  risk reduction strategies in line with national disaster risk reduction strategies
-1-a-1-title: Total official development assistance grants from all donors that focus
-  on poverty reduction as a share of the recipient country’s gross national income
-1-a-2-title: Proportion of total government spending on essential services (education,
-  health and social protection)
+-1-title: 수원국 GNI 대비 빈곤감소 ODA 총액 비율
+1-a-2-title: 정부 총지출 중 필수 서비스(교육, 의료 및 사회적 보호)에 소요되는 지출 비율
 1-a-3-title: Sum of total grants and non-debt-creating inflows directly allocated
-  to poverty reduction programmes as a proportion of GDP
-1-b-1-title: Pro-poor public social spending
-10-1-1-title: Growth rates of household expenditure or income per capita among the
-  bottom 40 per cent of the population and the total population
-10-2-1-title: Proportion of people living below 50 per cent of median income, by sex,
-  age and persons with disabilities
-10-3-1-title: Proportion of population reporting having personally felt discriminated
-  against or harassed in the previous 12 months on the basis of a ground of discrimination
-  prohibited under international human rights law
-10-4-1-title: Labour share of GDP
-10-4-2-title: Redistributive impact of fiscal policy
-10-5-1-title: Financial Soundness Indicators
-10-6-1-title: Proportion of members and voting rights of developing countries in international
-  organizations
-10-7-1-title: Recruitment cost borne by employee as a proportion of monthly income
-  earned in country of destination
-10-7-2-title: Number of countries with migration policies that facilitate orderly,
-  safe, regular and responsible migration and mobility of people
-10-7-3-title: Number of people who died or disappeared in the process of migration
-  towards an international destination
-10-7-4-title: Proportion of the population who are refugees, by country of origin
-10-a-1-title: Proportion of tariff lines applied to imports from least developed countries
-  and developing countries with zero-tariff
-10-b-1-title: Total resource flows for development, by recipient and donor countries
-  and type of flow (e.g. official development assistance, foreign direct investment
-  and other flows)
-10-c-1-title: Remittance costs as a proportion of the amount remitted
-11-1-1-title: Proportion of urban population living in slums, informal settlements
-  or inadequate housing
-11-2-1-title: Proportion of population that has convenient access to public transport,
-  by sex, age and persons with disabilities
-11-3-1-title: Ratio of land consumption rate to population growth rate
-11-3-2-title: Proportion of cities with a direct participation structure of civil
-  society in urban planning and management that operate regularly and democratically
-11-4-1-title: Total per capita expenditure on the preservation, protection and conservation
-  of all cultural and natural heritage, by source of funding (public, private), type
-  of heritage (cultural, natural) and level of government (national, regional, and
-  local/municipal)
-11-5-1-title: Number of deaths, missing persons and directly affected persons attributed
-  to disasters per 100,000 population
-11-5-2-title: Direct economic loss in relation to global GDP, damage to critical infrastructure
-  and number of disruptions to basic services, attributed to disasters
-11-6-1-title: Proportion of municipal solid waste collected and managed in controlled
-  facilities out of total municipal waste generated, by cities
-11-6-2-title: Annual mean levels of fine particulate matter (e.g. PM2.5 and PM10)
-  in cities (population weighted)
-11-7-1-title: Average share of the built-up area of cities that is open space for
-  public use for all, by sex, age and persons with disabilities
-11-7-2-title: Proportion of persons victim of physical or sexual harassment, by sex,
-  age, disability status and place of occurrence, in the previous 12 months
-11-a-1-title: Number of countries that have national urban policies or regional development
-  plans that (a) respond to population dynamics; (b) ensure balanced territorial development;
-  and (c) increase local fiscal space
-11-b-1-title: Number of countries that adopt and implement national disaster risk
-  reduction strategies in line with the Sendai Framework for Disaster Risk Reduction
-  2015–2030
-11-b-2-title: Proportion of local governments that adopt and implement local disaster
-  risk reduction strategies in line with national disaster risk reduction strategies
+1-b-1-title: 빈곤친화적 공공사회지출
+10-1-1-title: 총인구 및 소득 하위 40% 인구의 1인당 가구 지출 또는 소득 성장률
+10-2-1-title: 중위소득 50% 미만 인구의 성, 연령 및 장애별 비율
+10-3-1-title: 국제인권법 차별금지기준으로 지난 12개월 동안 차별 또는 괴롭힘을 당했다고 느꼈음을 보고한 인구의 비율
+10-4-1-title: GDP 대비 노동소득 비율
+10-4-2-title: 재정 정책의 재분배 효과
+10-5-1-title: 금융건전성지표
+10-6-1-title: 국제기구에서 개발도상국의 회원 및 투표권 비율
+10-7-1-title: 이주국가에서 얻은 월소득 대비 이주노동자가 부담하는 고용비용의 비율
+10-7-2-title: 질서 있고 안전하고 정규적이고 책임 있는 이주와 이동성을 촉진하는 이주정책을 가진 국가의 수
+10-7-3-title: 국제이주 과정에서 사망하거나 실종된 사람의 수
+10-7-4-title: 출신국별 난민 인구 비율
+10-a-1-title: 최빈개도국과 개발도상국으로부터의 수입에 적용되는 무관세 비율
+10-b-1-title: 공여국과 수원국별 및 유형별 개발재원 총액(ODA, 해외직접투자 등)
+10-c-1-title: 송금총액 대비 송금비용 비율
+11-1-1-title: 빈민가, 임시거처 또는 최소한의 요건을 갖추지 못한 주거시설에 거주하는 도시인구비율
+11-2-1-title: 대중교통에 편리하게 접근할 수 있는 인구비율(연령, 성 및 장애별)
+11-3-1-title: 인구성장률 대비 토지소모 비율
+11-3-2-title: 정기적이고 민주적으로 운영되는 도시계획 및 관리에 시민사회가 직접 참여하는 구조를 가지고 있는 도시의 비율
+11-4-1-title: 모든 문화 및 자연유산의 보존, 보호 및 관리에 배정된 1인당 총 지출액(자금원천(공공, 민간), 유산종류(문화, 자연), 정부유형(중앙, 광역, 시군)별) 
+11-5-1-title: 인구 1십만 명당 재난으로 인해 사망, 실종, 직접적 피해를 입은 인구 수
+11-5-2-title: 중요 기반시설 피해 및 기본적인 서비스의 중단 등 재난으로 인한 GDP 대비 직접적인 경제적 손실 
+11-6-1-title: 지자체에서 수거되고 관리되는 고형 폐기물 비율
+11-6-2-title: 도시 미세먼지의 연평균수준 (인구수에 따른 가중) 
+11-7-1-title: 도시에서 공공목적의 용도를 위해 개방된 공용 공간이 차지하는 평균비율 (연령, 성 및 장애별)
+11-7-2-title: 지난 12개월 동안 신체적 혹은 성적 괴롭힘을 당한 인구의 성, 연령, 장애, 발생장소별 비율 
+11-a-1-title: (a) 인구다양성, (b) 토지균형개발, (c) 지방재정강화를 고려한 국가 도시정책 혹은 지역개발계획이 있는 국가의 수 
+11-b-1-title: 「재난위험감축을 위한 센다이프레임워크 (2015-2030)」에 따라 국가재난위험감축전략을 채택하고 이행하는 국가의 수
+11-b-2-title: 국가의 재난위험감축전략에 따라 지자체 차원에서 재난위험감축전략을 갖추고 있는 비율
 11-c-1-title: Proportion of financial support to the least developed countries that
-  is allocated to the construction and retrofitting of sustainable, resilient and
-  resource-efficient buildings utilizing local materials
-12-1-1-title: Number of countries developing, adopting or implementing policy instruments
-  aimed at supporting the shift to sustainable consumption and production
-12-2-1-title: Material footprint, material footprint per capita, and material footprint
-  per GDP
-12-2-2-title: Domestic material consumption, domestic material consumption per capita,
-  and domestic material consumption per GDP
-12-3-1-title: (a) Food loss index and (b) food waste index
-12-4-1-title: Number of parties to international multilateral environmental agreements
-  on hazardous waste, and other chemicals that meet their commitments and obligations
-  in transmitting information as required by each relevant agreement
-12-4-2-title: (a) Hazardous waste generated per capita; and (b) proportion of hazardous
-  waste treated, by type of treatment
-12-5-1-title: National recycling rate, tons of material recycled
-12-6-1-title: Number of companies publishing sustainability reports
-12-7-1-title: Degree of sustainable public procurement policies and action plan implementation
-12-8-1-title: Extent to which (i) global citizenship education and (ii) education
-  for sustainable development are mainstreamed in (a) national education policies;
-  (b) curricula; (c) teacher education; and (d) student assessment
-12-a-1-title: Installed renewable energy-generating capacity in developing countries
-  (in watts per capita)
-12-b-1-title: Implementation of standard accounting tools to monitor the economic
-  and environmental aspects of tourism sustainability
-12-c-1-title: Amount of fossil-fuel subsidies per unit of GDP (production and consumption)
-13-1-1-title: Number of deaths, missing persons and directly affected persons attributed
-  to disasters per 100,000 population
-13-1-2-title: Number of countries that adopt and implement national disaster risk
-  reduction strategies in line with the Sendai Framework for Disaster Risk Reduction
-  2015–2030
-13-1-3-title: Proportion of local governments that adopt and implement local disaster
-  risk reduction strategies in line with national disaster risk reduction strategies
-13-2-1-title: Number of countries with nationally determined contributions, long-term
-  strategies, national adaptation plans, strategies as reported in adaptation communications
-  and national communications
-13-2-2-title: Total greenhouse gas emissions per year
-13-3-1-title: Extent to which (i) global citizenship education and (ii) education
-  for sustainable development are mainstreamed in (a) national education policies;
-  (b) curricula; (c) teacher education; and (d) student assessment
+12-1-1-title: 지속가능한 소비 및 생산을 지원하는 정책수단을 개발, 채택, 이행하고 있는 국가 수
+12-2-1-title: 총 및 1인당 물질발자국, GDP 대비 물질발자국
+12-2-2-title: 총 및 1인당 물질소비량, GDP 대비 물질소비량
+12-3-1-title: 식량손실지수 및 식량폐기지수
+12-4-1-title: 유해 폐기물과 기타 화학물질에 대한 국제 다자간 환경협약이 요구하는 정보제공에 관한 약속과 의무를 이행하는 당사국 수
+12-4-2-title: (a) 1인당 발생시키는 유해폐기물과 (b) 유해폐기물 처리 비율(처리유형별)
+12-5-1-title: 국가 재활용 비율, 물질재활용 톤
+12-6-1-title: 지속가능성 보고서를 발간하는 기업의 수
+12-7-1-title: 지속 가능한 공공 조달 정책과 실행 계획 이행 정도
+12-8-1-title: (i) 세계시민교육 (ii)지속가능발전교육이 (a)국가교육정책 (b) 교육과정 (c) 교사교육 (d) 학생평가 영역에서 주류화 된 정도
+12-a-1-title: 개도국의 재생에너지 설비 용량(인당 와트)
+12-b-1-title: 지속가능한 관광 측면에서 경제환경 측면을 모니터링하는 표준 회계 툴 이행
+12-c-1-title: GDP 단위(생산과 소비)당 화석연료보조금액
+13-1-1-title: 십만 명당 재난으로 인해 사망, 실종, 직접적 피해(affected)를 받은 인구 수
+13-1-2-title: 「재난위험감축을 위한 센다이프레임워크 (2015-2030)」에 따라 국가재난위험감축전략을 채택하고 이행하는 국가의 수
+13-1-3-title: 국가의 재난위험감축전략에 따라 지자체 차원에서 재난위험감축전략을 갖추고 있는 비율
+13-2-1-title: NDCs, 장기전략, 국가적응계획 등을 보유한 국가의 수 
+13-2-2-title: 전체 온실가스 배출량
+13-3-1-title: (i) 세계시민교육 (ii)지속가능발전교육이 (a)국가교육정책 (b) 교육과정 (c) 교사교육 (d) 학생평가 영역에서 주류화 된 정도
 13-3-2-title: Number of countries that have communicated the strengthening of institutional,
-  systemic and individual capacity-building to implement adaptation, mitigation and
-  technology transfer, and development actions
-13-a-1-title: Amounts provided and mobilized in United States dollars per year in
-  relation to the continued existing collective mobilization goal of the $100 billion
-  commitment through to 2025
-13-b-1-title: Number of least developed countries and small island developing States
-  with nationally determined contributions, long-term strategies, national adaptation
-  plans, strategies as reported in adaptation communications and national communications
-14-1-1-title: (a) Index of coastal eutrophication; and (b) plastic debris density
-14-2-1-title: Number of countries using ecosystem-based approaches to managing marine
-  areas
-14-3-1-title: Average marine acidity (pH) measured at agreed suite of representative
-  sampling stations
-14-4-1-title: Proportion of fish stocks within biologically sustainable levels
-14-5-1-title: Coverage of protected areas in relation to marine areas
-14-6-1-title: Degree of implementation of international instruments aiming to combat
-  illegal, unreported and unregulated fishing
-14-7-1-title: Sustainable fisheries as a proportion of GDP in small island developing
-  States, least developed countries and all countries
-14-a-1-title: Proportion of total research budget allocated to research in the field
-  of marine technology
-14-b-1-title: Degree of application of a legal/regulatory/ policy/institutional framework
-  which recognizes and protects access rights for small-scale fisheries
-14-c-1-title: Number of countries making progress in ratifying, accepting and implementing
-  through legal, policy and institutional frameworks, ocean-related instruments that
-  implement international law, as reflected in the United Nations Convention on the
-  Law of the Sea, for the conservation and sustainable use of the oceans and their
-  resources
-15-1-1-title: Forest area as a proportion of total land area
-15-1-2-title: Proportion of important sites for terrestrial and freshwater biodiversity
-  that are covered by protected areas, by ecosystem type
-15-2-1-title: Progress towards sustainable forest management
-15-3-1-title: Proportion of land that is degraded over total land area
-15-4-1-title: Coverage by protected areas of important sites for mountain biodiversity
-15-4-2-title: Mountain Green Cover Index
-15-5-1-title: Red List Index
-15-6-1-title: Number of countries that have adopted legislative, administrative and
-  policy frameworks to ensure fair and equitable sharing of benefits
-15-7-1-title: Proportion of traded wildlife that was poached or illicitly trafficked
-15-8-1-title: Proportion of countries adopting relevant national legislation and adequately
-  resourcing the prevention or control of invasive alien species
-15-9-1-title: (a) Number of countries that have established national targets in accordance
-  with or similar to Aichi Biodiversity Target 2 of the Strategic Plan for Biodiversity
-  2011–2020 in their national biodiversity strategy and action plans and the progress
-  reported towards these targets; and (b) integration of biodiversity into national
-  accounting and reporting systems, defined as implementation of the System of Environmental-Economic
-  Accounting
-15-a-1-title: (a) Official development assistance on conservation and sustainable
-  use of biodiversity; and (b) revenue generated and finance mobilized from biodiversity-relevant
-  economic instruments
-15-b-1-title: (a) Official development assistance on conservation and sustainable
-  use of biodiversity; and (b) revenue generated and finance mobilized from biodiversity-relevant
-  economic instruments
-15-c-1-title: Proportion of traded wildlife that was poached or illicitly trafficked
-16-1-1-title: Number of victims of intentional homicide per 100,000 population, by
-  sex and age
-16-1-2-title: Conflict-related deaths per 100,000 population, by sex, age and cause
-16-1-3-title: Proportion of population subjected to (a) physical violence, (b) psychological
-  violence and (c) sexual violence in the previous 12 months
-16-1-4-title: Proportion of population that feel safe walking alone around the area
-  they live
-16-10-1-title: Number of verified cases of killing, kidnapping, enforced disappearance,
-  arbitrary detention and torture of journalists, associated media personnel, trade
-  unionists and human rights advocates in the previous 12 months
-16-10-2-title: Number of countries that adopt and implement constitutional, statutory
-  and/or policy guarantees for public access to information
-16-2-1-title: Proportion of children aged 1–17 years who experienced any physical
-  punishment and/or psychological aggression by caregivers in the past month
-16-2-2-title: Number of victims of human trafficking per 100,000 population, by sex,
-  age and form of exploitation
-16-2-3-title: Proportion of young women and men aged 18–29 years who experienced sexual
-  violence by age 18
-16-3-1-title: Proportion of victims of violence in the previous 12 months who reported
-  their victimization to competent authorities or other officially recognized conflict
-  resolution mechanisms
-16-3-2-title: Unsentenced detainees as a proportion of overall prison population
-16-3-3-title: Proportion of the population who have experienced a dispute in the past
-  two years and who accessed a formal or informal dispute resolution mechanism, by
-  type of mechanism
-16-4-1-title: Total value of inward and outward illicit financial flows (in current
-  United States dollars)
-16-4-2-title: Proportion of seized, found or surrendered arms whose illicit origin
-  or context has been traced or established by a competent authority in line with
-  international instruments
-16-5-1-title: Proportion of persons who had at least one contact with a public official
-  and who paid a bribe to a public official, or were asked for a bribe by those public
-  officials, during the previous 12 months
-16-5-2-title: Proportion of businesses that had at least one contact with a public
-  official and that paid a bribe to a public official, or were asked for a bribe by
-  those public officials during the previous 12 months
-16-6-1-title: Primary government expenditures as a proportion of original approved
-  budget, by sector (or by budget codes or similar)
-16-6-2-title: Proportion of population satisfied with their last experience of public
-  services
-16-7-1-title: Proportions of positions in national and local institutions, including
-  (a) the legislatures; (b) the public service; and (c) the judiciary, compared to
-  national distributions, by sex, age, persons with disabilities and population groups
-16-7-2-title: Proportion of population who believe decision-making is inclusive and
-  responsive, by sex, age, disability and population group
-16-8-1-title: Proportion of members and voting rights of developing countries in international
-  organizations
-16-9-1-title: Proportion of children under 5 years of age whose births have been registered
-  with a civil authority, by age
-16-a-1-title: Existence of independent national human rights institutions in compliance
-  with the Paris Principles
-16-b-1-title: Proportion of population reporting having personally felt discriminated
-  against or harassed in the previous 12 months on the basis of a ground of discrimination
-  prohibited under international human rights law
-17-1-1-title: Total government revenue as a proportion of GDP, by source
-17-1-2-title: Proportion of domestic budget funded by domestic taxes
-17-10-1-title: Worldwide weighted tariff-average
-17-11-1-title: Developing countries’ and least developed countries’ share of global
-  exports
-17-12-1-title: Weighted average tariffs faced by developing countries, least developed
-  countries and small island developing States
-17-13-1-title: Macroeconomic Dashboard
-17-14-1-title: Number of countries with mechanisms in place to enhance policy coherence
-  of sustainable development
-17-15-1-title: Extent of use of country-owned results frameworks and planning tools
-  by providers of development cooperation
-17-16-1-title: Number of countries reporting progress in multi-stakeholder development
-  effectiveness monitoring frameworks that support the achievement of the sustainable
-  development goals
-17-17-1-title: Amount in United States dollars committed to public-private partnerships
-  for infrastructure
-17-18-1-title: Statistical capacity indicator for Sustainable Development Goal monitoring
-17-18-2-title: Number of countries that have national statistical legislation that
-  complies with the Fundamental Principles of Official Statistics
-17-18-3-title: Number of countries with a national statistical plan that is fully
-  funded and under implementation, by source of funding
-17-19-1-title: Dollar value of all resources made available to strengthen statistical
-  capacity in developing countries
-17-19-2-title: Proportion of countries that (a) have conducted at least one population
-  and housing census in the last 10 years; and (b) have achieved 100 per cent birth
-  registration and 80 per cent death registration
-17-2-1-title: Net official development assistance, total and to least developed countries,
-  as a proportion of the Organization for Economic Cooperation and Development (OECD)
-  Development Assistance Committee donors’ gross national income (GNI)
-17-3-1-title: Foreign direct investment, official development assistance and South-South
-  cooperation as a proportion of gross national income
-17-3-2-title: Volume of remittances (in United States dollars) as a proportion of
-  total GDP
-17-4-1-title: Debt service as a proportion of exports of goods and services
-17-5-1-title: Number of countries that adopt and implement investment promotion regimes
-  for developing countries, including the least developed countries
-17-6-1-title: Fixed Internet broadband subscriptions per 100 inhabitants, by speed
+13-a-1-title: 2025년까지 1천억 달러 재원 모금을 위해 매년 제공 혹은 모금되는 금액 
+13-b-1-title: NDCs, 장기전략, 국가적응계획 등을 보유한 최빈국의 수
+14-1-1-title: (a) 연안해역 부영양화지수* 및 (b) 부유성 플라스틱 부유성 폐기물 밀도
+14-2-1-title: 생태계 기반의 접근방식으로 해양지역을 관리하는 국가 수
+14-3-1-title: 합의된 대표 표본 추출 지점들에서 측정되는 평균 해양산도(pH)
+14-4-1-title: 생물학적으로 지속 가능한 수준에서의 어족자원의 비율 
+14-5-1-title: 해양 면적 대비 보호구역의 비율
+14-6-1-title: 불법·비보고·비규제 어업을 근절하기 위한 국제적 수단 이행 정도
+14-7-1-title: 군소도서 개발국*, 최빈개도국 그리고 모든 국가의 GDP 중 지속가능한 어업 비율
+14-a-1-title: 전체 연구예산 중 해양기술부문 연구에 할당된 예산비율
+14-b-1-title: 소규모 영세어민을 위해 해양자원에 대한 접근을 인정하고 보호하는 법/규제/정책/제도적인 프레임워크의 국가별 적용 단계에서의 진척도
+14-c-1-title: 대양과 그 자원의 보존 및 지속가능한 이용을 위해 법, 정책, 제도를 통해 유엔해양법협약에 반영되어 있는 것과 같이 국제법을 이행하기 위한 대양관련 장치를 비준, 적용하고 이행하는 과정에서 진전을 보이는 국가의 수
+15-1-1-title: 총 육지면적중 산림 면적의 비율
+15-1-2-title: 육상 및 담수 생물다양성을 위한 보호지역 지정 비율 (생태계 유형별)
+15-2-1-title: 지속가능한 산림경영 이행상황
+15-3-1-title: 국토면적 대비 황폐화 지역 비율
+15-4-1-title: 산림생물다양성 관련 중요 보호지역 면적
+15-4-2-title: 산림피복 지수
+15-5-1-title: 적색목록지수
+15-6-1-title: 공정하고 공평한 혜택 분배를 보장하기 위해 입법적, 행정적 그리고 정책적 프레임워크를 채택한 국가의 수
+15-7-1-title: 불법적으로 거래되거나 밀렵된 야생생물의 거래 비율 
+15-8-1-title: 외래침입종*의 유입 예방과 통제를 위해 국가 차원의 법률과 적당한 수단을 채택하고 있는 국가의 비율
+15-9-1-title: (a) 생물다양성 증진을 위한 아이치목표 타겟2에 따라 국가 차원의 목표를 수립한 국가의 수와 그 목표에 따른 보고 진전도 (b) 환경경제계정* 구현을 위한 국가 회계 및 보고 시스템과 생태다양성의 통합
+15-a-1-title: (a) 생물 다양성의 보존과 지속가능한 이용을 위한 ODA* (b) 생물다양성 관련 경제기구로부터 발생한 이윤과 모금 재정
+15-b-1-title: (a) 생물 다양성의 보존과 지속가능한 이용을 위한 ODA*(b) 생물다양성 관련 경제기구로부터 발생한 이윤과 모금 재정
+15-c-1-title: 불법적으로 거래되거나 밀렵된 야생생물의 거래 비율 
+16-1-1-title: 인구 1십만 명당 고의에 의한 살인범죄 피해자수의 성 및 연령별 현황
+16-1-2-title: 인구 1십만 명당 분쟁관련 사망자수의 성, 연령 및 사유별 현황
+16-1-3-title: 지난 12개월간 (a) 신체적, (b) 정서적, (c) 성적 폭력에 노출된 인구비율
+16-1-4-title: 살고 있는 동네를 홀로 걸을 때 안전하다고 느끼는 인구 비율
+16-10-1-title: 지난 12개월 동안 언론인, 관련 미디어 종사자, 노동조합원 및 인권운동가를 대상으로 한 살인, 납치, 실종, 강제구금 및 고문 건수
+16-10-2-title: 정보에 대한 대중의 접근을 보장하는 헌법, 법률, 정책을 채택하고 이행하는 국가의 수
+16-2-1-title: 지난 1개월간 보호자로부터 체벌이나 심리적 위협을 경험한 적이 있는 1-17세 아동 비율
+16-2-2-title: 인구 1십만 명당 인신매매 피해자수의 성, 연령, 착취형태별 현황
+16-2-3-title: 18-29세 성인 중 18세 이전에 성폭력을 당한 적이 있는 인구비율
+16-3-1-title: 지난 12개월간 관할 당국 혹은 기타 공식적인 분쟁해결수단에 피해신고를 한 폭력범죄피해자 비율
+16-3-2-title: 교도소 수용자 중 미결수 비율
+16-3-3-title: 지난 2년간 분쟁을 경험한 인구비율, 공식 혹은 비공식 절차를 이용하여 분쟁해결 한 인구비율
+16-4-1-title: 국내외 불법금융거래의 총 가액 (현 미국달러화 기준)
+16-4-2-title: 압수, 적발, 회수된 무기 중 국제법제에 따라 유관당국에 의해 불법성이 추적, 확인된 비율
+16-5-1-title: 지난 12개월 동안 공무원을 최소한 1회 이상 접촉하여 뇌물을 주었거나, 공무원으로부터 뇌물을 요구 받았던 인구 비율
+16-5-2-title: 지난 12개월 동안 공무원을 최소한 1회 이상 접촉하여 뇌물을 주었거나 공무원으로부터 뇌물을 요구받았던 기업의 비율
+16-6-1-title: 최초 승인된 예산 중 정부 주요 지출액의 부문별 또는 예산코드별 비율
+16-6-2-title: 가장 최근에 경험한 공공서비스에 대해 만족하는 인구비율
+16-7-1-title: 국가전체 대비 공공기관(국가 및 지방 입법부, 행정부, 사법부) 내 성별, 연령, 장애여부 등 인구집단별 보직분포 비율
+16-7-2-title: 의사결정이 포용적이고 대응적이라고 생각하는 인구의 성별, 연령별, 장애 및 인구집단별 비율
+16-8-1-title: 국제기구에서 개발도상국의 회원 및 투표권(voting rights) 비율
+16-9-1-title: 5세 미만 중 행정 당국에 출생 신고된 자의 연령별 비율
+16-a-1-title: 파리원칙(Paris Principles)에 따른 독립적인 국가인권기구의 존재
+16-b-1-title: 국제인권법 차별금지기준으로 지난 12개월 동안 차별 또는 괴롭힘을 당했다고 느꼈음을 보고한 인구의 비율
+17-1-1-title: GDP 중 정부 총수입이 차지하는 비율(항목별) 
+17-1-2-title: 국내 세금으로 충당되는 정부예산의 비율
+17-10-1-title: 국제 가중 관세 평균치
+17-11-1-title: 전 세계 수출에서 개도국 및 최빈개도국이 차지하는 비중
+17-12-1-title: 개발도상국, 최빈개도국 및 군소도서 개발국에 부과되는 가중 평균 관세
+17-13-1-title: 거시경제 관련 다양한 지표
+17-14-1-title: 지속가능발전의 정책일관성을 증진하기 위해 메커니즘을 갖춘 국가의 수
+17-15-1-title: 개발협력사업 공여자가 개발도상국 주도 성과체계 및 기획수단을 사용하는 정도
+17-16-1-title: SDGs 달성을 지원하기 위한 다자간 개발효과성 모니터링 프레임워크에서 진전을 보고한 국가의수
+17-17-1-title: 인프라 구축을 위해 민관 파트너십에 약정한 US달러 금액
+17-18-1-title: SDG 모니터링 위한 통계역량지표 
+17-18-2-title: 공식통계의 기본원칙을 준수하는 국가통계법령을 갖고 있는 국가의 수
+17-18-3-title: 재원이 충분히 확보되어 이행되고 있는 국가통계계획을 가진 국가의 수 (재정지원 출처별) 
+17-19-1-title: 개발도상국에서 통계역량 강화에 사용되는 모든 자원의 달러가치
+17-19-2-title: 지난 10년 동안 a)최소한 한 번의 인구주택총조사를 진행했고, b)100%의 출생등록과 80%의 사망등록을 달성한 국가의 비율
+17-2-1-title: OECD/개발 원조 위원회(DAC) 공여국의 국민총소득(GNI) 대비 1) 총 순ODA의 비율 2) LDC(최빈개도국)에 대한 순ODA 비율
+17-3-1-title: 국민총생산(GNI) 대비 해외직접투자(FDI), ODA 및 남남협력 비율
+17-3-2-title: 총 GDP 중 송금액의 비율(미달러 기준)
+17-4-1-title: 재화 및 서비스 수출 대비 부채상환 비율
+17-5-1-title: 최빈개도국을 포함한 개도국 위한 투자촉진제도를 채택하고 이행하는 국가의 수
+17-6-1-title: 인구 1백 명당 유선 초고속인터넷 가입률 (속도별)
 17-6-2-title: Fixed Internet broadband subscriptions per 100 inhabitants, by speed
-17-7-1-title: Total amount of funding for developing countries to promote the development,
-  transfer, dissemination and diffusion of environmentally sound technologies
-17-8-1-title: Proportion of individuals using the Internet
-17-9-1-title: Dollar value of financial and technical assistance (including through
-  North-South, South‐South and triangular cooperation) committed to developing countries
-2-1-1-title: Prevalence of undernourishment
-2-1-2-title: Prevalence of moderate or severe food insecurity in the population, based
-  on the Food Insecurity Experience Scale (FIES)
-2-2-1-title: Prevalence of stunting (height for age <-2 standard deviation from the
-  median of the World Health Organization (WHO) Child Growth Standards) among children
-  under 5 years of age
-2-2-2-title: Prevalence of malnutrition (weight for height >+2 or <-2 standard deviation
-  from the median of the WHO Child Growth Standards) among children under 5 years
-  of age, by type (wasting and overweight)
-2-2-3-title: Prevalence of anaemia in women aged 15 to 49 years, by pregnancy status
-  (percentage)
-2-3-1-title: Volume of production per labour unit by classes of farming/pastoral/forestry
-  enterprise size
-2-3-2-title: Average income of small-scale food producers, by sex and indigenous status
-2-4-1-title: Proportion of agricultural area under productive and sustainable agriculture
-2-5-1-title: Number of plant and animal genetic resources for food and agriculture
-  secured in either medium- or long-term conservation facilities
-2-5-2-title: Proportion of local breeds classified as being at risk of extinction
-2-a-1-title: The agriculture orientation index for government expenditures
-2-a-2-title: Total official flows (official development assistance plus other official
-  flows) to the agriculture sector
-2-b-1-title: Agricultural export subsidies
-2-c-1-title: Indicator of food price anomalies
-3-1-1-title: Maternal mortality ratio
-3-1-2-title: Proportion of births attended by skilled health personnel
-3-2-1-title: Under‐5 mortality rate
-3-2-2-title: Neonatal mortality rate
-3-3-1-title: Number of new HIV infections per 1,000 uninfected population, by sex,
-  age and key populations
-3-3-2-title: Tuberculosis incidence per 100,000 population
-3-3-3-title: Malaria incidence per 1,000 population
-3-3-4-title: Hepatitis B incidence per 100,000 population
-3-3-5-title: Number of people requiring interventions against neglected tropical diseases
-3-4-1-title: Mortality rate attributed to cardiovascular disease, cancer, diabetes
-  or chronic respiratory disease
-3-4-2-title: Suicide mortality rate
-3-5-1-title: Coverage of treatment interventions (pharmacological, psychosocial and
-  rehabilitation and aftercare services) for substance use disorders
-3-5-2-title: Alcohol per capita consumption (aged 15 years and older) within a calendar
-  year in litres of pure alcohol
-3-6-1-title: Death rate due to road traffic injuries
-3-7-1-title: Proportion of women of reproductive age (aged 15–49 years) who have their
-  need for family planning satisfied with modern methods
-3-7-2-title: Adolescent birth rate (aged 10–14 years; aged 15–19 years) per 1,000
-  women in that age group
-3-8-1-title: Coverage of essential health services
-3-8-2-title: Proportion of population with large household expenditures on health
-  as a share of total household expenditure or income
-3-9-1-title: Mortality rate attributed to household and ambient air pollution
-3-9-2-title: Mortality rate attributed to unsafe water, unsafe sanitation and lack
-  of hygiene (exposure to unsafe Water, Sanitation and Hygiene for All (WASH) services)
-3-9-3-title: Mortality rate attributed to unintentional poisoning
-3-a-1-title: Age-standardized prevalence of current tobacco use among persons aged
-  15 years and older
-3-b-1-title: Proportion of the target population covered by all vaccines included
-  in their national programme
-3-b-2-title: Total net official development assistance to medical research and basic
-  health sectors
-3-b-3-title: Proportion of health facilities that have a core set of relevant essential
-  medicines available and affordable on a sustainable basis
-3-c-1-title: Health worker density and distribution
-3-d-1-title: International Health Regulations (IHR) capacity and health emergency
-  preparedness
-3-d-2-title: Percentage of bloodstream infections due to selected antimicrobial-resistant
-  organisms
-4-1-1-title: Proportion of children and young people (a) in grades 2/3; (b) at the
-  end of primary; and (c) at the end of lower secondary achieving at least a minimum
-  proficiency level in (i) reading and (ii) mathematics, by sex
-4-1-2-title: Completion rate (primary education, lower secondary education, upper
-  secondary education)
-4-2-1-title: Proportion of children aged 24-59 months who are developmentally on track
-  in health, learning and psychosocial well-being, by sex
-4-2-2-title: Participation rate in organized learning (one year before the official
-  primary entry age), by sex
-4-3-1-title: Participation rate of youth and adults in formal and non-formal education
-  and training in the previous 12 months, by sex
-4-4-1-title: Proportion of youth and adults with information and communications technology
-  (ICT) skills, by type of skill
-4-5-1-title: Parity indices (female/male, rural/urban, bottom/top wealth quintile
-  and others such as disability status, indigenous peoples and conflict-affected,
-  as data become available) for all education indicators on this list that can be
-  disaggregated
-4-6-1-title: Proportion of population in a given age group achieving at least a fixed
-  level of proficiency in functional (a) literacy and (b) numeracy skills, by sex
-4-7-1-title: Extent to which (i) global citizenship education and (ii) education for
-  sustainable development are mainstreamed in (a) national education policies; (b)
-  curricula; (c) teacher education; and (d) student assessment
-4-a-1-title: Proportion of schools offering basic services, by type of service
-4-b-1-title: Volume of official development assistance flows for scholarships by sector
-  and type of study
-4-c-1-title: Proportion of teachers with the minimum required qualifications, by education
-  level
-5-1-1-title: Whether or not legal frameworks are in place to promote, enforce and
-  monitor equality and non‐discrimination on the basis of sex
-5-2-1-title: Proportion of ever-partnered women and girls aged 15 years and older
-  subjected to physical, sexual or psychological violence by a current or former intimate
-  partner in the previous 12 months, by form of violence and by age
-5-2-2-title: Proportion of women and girls aged 15 years and older subjected to sexual
-  violence by persons other than an intimate partner in the previous 12 months, by
-  age and place of occurrence
-5-3-1-title: Proportion of women aged 20–24 years who were married or in a union before
-  age 15 and before age 18
-5-3-2-title: Proportion of girls and women aged 15–49 years who have undergone female
-  genital mutilation/cutting, by age
-5-4-1-title: Proportion of time spent on unpaid domestic and care work, by sex, age
-  and location
-5-5-1-title: Proportion of seats held by women in (a) national parliaments and (b)
-  local governments
-5-5-2-title: Proportion of women in managerial positions
-5-6-1-title: Proportion of women aged 15–49 years who make their own informed decisions
-  regarding sexual relations, contraceptive use and reproductive health care
-5-6-2-title: Number of countries with laws and regulations that guarantee full and
-  equal access to women and men aged 15 years and older to sexual and reproductive
-  health care, information and education
-5-a-1-title: (a) Proportion of total agricultural population with ownership or secure
-  rights over agricultural land, by sex; and (b) share of women among owners or rights-bearers
-  of agricultural land, by type of tenure
-5-a-2-title: Proportion of countries where the legal framework (including customary
-  law) guarantees women’s equal rights to land ownership and/or control
-5-b-1-title: Proportion of individuals who own a mobile telephone, by sex
-5-c-1-title: Proportion of countries with systems to track and make public allocations
-  for gender equality and women’s empowerment
-6-1-1-title: Proportion of population using safely managed drinking water services
-6-2-1-title: Proportion of population using (a) safely managed sanitation services
-  and (b) a hand-washing facility with soap and water
-6-3-1-title: Proportion of domestic and industrial wastewater flows safely treated
-6-3-2-title: Proportion of bodies of water with good ambient water quality
-6-4-1-title: Change in water-use efficiency over time
-6-4-2-title: 'Level of water stress: freshwater withdrawal as a proportion of available
-  freshwater resources'
-6-5-1-title: Degree of integrated water resources management
-6-5-2-title: Proportion of transboundary basin area with an operational arrangement
-  for water cooperation
-6-6-1-title: Change in the extent of water-related ecosystems over time
-6-a-1-title: Amount of water- and sanitation-related official development assistance
-  that is part of a government-coordinated spending plan
-6-b-1-title: Proportion of local administrative units with established and operational
-  policies and procedures for participation of local communities in water and sanitation
-  management
-7-1-1-title: Proportion of population with access to electricity
-7-1-2-title: Proportion of population with primary reliance on clean fuels and technology
-7-2-1-title: Renewable energy share in the total final energy consumption
-7-3-1-title: Energy intensity measured in terms of primary energy and GDP
-7-a-1-title: International financial flows to developing countries in support of clean
-  energy research and development and renewable energy production, including in hybrid
-  systems
-7-b-1-title: Installed renewable energy-generating capacity in developing countries
-  (in watts per capita)
-8-1-1-title: Annual growth rate of real GDP per capita
-8-10-1-title: (a) Number of commercial bank branches per 100,000 adults and (b) number
-  of automated teller machines (ATMs) per 100,000 adults
-8-10-2-title: Proportion of adults (15 years and older) with an account at a bank
-  or other financial institution or with a mobile-money-service provider
-8-2-1-title: Annual growth rate of real GDP per employed person
-8-3-1-title: Proportion of informal employment in total employment, by sector and
-  sex
-8-4-1-title: Material footprint, material footprint per capita, and material footprint
-  per GDP
-8-4-2-title: Domestic material consumption, domestic material consumption per capita,
-  and domestic material consumption per GDP
-8-5-1-title: Average hourly earnings of employees, by sex, age, occupation and persons
-  with disabilities
-8-5-2-title: Unemployment rate, by sex, age and persons with disabilities
-8-6-1-title: Proportion of youth (aged 15–24 years) not in education, employment or
-  training
-8-7-1-title: Proportion and number of children aged 5–17 years engaged in child labour,
-  by sex and age
-8-8-1-title: Fatal and non-fatal occupational injuries per 100,000 workers, by sex
-  and migrant status
-8-8-2-title: Level of national compliance with labour rights (freedom of association
-  and collective bargaining) based on International Labour Organization (ILO) textual
-  sources and national legislation, by sex and migrant status
-8-9-1-title: Tourism direct GDP as a proportion of total GDP and in growth rate
+17-7-1-title: 개도국에 친환경 기술의 개발과 이전, 보급 및 확산을 촉진하기 위해 지원하는 총 금액
+17-8-1-title: 인터넷 이용자 비율
+17-9-1-title: 개발도상국에 지원하는 (남북, 남남, 삼각협력 포함) 재정 및 기술지원금액 (달러기준)
+2-1-1-title: 영양부족인구 비율
+2-1-2-title: 식량불안경험척도 기준으로 중간 또는 심각한 수준의 식량불안 경험인구 비율
+2-2-1-title: 5세 미만 발육부진 아동 비율(연령 대비 신장이 WHO 아동성장표준 중위신장으로부터 –2표준편차에 미달하는 경우)
+2-2-2-title: 5세 미만 영양불량 아동 비율(신장 대비 체중이 WHO 아동성장표준 중위값으로부터 +2표준편차를 초과하거나 –2표준편차에 미달하는 경우)
+2-2-3-title: 임신여부별 15-49세 여성 빈혈 유병률
+2-3-1-title: 농림축산업 생산규모별 단위노동 생산량
+2-3-2-title: 소규모 식량생산자의 성 및 원주민여부별 평균소득
+2-4-1-title: 생산적이고 지속가능한 농지면적 비율
+2-5-1-title: 중장기 보존시설에 확보되어 있는 식량·농업 동식물 유전자원의 수
+2-5-2-title: 멸종위험 상태로 분류된 로컬 품종의 비율
+2-a-1-title: 농업지향지수
+2-a-2-title: 농업부문 공적지원금(ODA와 기타 공적지원금)
+2-b-1-title: 농업수출보조금
+2-c-1-title: 식품가격이상지표
+3-1-1-title: 모성사망비
+3-1-2-title: 숙련된 의료인력이 참여한 출산 비율
+3-2-1-title: 5세 미만 사망률
+3-2-2-title: 신생아 사망률
+3-3-1-title: 비감염인구 1천 명당 인체면역결핍바이러스(HIV) 신규 감염자의 성·연령 및 주요 인구특성별 수
+3-3-2-title: 인구 1십만 명당 결핵 발생건수
+3-3-3-title: 인구 1천 명당 말라리아 발생건수
+3-3-4-title: 인구 1십만 명당 B형간염 발생건수
+3-3-5-title: 소외열대질환 치료가 필요한 인구수
+3-4-1-title: 심혈관계질환, 암, 당뇨 또는 만성호흡기질환 사망률
+3-4-2-title: 자살 사망률
+3-5-1-title: 약물사용장애 치료개입(약물치료 개입, 심리사회적 개입, 재활 개입) 보장률
+3-5-2-title: 연간 15세 이상 1인당 순 알코올 소비량
+3-6-1-title: 도로교통사고 사망률
+3-7-1-title: 현대적 피임법 사용으로 가족계획 욕구가 충족되는 가임기(15-49세) 여성의 비율
+3-7-2-title: 여성 청소년(10-14세, 15-19세) 출산율
+3-8-1-title: 필수보건서비스 보장
+3-8-2-title: 가구 총지출 및 소득 대비 의료비과부담 인구 비율
+3-9-1-title: 실내공기오염 및 대기오염으로 인한 사망률
+3-9-2-title: 안전하지 않은 물과 하수처리, 부족한 위생시설로 인한 사망률
+3-9-3-title: 비의도적 중독 사망률
+3-a-1-title: 15세 이상 인구의 연령표준화 현재 흡연율
+3-b-1-title: 국가 정책에 포함된 모든 백신을 접종한 인구의 비율
+3-b-2-title: 의학연구 및 기초보건 부문 ODA 순지출액
+3-b-3-title: 필수 의약품을 적당한 가격으로 지속적으로 구입할 수 있는 의료시설 비율
+3-c-1-title: 보건의료인력 밀도 및 분포
+3-d-1-title: 국제보건규정(IHR)에 의한 수용능력 및 응급대처능력
+3-d-2-title: 선별된 항생제 내성 유기체에서 기인한 혈류 감염률
+4-1-1-title: (a) 초등학교 2학년 혹은 3학년 시점, (b) 초등학교 말 (c) 중학교 말에 (i) 읽기와 (ii) 수학분야에서 최소숙달수준에 도달한 아동 및 청소년의 성별 비율 
+4-1-2-title: 초중고 교육 완수율
+4-2-1-title: 건강, 학습 및 심리사회적 웰빙 측면에서 정상 발달과정에 있는 24-59개월 아동의 성별 비율 
+4-2-2-title: (정규 초등교육 입학연령이 되기 1년 전) 조직화된 학습 참여 성별 비율
+4-3-1-title: 지난 12개월 동안 형식 및 비형식 교육· 훈련에 참여한 청소년 및 성인의 성별 비율 
+4-4-1-title: 기술유형별 정보통신기술(ICT) 능력을 보유한 청소년/성인의 비율
+4-5-1-title: 세분화할 수 있는 이 목록의 모든 지표 대상 형평성 지수(성, 도농, 소득분위, 데이터를 이용할 수 있는 경우 장애상태, 토착민, 분쟁영향 여부 등)
+4-6-1-title: 특정 연령 집단에서 기능적 (a) 문해력과 (b) 수리력이 최소 일정 수준에 도달한 인구의 성별 비율
+4-7-1-title: (i) 세계시민교육 (ii)지속가능발전교육이 (a)국가교육정책 (b) 교육과정 (c) 교사교육, (d) 학생평가 영역에서 주류화 된 정도(12.8.1/13.3.1과 동일)
+4-a-1-title: 기본 서비스 제공하는 학교 비율(서비스 유형별)
+4-b-1-title: 장학금의 공적개발원조(ODA) 금액의 연구부문 및 연구유형별 규모
+4-c-1-title: 교육수준별 최소 자격을 갖춘 교사 비율
+5-1-1-title: 성에 근거한 비차별과 평등을 증진, 집행 그리고 추적할 수 있는 법적 체계 존재여부
+5-2-1-title: 파트너가 있(었)던 15세 이상의 여성과 여아 중 지난 12개월 동안 (현재 혹은 과거의) 친밀한 파트너로 부터 신체적, 성적, 정서적인 폭력을 당한 경험이 있는 인구의 연령별 및 폭력형태별 비율
+5-2-2-title: 15세 이상의 여성과 여아 중에서 지난 12개월 동안 친밀한 파트너 이외에 다른 사람들로부터 성적 폭력을 당한 경험이 있는 인구의 연령별 및 사건발생장소별 비율
+5-3-1-title: 20~24세 여성 중 15세 이전과 18세 이전에 결혼 또는 동거를 했던 비율
+5-3-2-title: 15~49세 여아와 여성 중 여성성기절제(FGM/C)를 한 인구의 연령별 비율 
+5-4-1-title: 무보수 가사노동 및 돌봄노동에 소요된 시간의 성별, 연령 및 지역별 비율 
+5-5-1-title: (a) 국회의 여성 의석 비율 (b) 지방정부의 여성 의석 비율
+5-5-2-title: 여성 관리자 비율 
+5-6-1-title: 성관계, 피임제 사용 및 생식보건에 대한 충분한 정보에 따라 스스로 의사결정을 하는 15-49세의 여성비율
+5-6-2-title: 성 및 생식 보건에 대한 정보와 교육에 대해 15세 이상의 여성 및 남성의 완전하고 평등한 접근성을 보장하는 법과 제도가 마련된 국가의 수
+5-a-1-title: (a) 농경지에 대한 소유권 또는 확실한 권리를 가진 전체 농업인구의 비율 (성별) (b)농경지 소유자 또는 토지 관리권을 가진 사람 중 여성의 비율 (보유기간별)
+5-a-2-title: 토지소유나 통제에 대한 여성의 평등한 권리를 보장하는 법률적 기반(관습법을 포함)을 갖춘 국가의 비율
+5-b-1-title: 휴대폰을 소유한 개인의 비율 (성별) 
+5-c-1-title: 성평등과 여성의 권한강화를 위해 공공자원을 할당하고 추적하는 시스템을 갖춘 국가의 비율 
+6-1-1-title: 안전하게 관리되는 식수서비스를 이용하는 인구 비율
+6-2-1-title: 비누와 물이 있는 손씻기 시설을 포함하여, 안전하게 관리되는 위생서비스시설을 이용하는 인구 비율
+6-3-1-title: 안전하게 처리되는 가정용 및 산업용 하·폐수 비율
+6-3-2-title: 주변 수질이 양호한 수계(bodies of water)*의 비율
+6-4-1-title: 시간에 따른 물 이용 효율성 변화
+6-4-2-title: 물 스트레스 수준 
+6-5-1-title: 통합 수자원관리 이행 정도
+6-5-2-title: 물 협력을 위한 운영협정을 맺고 있는 접경 지역 비율
+6-6-1-title: 시간 경과에 따른 물 관련 생태계 규모의 변화
+6-a-1-title: 정부의 지출계획에 포함되어 있는 물과 위생분야 관련 ODA 금액
+6-b-1-title: 물 및 위생관리에 대한 지방 커뮤니티의 참여를 위한 확립된 행정적 정책과 절차를 갖추고 있는 지방행정단위의 비율
+7-1-1-title: 전기 접근성을 갖고 있는 인구비율
+7-1-2-title: 청정연료 및 기술에 주로 의존하는 인구비율
+7-2-1-title: 최종 에너지 소비 중 재생에너지가 차지하는 비율
+7-3-1-title: 1차 에너지와 GDP의 측면에서 측정한 에너지 집약도
+7-a-1-title: 개도국의 하이브리드 시스템을 포함한 재생 에너지 및 청정에너지 연구 개발과 재생에너지생산을 지원하는 국제 자금 흐름 
+7-b-1-title: 개도국의 재생에너지 설비 용량(인당 와트) 
+8-1-1-title: 1인당 실질 GDP의 연 성장률
+8-10-1-title: (a) 성인 십만 명당 상업은행 지점들과 (b) 성인 십만 명당 ATM의 개수
+8-10-2-title: 은행이나 기타 금융기관, 혹은 모바일 금융서비스 제공자의 계좌를 보유하고 있는 (15세 이상) 성인인구 비율
+8-2-1-title: 취업자 1인당 실질 GDP의 연 성장률
+8-3-1-title: 전체 고용 부문의 비공식 고용률 (부문별, 성별)
+8-4-1-title: 총 및 1인당 물질발자국, GDP 대비 물질발자국
+8-4-2-title: 총 및 1인당 물질소비량, GDP 대비 물질소비량
+8-5-1-title: 근로자의 평균 시간당 임금 (성, 연령, 직업 및 장애별) 
+8-5-2-title: 실업률 (성, 연령, 장애인별)
+8-6-1-title: 교육, 취업, 혹은 훈련 상태에 있지 않은 청소년(15-24세)의 비율
+8-7-1-title: 5-17세 아동 중 아동노동인구와 비율(성 및 연령별)
+8-8-1-title: 노동자 십만 명당 치명적 및 비치명적 산업 재해 건수(성별 및 이주 상태별) 
+8-8-2-title: 국제노동기구(ILO) 협약과 국내입법에 기초한 노동권(집회 및 단체교섭의 자유)의 국가별 준수 수준 (성 및 이주 상태별)
+8-9-1-title: 전체 GDP 및 성장률에 관광분야가 직접적으로 기여하는 GDP 비율
 8-9-2-title: Proportion of jobs in sustainable tourism industries out of total tourism
-  jobs
-8-a-1-title: Aid for Trade commitments and disbursements
-8-b-1-title: Existence of a developed and operationalized national strategy for youth
-  employment, as a distinct strategy or as part of a national employment strategy
-9-1-1-title: Proportion of the rural population who live within 2 km of an all-season
-  road
-9-1-2-title: Passenger and freight volumes, by mode of transport
-9-2-1-title: Manufacturing value added as a proportion of GDP and per capita
-9-2-2-title: Manufacturing employment as a proportion of total employment
-9-3-1-title: Proportion of small-scale industries in total industry value added
-9-3-2-title: Proportion of small-scale industries with a loan or line of credit
-9-4-1-title: CO2 emission per unit of value added
-9-5-1-title: Research and development expenditure as a proportion of GDP
-9-5-2-title: Researchers (in full-time equivalent) per million inhabitants
-9-a-1-title: Total official international support (official development assistance
-  plus other official flows) to infrastructure
-9-b-1-title: Proportion of medium and high-tech industry value added in total value
-  added
-9-c-1-title: Proportion of population covered by a mobile network, by technology
+8-a-1-title: 무역원조(Aid for Trade) 약정 및 지불 
+8-b-1-title: 청년층 고용에 대한 국가 계획 개발 및 운영여부 – 별도 계획 혹은 국가 계획의 일부 인지 여부 
+9-1-1-title: 사계절 도로(all-season road) 2km 반경 내 거주하는 농촌인구비율 
+9-1-2-title: 승객 및 운송량 (교통수단별)
+9-2-1-title: GDP 대비 및 1인 당 제조업 부가가치 비율
+9-2-2-title: 총 고용 대비 제조업 고용 비율
+9-3-1-title: 총 산업부가가치 중 소규모(small-scale) 산업 비율
+9-3-2-title: 부채 혹은 신용한도가 있는 소규모 산업 비율
+9-4-1-title: 부가가치 단위 당 이산화탄소 배출
+9-5-1-title: GDP 대비 연구개발비율
+9-5-2-title: 거주자(inhabitants) 백만 명당 (전일제) 연구자 수
+9-a-1-title: 인프라분야에 대한 국제사회의 총공적지원(ODA+기타공적자금)
+9-b-1-title: 총 부가가치 대비 중고급기술산업 부가가치 비율
+9-c-1-title: 모바일네트워크 사용 인구 비율(기술별)
