@@ -1,0 +1,15 @@
+exploring_data_sources: Datenquellenanalyse
+overall_reporting_status: Übersicht zum Berichtsstatus
+reported_online: Daten verfügbar
+reporting_status: Berichtsstatus
+statistics_in_progress: in Bearbeitung
+not_applicable: Nicht zutreffend
+status_by_goal: Status nach Ziel
+status_by_field: Status von %field
+disaggregation_status: ''
+disaggregation_status_overall: ''
+disaggregation_status_complete: ''
+disaggregation_status_inprogress: ''
+disaggregation_status_notstarted: ''
+disaggregation_status_notapplicable: ''
+disaggregation_status_by_field: ''
