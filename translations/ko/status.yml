@@ -1,11 +1,11 @@
-reporting_status: Reporting status
-overall_reporting_status: Overall reporting status
-reported_online: Reported online
+reporting_status: 데이터 현황
+overall_reporting_status: 총괄 현황
+reported_online: 이용가능
 statistics_in_progress: Statistics in progress
-exploring_data_sources: Exploring data sources
-not_applicable: Not applicable
+exploring_data_sources: 제공예정
+not_applicable: 현재 이용 불가
 # Describing a section where the status is reported for each goal
-status_by_goal: Status by goal
+status_by_goal: 목표별 현황
 status_by_field: Status by %field
 disaggregation_status: Disaggregation status
 disaggregation_status_overall: Overall disaggregation status

@@ -1,19 +1,19 @@
 # This refers to a set of data that indicates progress (or lack of progress) towards one of the Sustainable Development Goals
-indicator: Indicator
+indicator: 지표
 # This is the plural version of the indicator key
-indicators: Indicators
+indicators: 지표
 # This is a 'goal' in the sense of the 'Sustainable Development Goals' - some achievement for a community to aspire to
-goal: Goal
+goal: 목표
 # This is the plural version of the goal key
-goals: Goals
-sdg: Sustainable Development Goals
+goals: 목표
+sdg: 지속가능발전목표
 # This refers to the 'home page' of a website
 home: Home
-loading: Loading search results
-opens_new_window: opens in a new window
+loading: 검색 결과를 불러오고 있습니다.
+opens_new_window: 새 창에서 열기
 hide: hide
-target: Target
-targets: Targets
+target: 세부목표
+targets: 세부목표
 twitter: Twitter
 facebook: Facebook
 built_using_open_sdg: Built using Open SDG
