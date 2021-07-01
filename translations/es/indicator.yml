@@ -1,0 +1,40 @@
+chart: Gráfico
+clear_all: Borrar todo
+clear_selections: Borrar selecciones
+dataset_size_warning: Hay demasiados conjuntos de datos para mostrar en el gráfico.
+  No todos se mostrarán hasta que elimine algunas de las selecciones.
+download_chart: Descargar el Gráfico de CSV
+download_csv: Descargar el CSV
+download_csv_title: Descargar como CSV
+download_headline: Descargar el titular de CSV
+download_headline_title: Descargar los datos del titular como CSV
+download_source: Descargar el fuente de CSV
+download_source_title: Descargar como CSV
+download_table: Descargar la tabla de CSV
+edit: Editar
+edit_data: Editar los Datos
+edit_metadata: Editiar los Metadatos
+footnote: Nota
+geographical_area: región geográfico
+global_metadata: Metadatos Globales
+global_metadata_blurb: Esta tabla proporciona información sobre los metadatos para
+  los indicadores de los ODS como definido por la Comisión de Estadística de la ONU.
+  <a href="https://unstats.un.org/sdgs/metadata/">Complete global metadata</a> is
+  provided by the UN Statistics Division.
+legend_help: Haz clic en la leyenda para eliminar líneas individuales del gráfico.
+loading_map: Cargando el mapa
+map: Mapa
+national_metadata: Metadatos Nacionales
+national_metadata_blurb: ''
+no_data_hint: No hay opciones disponibles debido a los filtros arriba
+select_all: Seleccionar todo
+series_help: Elija categorías de los desplegables de abajo para ver diferentes desgloses
+  de los datos. Algunos no estarán disponibles hasta que se elija un nivel superior.
+source: Fuente
+sources: Fuentes
+sub_categories: Subcategorías
+table: Tabla
+unit_of_measurement: Unidad de medida
+units_type: Tipo de unidades
+variable_hint: Disponible cuando se selecciona '%field'
+view_indicator_list: Vea la lista de indicadores de este objetivo.
