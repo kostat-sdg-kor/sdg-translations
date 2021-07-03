@@ -6,14 +6,14 @@ no_data_hint: No options available because of filters above
 download_headline: Download Headline CSV
 download_headline_title: Download headline data as CSV
 
-download_source: 원본 CSV 내려받기
-download_source_title: 원본 CSV 내려받기
-download_chart: 그래프 CSV 내려받기
-download_table: 표 CSV 내려받기
-download_csv: CSV 내려받기
-download_csv_title: CSV 내려받기
-download_chart_image: 그래프 이미지 내려받기
-download_chart_image_title: 그래프 이미지 내려받기
+#download_source: 원본 CSV 내려받기
+#download_source_title: 원본 CSV 내려받기
+#download_chart: 그래프 CSV 내려받기
+#download_table: 표 CSV 내려받기
+#download_csv: CSV 내려받기
+#download_csv_title: CSV 내려받기
+#download_chart_image: 그래프 이미지 내려받기
+#download_chart_image_title: 그래프 이미지 내려받기
 download_source_sdmx: Download Source SDMX
 download_source_sdmx_title: Download source data as SDMX
 download_geojson: Download GeoJSON
