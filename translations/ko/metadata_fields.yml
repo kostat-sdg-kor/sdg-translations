@@ -1,14 +1,14 @@
-# A label describing information - any other metadata about a particular indicator - not covered by more specific labels
+A label describing information - any other metadata about a particular indicator - not covered by more specific labels
 other_info: Other information
-# A label describing information - any calculations that were used in the production of a dataset
+A label describing information - any calculations that were used in the production of a dataset
 computation_calculations: 계산방법
-# A label describing information - a list of definitions of terms used within other metadata fields
+A label describing information - a list of definitions of terms used within other metadata fields
 computation_definitions: 정의
-# A label describing information - the unit of measurement that is being represented in a dataset
+A label describing information - the unit of measurement that is being represented in a dataset
 computation_units: 단위
-# A label describing information - a hyperlink that leads to a United Nations web page with information about a particular indicator
+A label describing information - a hyperlink that leads to a United Nations web page with information about a particular indicator
 goal_meta_link: 글로벌 메타데이터
-# A label describing information - the numeric code for a particular indicator
+A label describing information - the numeric code for a particular indicator
 indicator: 지표 번호
 # A label describing information - the definition for a particular indicator - as provided by the United Nations
 indicator_definition: 지표 정의
