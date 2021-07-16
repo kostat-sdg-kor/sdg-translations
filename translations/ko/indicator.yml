@@ -49,10 +49,9 @@ national_metadata_blurb: This table provides metadata for the actual indicator
   fully available from %country_adjective statistics, this table
   should be consulted for information on national methodology and other
   %country_adjective-specific metadata information.
-global_metadata_blurb: This table provides information on metadata for SDG
-  indicators as defined by the UN Statistical Commission.
-  <a href="https://unstats.un.org/sdgs/metadata/">Complete global metadata</a>
-  is provided by the UN Statistics Division.
+global_metadata_blurb: 이 표는 UN 통계 위원회에서 정의한 SDG 지표에 대한 메타데이터를
+  제공합니다. <a href="https://unstats.un.org/sdgs/metadata/">전체 글로벌 메터데이터</a>
+  는 UN 통계국에서 제공합니다.
 # A button for editing configuration
 edit_configuration: Edit Configuration
 # A message that displays when a chart has no data to display because of the
