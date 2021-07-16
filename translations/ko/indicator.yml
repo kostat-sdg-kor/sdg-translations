@@ -36,8 +36,8 @@ chart: 그래프
 table: 표
 map: 지도
 loading_map: 지도를 불러오고 있습니다.
-national_metadata: 지표명과 정의
-global_metadata: 메타데이터
+national_metadata: 국내 메타데이터
+global_metadata: 글로벌 메타데이터
 edit: 자료 수정
 edit_data: 데이터 수정
 edit_metadata: 메타데이터 수정
