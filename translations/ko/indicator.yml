@@ -14,7 +14,6 @@ download_csv_title: CSV 내려받기
 download_chart_image: 그래프 이미지 내려받기
 download_chart_image_title: 그래프 이미지 내려받기
 source: 출처
-sources: 데이터
 geographical_area: 지역
 unit_of_measurement: 단위
 footnote: 주석
@@ -38,7 +37,6 @@ map: 지도
 loading_map: 지도를 불러오고 있습니다.
 national_metadata: 국내 메타데이터
 global_metadata: 글로벌 메타데이터
-edit: 자료 수정
 edit_data: 데이터 수정
 edit_metadata: 메타데이터 수정
 sub_categories_show: "Show sub-categories:"
