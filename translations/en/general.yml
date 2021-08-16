@@ -6,6 +6,7 @@ indicators: Indicators
 goal: Goal
 # This is the plural version of the goal key
 goals: Goals
+goals_title: UN SDGs Data
 sdg: Sustainable Development Goals
 # This refers to the 'home page' of a website
 home: Home

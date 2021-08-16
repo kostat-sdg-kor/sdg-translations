@@ -6,6 +6,7 @@ indicators: 지표
 goal: 목표
 # This is the plural version of the goal key
 goals: 목표
+goals_title: UN SDGs 한국데이터
 sdg: 지속가능발전목표
 # This refers to the 'home page' of a website
 home: Home
