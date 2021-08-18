@@ -1,7 +1,5 @@
 #A label describing information - any other metadata about a particular indicator - not covered by more specific labels
 other_info: Other information
-#A label describing information - any calculations that were used in the production of a dataset
-computation_calculations: 작성방법
 #A label describing information - a list of definitions of terms used within other metadata fields
 computation_definitions: 단위정의
 #A label describing information - the unit of measurement that is being represented in a dataset
@@ -10,12 +8,14 @@ computation_units: 단위
 goal_meta_link: 글로벌 메타데이터
 #A label describing information - the numeric code for a particular indicator
 indicator: 지표 번호
-#A label describing information - the definition for a particular indicator - as provided by the United Nations
-indicator_definition: 정의
 #A label describing information - the name of a particular indicator
 indicator_name: 출처통계명
 indicator_sort_order: 지표 정렬 번호
 national_data_update_url: 데이터 갱신 이력
+#A label describing information - the definition for a particular indicator - as provided by the United Nations
+indicator_definition: 정의
+#A label describing information - any calculations that were used in the production of a dataset
+computation_calculations: 작성방법
 #A label describing information - the geographical area covered by a dataset
 national_geographical_coverage: 지역적 범위
 national_indicator_available: 지표 가용성
