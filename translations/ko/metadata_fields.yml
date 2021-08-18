@@ -84,12 +84,13 @@ source_statistical_classification_3: 통계분류
 source_statistical_classification_4: 통계분류
 source_statistical_classification_5: 통계분류
 source_statistical_classification_6: 통계분류
-source_url_1: 국내 메타데이터
+source_url_1: 출처 바로가기
 source_url_2: 출처 바로가기
 source_url_3: 출처 바로가기
 source_url_4: 출처 바로가기
 source_url_5: 출처 바로가기
 source_url_6: 출처 바로가기
+goal_meta_local_link: 국내 메타데이터
 #A label describing information - the overall SDG target associated with a particular indicator
 target: 세부목표명
 #A label describing information - the numeric id for the overall SDG target associated with a particular indicator
