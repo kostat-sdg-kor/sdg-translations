@@ -11,7 +11,6 @@ indicator: 지표 번호
 global_indicator_name: 지표명
 #A label describing information - the definition for a particular indicator - as provided by the United Nations
 indicator_definition: 정의
-global_indicator_definition: 세부목표명
 #A label describing information - the name of a particular indicator
 indicator_name: 출처통계명
 indicator_sort_order: 지표 정렬 번호
