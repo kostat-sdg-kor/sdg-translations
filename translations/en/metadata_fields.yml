@@ -51,12 +51,12 @@ source_next_release_4: Next release
 source_next_release_5: Next release
 source_next_release_6: Next release
 # A label describing information - the name of any organization associated with some provided data
-source_organisation_1: Orzanizations
-source_organisation_2: Orzanizations
-source_organisation_3: Orzanizations
-source_organisation_4: Orzanizations
-source_organisation_5: Orzanizations
-source_organisation_6: Orzanizations
+source_organisation_1: Organizations
+source_organisation_2: Organizations
+source_organisation_3: Organizations
+source_organisation_4: Organizations
+source_organisation_5: Organizations
+source_organisation_6: Organizations
 # A label describing information - any other information about a particular source of data for a particular indicator
 source_other_info_1: Other information
 source_other_info_2: Other information
@@ -98,7 +98,7 @@ target_name: Target
 # A label describing information - the numeric id for the overall SDG target associated with a particular indicator
 target_id: Target number
 # A label describing information - the United Nations custodian agency associated with a particular indicator
-un_custodian_agency: Orzanizations
+un_custodian_agency: Organizations
 # A label describing information - the 'tier' (1 - 2 - or 3) that the United Nations has assigned to a particular indicator
 un_designated_tier: UN designated tier
 quality_assurance: Quality assurance
