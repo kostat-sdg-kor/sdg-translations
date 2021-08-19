@@ -7,6 +7,7 @@ computation_definitions: Data type
 # A label describing information - the unit of measurement that is being represented in a dataset
 computation_units: Unit of measurement
 # A label describing information - a hyperlink that leads to a United Nations web page with information about a particular indicator
+global_indicator_name: Indicator
 goal_meta_link: Global metadata
 # A label describing information - the numeric code for a particular indicator
 indicator: Indicator number
