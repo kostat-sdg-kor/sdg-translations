@@ -97,7 +97,7 @@ target_name: Target
 # A label describing information - the numeric id for the overall SDG target associated with a particular indicator
 target_id: Target number
 # A label describing information - the United Nations custodian agency associated with a particular indicator
-un_custodian_agency: UN custodian agency
+un_custodian_agency: Data compilers
 # A label describing information - the 'tier' (1 - 2 - or 3) that the United Nations has assigned to a particular indicator
 un_designated_tier: UN designated tier
 quality_assurance: Quality assurance
