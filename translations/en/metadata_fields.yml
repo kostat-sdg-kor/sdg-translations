@@ -14,7 +14,8 @@ indicator: Indicator number
 # A label describing information - the definition for a particular indicator - as provided by the United Nations
 indicator_definition: Definition
 # A label describing information - the name of a particular indicator
-indicator_name: Data name
+indicator_name: Indicator
+data_name: Data name
 indicator_sort_order: Indicator display order (within Goal page)
 national_data_update_url: Data last updated
 # A label describing information - the geographical area covered by a dataset
