@@ -16,7 +16,7 @@ indicator_definition: Definition
 # A label describing information - the name of a particular indicator
 indicator_name: Indicator
 data_name: Data name
-Statistics_name: Statistics name
+statistics_name: Statistics name
 indicator_sort_order: Indicator display order (within Goal page)
 national_data_update_url: Data last updated
 # A label describing information - the geographical area covered by a dataset
