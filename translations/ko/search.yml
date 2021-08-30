@@ -2,7 +2,7 @@ search: 검색
 # This refers to a section of the site for performing keyword searches to find particular indicators
 indicator_search: Indicator search
 # A message for describing a set of search results - to be followed by whatever the user searched for. For example - if the user searched for 'foo' - this might be 'Search results for foo'
-search_results_for: 로 검색한 결과입니다.
+search_results_for: 검색결과 
 found_in: found in
 keywords: 키워드
 # A message for the user - after they have performed an online search - to indicate that their search produced no results
