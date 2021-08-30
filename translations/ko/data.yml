@@ -22,7 +22,7 @@ directly_affected: 직접영향인구
 Residential_area: 거주지역별
 Income_classes: 소득수준별
 Suburban(Dong): 동
-Rural(Eup, Myeon): 읍, 면
+Rural(Eup,_Myeon): 읍, 면
 Lower: 하
 Lower_middle: 중하
 Middle: 중
