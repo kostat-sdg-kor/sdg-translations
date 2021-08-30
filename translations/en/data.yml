@@ -233,7 +233,9 @@ Oil: Oil
 Textiles: Textiles
 
 # 지표11
-Suburban: Suburban
+01_Urban: Urban
+02_Suburban: Suburban
+03_Rural: Rural
 Access_point: Access point
 Transportation: Transportation
 Time(min): Time(min)
@@ -262,17 +264,9 @@ Gwangju: Gwangju
 Daejeon: Daejeon
 Ulsan: Ulsan
 Sejong: Sejong
-
 Sexual_violence: Sexual violence
 Robbery: Robbery
 Assault: Assault
 Harassment: Harassment
 
-
-
-
-
-
-
-
-
+# 지표12
