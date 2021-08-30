@@ -172,3 +172,15 @@ ATMs: ATMs
 Commercial_bank_branches: Commercial bank branches
 Commitments: Commitments
 Disbursement: Disbursement
+
+# 지표9
+Domestic_Passenger: Domestic passenger
+International_Passenger: International passenger
+Domestic_Freight: Domestic freight
+International_Freight: International freight
+Mode_of_transportation: Mode of transportation
+Rail: Rail
+Subway: Subway
+Sky_roads: Sky roads
+Shipping: Shipping
+Air_transport: Air transport
