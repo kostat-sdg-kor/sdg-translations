@@ -18,6 +18,7 @@ Male: 남성
 Female: 여성
 dead_or_missing: 사망 또는 실종자
 directly_affected: 직접영향인구
+
 # 지표2
 Residential_area: 거주지역별
 Income_classes: 소득수준별
@@ -41,4 +42,53 @@ Cultivation_size: 경지규모별
 Agriculture_orientation_index_for_government_expenditures: 농업지향지수
 Agriculture_share_of_Government_Expenditure(%): 정부지출 중 농업지출 비율(%)
 Agriculture_value_added_share_of_GDP(%): GDP 중 농업부가가치 비율(%)
+
 # 지표3
+Birth_location: Birth location
+General_hospital: General hospital
+Hospital: Hospital
+Clinic: Clinic
+Midwifery_units: Midwifery units
+Medical_center: Medical center
+Home: Home
+Delievery_option: Delievery option
+Natural_birth: Natural birth
+C-section: C-section
+Diseases: Diseases
+Leprosy: Leprosy
+Rabies: Rabies
+Dengue: Dengue
+Cause_of_death: Cause of death
+Cancer: Cancer
+Diabetes: Diabetes
+Cardiovascular_diseases: Cardiovascular diseases
+Chronic_respiratory_diseases: Chronic respiratory diseases
+Alcohol: Alcohol
+01_Takju: 01 Takju
+02_Yakju: 02 Yakju
+03_Cheongju: 03 Cheongju
+04_Beer: 04 Beer
+05_Wine: 05 Wine
+06_Distilled soju: 06 Distilled soju
+07_Diluted soju: 07 Diluted soju
+08_Whiskey: 08 Whiskey
+09_Brandy: 09 Brandy
+10_Sprits: 10 Sprits
+11_Liquor: 11 Liquor
+12_Others: 12 Others
+Household_expenditure_on_health: Household expenditure on health
+Vaccine: Vaccine
+DTP3: DTP3
+MMR: MMR
+PCV3: PCV3
+Type_of_occupation: Type of occupation
+Nurse: Nurse
+Doctor: Doctor
+Dentist: Dentist
+Oriental_doctor: Oriental doctor
+Pharmacist: Pharmacist
+Physical_therapist: Physical therapist
+Occupational_therapist: Occupational therapist
+Social_worker: Social worker
+Midwife: Midwife
+IHR_Capacity: IHR Capacity
