@@ -202,7 +202,6 @@ Reasons: Reasons
 13_Disability: 13 Disability
 14_Ethnicity/Colour/Language/Migration_status: 14 Ethnicity/Colour/Language/Migration_status
 15_Marital_status_such_as_being_orphan/born_from_unmarried_parents: 15 Marital status such as being orphan/born from unmarried parents
-
 G1_Regulatory_capital_to_assets: G1 Regulatory capital to assets
 G2_Regulatory_Tier_1_capital_to_risk-weighted_assets: G2 Regulatory Tier 1 capital to risk-weighted assets
 G3_Non-performing_loans_net_of_provisions_to_capital: G3 Non-performing loans net of provisions to capital
@@ -210,3 +209,6 @@ G4_Non-performing_loans_to_total_gross_loans: G4 Non-performing loans to total g
 G5_Return_on_assets: G5 Return on assets
 G6_Liquid_assets_to_short_term_liabilities: G6 Liquid assets to short term liabilities
 G7_Net_open_position_in_foreign_exchange_to_capital: G7 Net open position in foreign exchange to capital
+Name_of_international_institution: Name of international institution
+Proportion_of_members_of_developing_countries_in_international_organizations: Proportion of members of developing countries in international organizations
+Proportion_of_voting_rights_of_developing_countries_in_international_organizations: Proportion of voting rights of developing countries in international organizations
