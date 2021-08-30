@@ -18,6 +18,7 @@ Male: Male
 Female: Female
 dead_or_missing: Dead or Missing Person
 directly_affected: Directly affected Person
+
 # 지표2
 Residential_area: Residential area
 Income_classes: Income classes
@@ -41,3 +42,24 @@ Cultivation_size: Cultivation size
 Agriculture_orientation_index_for_government_expenditures: Agriculture orientation index for government expenditures
 Agriculture_share_of_Govenment_Expenditure(%): Agriculture share of Govenment Expenditure(%)
 Agriculture_value_added_share_of_GDP(%): Agriculture value added share of GDP(%)
+
+# 지표3
+Birth_location: Birth location
+General_hospital: General hospital
+Hospital: Hospital
+Clinic: Clinic
+Midwifery_units: Midwifery units
+Medical_center: Medical center
+Home: Home
+Delievery_option: Delievery option
+Natural_birth: Natural birth
+C-section: C-section
+Diseases: Diseases
+Leprosy: Leprosy
+Rabies: Rabies
+Dengue: Dengue
+Cause_of_death: Cause of death
+Cancer: Cancer
+Diabetes: Diabetes
+Cardiovascular_diseases: Cardiovascular diseases
+Chronic_respiratory_diseases: Chronic respiratory diseases
