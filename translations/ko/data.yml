@@ -183,3 +183,49 @@ Subway: 지하철
 Sky_roads: 공로
 Shipping: 해운
 Air_transport: Air transport
+
+# 지표10
+Reasons: 이유별
+01_Sex: 범주01_남자 또는 여자라는 이유로
+02_Age: 범주02_나이가 많거나 적다는 이유로
+03_Socio-Eoconomic_status: 범주03_직업이나 소득 등 경제적 지위를 이유로
+04_Forms_of_employment: 범주04_비정규직 등 고용형태를 이유로
+05_Educational_background: 범주05_학력이나 학벌을 이유로
+06_Physical_condition: 범주06_키, 몸무게, 용모 등 신체조건을 이유로
+07_Political_opinion: 범주07_사상 또는 정치적인 입장의 차이로
+08_Marital status_such_as_being_single/married/divorced/widowed: 범주08_미혼(비혼), 이혼, 사별 등 혼인상황을 이유로
+09_Geographic_location_or_Place_of_residence: 범주09_출신지역을 이유로
+10_Marital_status_such_as_being_pregnant/with_or_without_children: 범주10_임신 또는 출산을 했다는 이유로
+11_Health_status: 범주11_질병 및 병력을 가지고 있다는 이유로
+12_Religion: 범주12_종교를 이유로
+13_Disability: 범주13_장애를 이유로
+14_Ethnicity/Colour/Language/Migration_status: 범주14_인종, 피부색, 출신국가, 출신민족을 이유로
+15_Marital_status_such_as_being_orphan/born_from_unmarried_parents: 범주15_한부모, 미혼(비혼) 모/부 등 가족상황을 이유로
+G1_Regulatory_capital_to_assets: G1_총자산 대비 기본자본(Tier 1) 비율
+G2_Regulatory_Tier_1_capital_to_risk-weighted_assets: G2_위험가중자산 대비 기본자본(Tier 1) 비율
+G3_Non-performing_loans_net_of_provisions_to_capital: G3_총자본 대비 부실채권충당금 비율
+G4_Non-performing_loans_to_total_gross_loans: G4_총채권 대비 부실채권 비율
+G5_Return_on_assets: G5_총자산순이익률
+G6_Liquid_assets_to_short_term_liabilities: G6_단기부채 대비 유동자산 비율
+G7_Net_open_position_in_foreign_exchange_to_capital: G7_총자본 대비 외환종합포지션 비율
+Name_of_international_institution: 국제기구명
+Proportion_of_members_of_developing_countries_in_international_organizations: 개도국 회원국 비율
+Proportion_of_voting_rights_of_developing_countries_in_international_organizations: 개도국 투표권 비율
+Payment: 취업소개료 지불여부
+01_Yes: 지불함
+02_No: 지불한 적 없음
+Recruitment_cost: 지불금액별
+~150mKRW: 15만원 미만
+150~300mKRW: 15만원 ~ 30만원
++300mKRW: 30만원 이상
+N/A: 해당없음
+Refugees_request: 난민신청현황
+Refugees_recognized: 난민인정자 현황
+Type_of_product: 유형별
+Agricultural_products: 농산품
+Total_or_no_breakdown: 전체 혹은 감면없음
+Arms: 무기
+Clothing: 의류
+Industrial_products: 공산품
+Oil: 기름
+Textiles: 섬유
