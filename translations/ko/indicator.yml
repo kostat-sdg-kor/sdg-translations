@@ -15,7 +15,7 @@ download_chart_image: 그래프 이미지 내려받기
 download_chart_image_title: 그래프 이미지 내려받기
 source: 출처
 geographical_area: 지역
-unit_of_measurement: 단위
+unit_of_measurement: 세부지표
 footnote: 주석
 units_type: 구분
 download_source_sdmx: Download Source SDMX

@@ -5,10 +5,10 @@ computation_definitions: 데이터 유형
 #A label describing information - the unit of measurement that is being represented in a dataset
 computation_units: 단위
 #A label describing information - a hyperlink that leads to a United Nations web page with information about a particular indicator
-goal_meta_link: 글로벌 메타데이터
+goal_meta_link: 메타데이터
 #A label describing information - the numeric code for a particular indicator
 indicator: 지표
-global_indicator_name: 글로벌 지표명
+global_indicator_name: 지표명
 #A label describing information - the definition for a particular indicator - as provided by the United Nations
 indicator_name: 지표명
 indicator_definition: 정의
@@ -53,12 +53,12 @@ source_next_release_4: 다음 공표
 source_next_release_5: 다음 공표
 source_next_release_6: 다음 공표
 #A label describing information - the name of any organization associated with some provided data
-source_organisation_1: 통계작성기관
-source_organisation_2: 통계작성기관
-source_organisation_3: 통계작성기관
-source_organisation_4: 통계작성기관
-source_organisation_5: 통계작성기관
-source_organisation_6: 통계작성기관
+source_organisation_1: 작성기관
+source_organisation_2: 작성기관
+source_organisation_3: 작성기관
+source_organisation_4: 작성기관
+source_organisation_5: 작성기관
+source_organisation_6: 작성기관
 #A label describing information - any other information about a particular source of data for a particular indicator
 source_other_info_1: 비고
 source_other_info_2: 비고
@@ -93,13 +93,13 @@ source_url_3: 출처 바로가기
 source_url_4: 출처 바로가기
 source_url_5: 출처 바로가기
 source_url_6: 출처 바로가기
-goal_meta_local_link: 국내 메타데이터
+goal_meta_local_link: 메타데이터
 #A label describing information - the overall SDG target associated with a particular indicator
 target_name: 세부목표명
 #A label describing information - the numeric id for the overall SDG target associated with a particular indicator
 target_id: 세부목표 번호
 #A label describing information - the United Nations custodian agency associated with a particular indicator
-un_custodian_agency: 지표소관기구
+un_custodian_agency: 소관기구
 #A label describing information - the 'tier' (1 - 2 - or 3) that the United Nations has assigned to a particular indicator
 un_designated_tier: 티어(Tier)
 quality_assurance: Quality assurance
