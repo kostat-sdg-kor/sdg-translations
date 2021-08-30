@@ -76,19 +76,19 @@ Alcohol: 주종별
 10_Sprits: 범주10 일반 증류수
 11_Liquor: 범주11 리큐르
 12_Others: 범주12 기타 주류
-Household_expenditure_on_health: Household expenditure on health
-Vaccine: Vaccine
+Household_expenditure_on_health: 가구지출 및 소득대비지출
+Vaccine: 백신별
 DTP3: DTP3
 MMR: MMR
 PCV3: PCV3
-Type_of_occupation: Type of occupation
-Nurse: Nurse
-Doctor: Doctor
-Dentist: Dentist
-Oriental_doctor: Oriental doctor
-Pharmacist: Pharmacist
-Physical_therapist: Physical therapist
-Occupational_therapist: Occupational therapist
-Social_worker: Social worker
-Midwife: Midwife
-IHR_Capacity: IHR Capacity
+Type_of_occupation: 직종별
+Nurse: 간호사
+Doctor: 의사
+Dentist: 치과의사
+Oriental_doctor: 한의사
+Pharmacist: 약사
+Physical_therapist: 물리치료사
+Occupational_therapist: 작업치료사
+Social_worker: 사회복지사
+Midwife: 조산사
+IHR_Capacity: IHR 역량
