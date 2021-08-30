@@ -22,7 +22,7 @@ directly_affected: Directly affected Person
 Residential_area: Residential area
 Income_classes: Income classes
 Suburban(Dong): Suburban(Dong)
-Rural(Eup, Myeon): Rural(Eup, Myeon)
+Rural(Eup,_Myeon): Rural(Eup, Myeon)
 Lower: Lower
 Lower_middle: Lower-middle
 Middle: Middle
