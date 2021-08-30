@@ -63,3 +63,32 @@ Cancer: Cancer
 Diabetes: Diabetes
 Cardiovascular_diseases: Cardiovascular diseases
 Chronic_respiratory_diseases: Chronic respiratory diseases
+Alcohol: Alcohol
+01_Takju: 01 Takju
+02_Yakju: 02 Yakju
+03_Cheongju: 03 Cheongju
+04_Beer: 04 Beer
+05_Wine: 05 Wine
+06_Distilled soju: 06 Distilled soju
+07_Diluted soju: 07 Diluted soju
+08_Whiskey: 08 Whiskey
+09_Brandy: 09 Brandy
+10_Sprits: 10 Sprits
+11_Liquor: 11 Liquor
+12_Others: 12 Others
+Household_expenditure_on_health: Household expenditure on health
+Vaccine: Vaccine
+DTP3: DTP3
+MMR: MMR
+PCV3: PCV3
+Type_of_occupation: Type of occupation
+Nurse: Nurse
+Doctor: Doctor
+Dentist: Dentist
+Oriental_doctor: Oriental doctor
+Pharmacist: Pharmacist
+Physical_therapist: Physical therapist
+Occupational_therapist: Occupational therapist
+Social_worker: Social worker
+Midwife: Midwife
+IHR_Capacity: IHR Capacity
