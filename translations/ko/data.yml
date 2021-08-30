@@ -146,27 +146,28 @@ Rural: 농촌
 Urban: 도시
 
 # 지표8
-Tonnes_per_capita: Tonnes per capita
-Kilograms_per_constant_2010_USD: Kilograms per constant 2010 USD
-Tonnes: Tonnes
-BIM: BIM
-COL: COL
-CPR: CPR
-CRO: CRO
-FEO: FEO
-FOF: FOF
-GAS: GAS
-GBO: GBO
-MEO: MEO
-NFO: NFO
-NMA: NMA
-NMC: NMC
-NMM: NMM
-PET: PET
-WCH: WCH
-WOD: WOD
-Banking_service: Banking service
-ATMs: ATMs
-Commercial_bank_branches: Commercial bank branches
-Commitments: Commitments
-Disbursement: Disbursement
+Tonnes_per_capita: 1인당 국내물질소비량(톤)
+Kilograms_per_constant_2010_USD: GDP당 국내물질소비량(kg/USD)
+Tonnes: 국내물질소비량(톤)
+BIM: 바이오매스
+COL: 석탄
+CPR: 작물잔해
+CRO: 작물
+FEO: 철광석
+FOF: 화석연료
+GAS: 천연가스
+GBO: 사료작물
+MEO: 금속광석
+NFO: 비금속광석
+NMA: 산업/농업 비금속광물
+NMC: 건설 비금속광물
+NMM: 비급속광물
+PET: 석유
+RAW: RAW
+WCH: 자연수확
+WOD: 나무
+Banking_service: 은행서비스별
+ATMs: ATM 개수
+Commercial_bank_branches: 상업은행 지점수
+Commitments: 약정액
+Disbursement: 집행액
