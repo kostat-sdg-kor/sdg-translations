@@ -44,38 +44,38 @@ Agriculture_share_of_Government_Expenditure(%): 정부지출 중 농업지출 �
 Agriculture_value_added_share_of_GDP(%): GDP 중 농업부가가치 비율(%)
 
 # 지표3
-Birth_location: Birth location
-General_hospital: General hospital
-Hospital: Hospital
-Clinic: Clinic
-Midwifery_units: Midwifery units
-Medical_center: Medical center
-Home: Home
-Delievery_option: Delievery option
-Natural_birth: Natural birth
-C-section: C-section
-Diseases: Diseases
-Leprosy: Leprosy
-Rabies: Rabies
-Dengue: Dengue
-Cause_of_death: Cause of death
-Cancer: Cancer
-Diabetes: Diabetes
-Cardiovascular_diseases: Cardiovascular diseases
-Chronic_respiratory_diseases: Chronic respiratory diseases
-Alcohol: Alcohol
-01_Takju: 01 Takju
-02_Yakju: 02 Yakju
-03_Cheongju: 03 Cheongju
-04_Beer: 04 Beer
-05_Wine: 05 Wine
-06_Distilled soju: 06 Distilled soju
-07_Diluted soju: 07 Diluted soju
-08_Whiskey: 08 Whiskey
-09_Brandy: 09 Brandy
-10_Sprits: 10 Sprits
-11_Liquor: 11 Liquor
-12_Others: 12 Others
+Birth_location: 분만장소별
+General_hospital: 종합병원
+Hospital: 병원
+Clinic: 의원
+Midwifery_units: 조산원
+Medical_center: 보건의료원
+Home: 자택
+Delievery_option: 분만방법별
+Natural_birth: 자연분만
+C-section: 제왕절개 분만
+Diseases: 감염병별
+Leprosy: 한센병
+Rabies: 공수병
+Dengue: 뎅기열
+Cause_of_death: 사망원인별
+Cancer: 암
+Diabetes: 당뇨
+Cardiovascular_diseases: 심혈관계 질환
+Chronic_respiratory_diseases: 호흡기 질환
+Alcohol: 주종별
+01_Takju: 범주01 탁주
+02_Yakju: 범주02 약주
+03_Cheongju: 범주03 청주
+04_Beer: 범주04 맥주
+05_Wine: 범주05 과실주
+06_Distilled soju: 범주06 증류식 소주
+07_Diluted soju: 범주07 희석식 소주
+08_Whiskey: 범주08 위스키
+09_Brandy: 범주09 브랜디
+10_Sprits: 범주10 일반 증류수
+11_Liquor: 범주11 리큐르
+12_Others: 범주12 기타 주류
 Household_expenditure_on_health: Household expenditure on health
 Vaccine: Vaccine
 DTP3: DTP3
