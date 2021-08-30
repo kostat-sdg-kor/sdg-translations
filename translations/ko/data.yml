@@ -229,3 +229,40 @@ Clothing: 의류
 Industrial_products: 공산품
 Oil: 기름
 Textiles: 섬유
+
+# 지표11
+01_Urban: 수도권
+02_Suburban: 광역시 등
+03_Rural: 도지역
+Access_point: 접근지별
+Transportation: 교통수단별
+Time(min): 소요시간별(분 이내)
+Schools: 교육시설
+Medical_facilities: 의료시설
+Sale_facilities: 판매시설
+Metropolitan_Transportation_Facilities: 광역교통시설
+Public_medical_facilities: 공공의료시설
+Hospital/Clinic: 병·의원
+Large_stores: 대규모점포
+Traditional_market: 전통시장
+Train_station: 철도역
+Bus_terminal: 버스터미널
+Airport: 공항
+Car: 승용차
+Public_transportation/walking: 대중교통/도보
+Municipal_waste: 생활폐기물
+Industrial_solid_waste: 사업장 생활계폐기물
+Construction_waste: 건설폐기물
+Industrial_hazardous_waste: 사업장 배출시설계폐기물
+Seoul: 서울
+Busan: 부산
+Daegu: 대구
+Incheon: 인천
+Gwangju: 광주
+Daejeon: 대전
+Ulsan: 울산
+Sejong: 세종
+Sexual_violence: 성폭력
+Robbery: 강도
+Assault: 폭행
+Harassment: 괴롭힘
