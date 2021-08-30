@@ -105,21 +105,21 @@ Cognitive_development: 인지발달
 Language_development: 언어발달
 Skill: 기술유형
 Gender_parity_index_for_participation_rate_in_organized_learning: 초등입학1년전 학습참여비율
-Native_parity_index: Native parity index
+Native_parity_index: 원주민 불평등지수
 Language_test_parity_index: 언어테스트 불평등지수
 Gender_parity_index: 성 불평등지수
 Low_to_high_socio-economic_parity_status_index: 사회경제적 불평등지수
 Rural_to_urban_parity_index: 도농 불평등지수
-Type_of_skill: Type of skill
-Literacy: Literacy
-Numeracy: Numeracy
-School_environment_indicators: School environment indicators
-Computer: Computer
-Drinking_water: Drinking water
-Electricity: Electricity
-Hand-washing_facilities: Hand-washing facilities
-Internet: Internet
-Single-sex_basic_sanitation_facilities: Single-sex basic sanitation facilities
-School: School
-Elementary_school: Elementary school
-High_school: High school
+Type_of_skill: 능력별
+Literacy: 문해력
+Numeracy: 수리력
+School_environment_indicators: 학교 환경 요소
+Computer: 컴퓨터
+Drinking_water: 식수
+Electricity: 전기
+Hand-washing_facilities: 손씻기 시설
+Internet: 인터넷
+Single-sex_basic_sanitation_facilities: 성별 위생시설
+School: 교육수준별
+Elementary_school: 초등학교
+High_school: 
