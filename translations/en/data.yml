@@ -145,3 +145,10 @@ River: River
 # 지표7
 Rural: Rural
 Urban: Urban
+
+# 지표8
+Banking_service: Banking service
+ATMs: ATMs
+Commercial_bank_branches: Commercial bank branches
+Commitments: Commitments
+Disbursement: Disbursement
