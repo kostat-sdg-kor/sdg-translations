@@ -19,3 +19,25 @@ Female: Female
 dead_or_missing: Dead or Missing Person
 directly_affected: Directly affected Person
 # 지표2
+Residential_area: Residential area
+Income_classes: Income classes
+Suburban(Dong): Suburban(Dong)
+Rural(Eup, Myeon): Rural(Eup, Myeon)
+Lower: Lower
+Lower_middle: Lower-middle
+Middle: Middle
+Upper_middle: Upper-middle
+Upper: Upper
+Cultivation_size: Cultivation size
+0~0.5_ha: 0~0.5 ha
+0.5~1.0_ha: 0.5~1.0 ha
+1.0~1.5_ha: 1.0~1.5 ha
+1.5~2.0_ha: 1.5~2.0 ha
+2.0~3.0_ha: 2.0~3.0 ha
+3.0~5.0_ha: 3.0~5.0 ha
+5.0~7.0_ha: 5.0~7.0 ha
+7.0~10.0_ha: 7.0~10.0 ha
+10.0_ha~: 10.0 ha~
+Agriculture_orientation_index_for_government_expenditures: Agriculture orientation index for government expenditures
+Agriculture_share_of_Govenment_Expenditure(%): Agriculture share of Govenment Expenditure(%)
+Agriculture_value_added_share_of_GDP(%): Agriculture value added share of GDP(%)
