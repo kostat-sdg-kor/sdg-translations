@@ -171,3 +171,15 @@ ATMs: ATM 개수
 Commercial_bank_branches: 상업은행 지점수
 Commitments: 약정액
 Disbursement: 집행액
+
+# 지표9
+Domestic_Passenger: 국내 승객량
+International_Passenger: 국제 승객량
+Domestic_Freight: 국내 화물량
+International_Freight: 국제 화물량
+Mode_of_transportation: 교통수단별
+Rail: 철도
+Subway: 지하철
+Sky_roads: 공로
+Shipping: 해운
+Air_transport: Air transport
