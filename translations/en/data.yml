@@ -1,4 +1,5 @@
 category: Category
+
 # 지표1
 BLSP(Basic_Livelihood_Security_Program)_take-up_rate: BLSP(Basic Livelihood Security Program) take-up rate
 Old-age_pension_take-up_rate: Old-age pension take-up rate
@@ -230,3 +231,48 @@ Clothing: Clothing
 Industrial_products: Industrial products
 Oil: Oil
 Textiles: Textiles
+
+# 지표11
+Suburban: Suburban
+Access_point: Access point
+Transportation: Transportation
+Time(min): Time(min)
+Schools: Schools
+Medical_facilities: Medical facilities
+Sale_facilities: Sale facilities
+Metropolitan_Transportation_Facilities: Metropolitan Transportation Facilities
+Public_medical_facilities: Public medical facilities
+Hospital/Clinic: Hospital/Clinic
+Large_stores: Large stores
+Traditional_market: Traditional market
+Train_station: Train station
+Bus_terminal: Bus terminal
+Airport: Airport
+Car: Car
+Public_transportation/walking: Public transportation/walking
+Municipal_waste: Municipal waste
+Industrial_solid_waste: Industrial solid waste
+Construction_waste: Construction waste
+Industrial_hazardous_waste: Industrial hazardous waste
+Seoul: Seoul
+Busan: Busan
+Daegu: Daegu
+Incheon: Incheon
+Gwangju: Gwangju
+Daejeon: Daejeon
+Ulsan: Ulsan
+Sejong: Sejong
+
+Sexual_violence: Sexual violence
+Robbery: Robbery
+Assault: Assault
+Harassment: Harassment
+
+
+
+
+
+
+
+
+
