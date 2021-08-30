@@ -109,4 +109,18 @@ Gender_parity_index_for_participation_rate_in_organized_learning: Gender parity 
 Native_parity_index: Native parity index
 Language_test_parity_index: Language test parity index
 Gender_parity_index: Gender parity index
-Low_to_high_socio-economic_parity_status
+Low_to_high_socio-economic_parity_status_index: Low to high socio-economic parity status index
+Rural_to_urban_parity_index: Rural to urban parity index
+Type_of_skill: Type of skill
+Literacy: Literacy
+Numeracy: Numeracy
+School_environment_indicators: School environment indicators
+Computer: Computer
+Drinking_water: Drinking water
+Electricity: Electricity
+Hand-washing_facilities: Hand-washing facilities
+Internet: Internet
+Single-sex_basic_sanitation_facilities: Single-sex basic sanitation facilities
+School: School
+Elementary_school: Elementary school
+High_school: High school
