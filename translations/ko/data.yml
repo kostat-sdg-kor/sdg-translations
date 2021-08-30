@@ -92,3 +92,34 @@ Occupational_therapist: 작업치료사
 Social_worker: 사회복지사
 Midwife: 조산사
 IHR_Capacity: IHR 역량
+
+# 지표4
+Grade: 학년
+Middle_school: 중학교
+Elementary_school_2nd/3rd: 초등 2학년 혹은 3학년
+Subjects: 과목
+Mathematics: 수학
+Reading: 읽기
+Development_index: 분야별
+Cognitive_development: 인지발달
+Language_development: 언어발달
+Skill: 기술유형
+Gender_parity_index_for_participation_rate_in_organized_learning: 초등입학1년전 학습참여비율
+Native_parity_index: Native parity index
+Language_test_parity_index: 언어테스트 불평등지수
+Gender_parity_index: 성 불평등지수
+Low_to_high_socio-economic_parity_status_index: 사회경제적 불평등지수
+Rural_to_urban_parity_index: 도농 불평등지수
+Type_of_skill: Type of skill
+Literacy: Literacy
+Numeracy: Numeracy
+School_environment_indicators: School environment indicators
+Computer: Computer
+Drinking_water: Drinking water
+Electricity: Electricity
+Hand-washing_facilities: Hand-washing facilities
+Internet: Internet
+Single-sex_basic_sanitation_facilities: Single-sex basic sanitation facilities
+School: School
+Elementary_school: Elementary school
+High_school: High school
