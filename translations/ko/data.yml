@@ -349,3 +349,19 @@ Satisfaction: 만족도
 Experiences: 경험여부
 Experienced: 경험했다
 No_experienced: 경험하지 않았다
+
+
+# 지표 17
+most-favoured-nation_status: 최혜국 지위
+preferencial_status: 특혜지위
+Extent_of_use_of_country-owned_results_frameworks_and_planning_tools_by_providers_of_development_cooperation_-_data_by_provider_(%)_: 공여국이 수원국 주도의 성과체계 및 기획수단을 활용하는 정도(공여국 자료)
+Proportion_of_project_objectives_of_new_development_interventions_drawn_from_country-led_result_frameworks_-_data_by_provider_(%): 공여국 사업 중 수원국 주도의 성과체계로부터 도출된 새로운 개발협력 사업 비중(공여국 자료)
+Proportion_of_results_indicators_drawn_from_country-led_results_frameworks_-_data_by_provider_(%): 수원국 주도의 성과체계로부터 도출된 결과 지표
+Proportion_of_results_indicators_which_will_be_monitored_using_government_sources_and_monitoring_systems_-_data_by_provider_(%): 수원국의 자원과 평가 체계를 활용하여 모니터링할 결과지표의 비율(공여국 자료)
+Countries_with_national_statistical_plans_with_funding_from_Government_(1_=_YES;_0_=_NO): 국가통계발전계획 재정지원여부
+Countries_with_national_statistical_plans_that_are_fully_funded_(1_=_YES;_0_=_NO): 국가통계발전계획 완전지원여부
+Countries_with_national_statistical_plans_that_are_under_implementation_(1_=_YES;_0_=_NO): 국가통계발전계획 현재이행여부
+Countries_with_birth_registration_data_that_are_at_least_90_percent_complete_(1_=_YES;_0_=_NO): 90%이상 출생등록
+Countries_that_have_conducted_at_least_one_population_and_housing_census_in_the_last_10_years_(1_=_YES;_0_=_NO): 인구주택총조사실시
+Countries_with_death_registration_data_that_are_at_least_75_percent_complete_(1_=_YES;_0_=_NO): 75%이상 사망등록
+
