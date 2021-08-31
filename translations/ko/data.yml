@@ -266,3 +266,33 @@ Sexual_violence: 성폭력
 Robbery: 강도
 Assault: 폭행
 Harassment: 괴롭힘
+
+# 지표12
+Countries_with_policies,_instruments_and_mechanism_in_place_for_sustainable_consumption_and_production: SCP 정책 제도적 기제 보유
+Countries_with_policy_instrument_for_sustainable_consumption_and_production: SCP 정책수단 보유
+Countries_with_sustainable_consumption_and_production_(SCP)_national_action_plans_or_SCP_mainstreamed_as_a_priority_or_target_into_national_policies: SCP 이행계획보유 및 정책 우선순위
+
+01_Average: 범주01_평균
+02_Special_city: 범주02_특별시
+03_Metropolitan_city: 범주03_광역시
+04_Small-Medium_sized_cities: 범주04_증소도시
+05_Provinces: 범주05_농어촌
+
+Parties_meeting_their_commitments_and_obligations_in_transmitting_information_as_required_by_Basel_Convention_on_hazardous_waste,_and_other_chemicals: 바젤 협약
+Parties_meeting_their_commitments_and_obligations_in_transmitting_information_as_required_by_Montreal_Protocol_on_hazardous_waste,_and_other_chemicals: 몬트리올 의정서
+Parties_meeting_their_commitments_and_obligations_in_transmitting_information_as_required_by_Rotterdam_Convention_on_hazardous_waste,_and_other_chemicals: 로트르담 협정
+Parties_meeting_their_commitments_and_obligations_in_transmitting_information_as_required_by_Stockholm_Convention_on_hazardous_waste,_and_other_chemicals: 스톡홀름 협정
+
+Waste_disposed_by_type_of_treatment(tonnes/day): 매립
+Waste_incinerated_by_type_of_treatment(tonnes/day): 소각
+Waste_recycled_by_type_of_treatment(tonnes/day): 재활용
+Etc._(tonnes/day): 기타
+
+Industrial_waste: 사업장배출시설계폐기물
+Domestic_waste: 생활폐기물
+Construction_waste: 건설폐기물
+Specified_waste: 지정폐기물
+
+First_publication: 최초발간
+Accumulated_publication: 누적발간
+
