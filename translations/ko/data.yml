@@ -310,3 +310,42 @@ Inland_fishery: 내수면어업
 Average_proportion_of_Marine_Key_Biodiversity_Areas_(KBAs)_covered_by_protected_areas_(%): 보호구역이 적용되는 해양핵심생물다양성지역 평균 비율
 Coverage_of_protected_areas_in_relation_to_marine_areas_(Exclusive_Economic_Zones)_(%): 해양면적 대비 보호구역 면적 비율
 Protected_marine_area_(Exclusive_Economic_Zones)_(square_kilometres): 보호되는 해양면적
+
+# 지표15
+Freshwater: 담수
+Land: 육상
+Above-ground_biomass_stock_in_forest_(tonnes_per_hectare): 산림 내 지상부 바이오매스 총량
+Forest_area_under_an_independently_verified_forest_management_certification_scheme_(thousands_of_hectares): 산림경영인증 면적
+Forest_area_annual_net_change_rate_(%): 산림면적 연간 순 변화율
+Proportion_of_forest_area_under_a_long-term_management_plan_(%): 장기산림경영계획에 포함된 산림면적 비율
+Proportion_of_forest_area_within_legally_established_protected_areas_(%): 보호림 비율
+Countries_that_are_parties_to_the_Nagoya_Protocol_(1_=_YES;_0_=_NO): 나고야의정서 채택국가
+Total_reported_number_of_Standard_Material_Transfer_Agreements_(SMTAs)_transferring_plant_genetic_resources_for_food_and_agriculture_to_the_country_(number): 식량농업식물 유전자원을 국가에 이전하는 표준물질이전협정(SMTAs)의 총 보고 건수
+Countries’_commitments_to_global_conventions/_international_agreements_: 법 규정 법률구비여부
+National_Biodiversity_Strategy_and_Action_Plan_(NBSAP)_targets_alignment_to_Aichi_Biodiversity_target_9: 아이치생물다양성 목표9 연계목표
+
+
+# 지표 16
+Not_indicated: 불상
+Property_crime: 재산범죄
+Violence_crime: 폭력범죄
+Public_Services: 공공서비스 유형별
+Public_hearing: 공청회·청문회
+Participatory_budgeting: 주민참여예산
+Community_center: 주민자치센터
+Licensing_service: 인허가 서비스
+Online_official_documents: 인터넷 민원발급
+Tax_affair_service: 세무 서비스
+Police_service: 경찰 서비스
+Fire_administration_service: 소방 서비스
+Education_service: 교육 서비스
+Health_service: 보건 서비스
+Satisfaction: 만족도
+1_(Not_at_all): 1 전혀 만족하지 않는다
+2_(Not_that_much): 2 별로 만족하지 않는다
+3_(Normal): 3 보통이다
+4_(A_little_bit): 4 약간 만족한다
+5_(Very_satisfactory): 5 매우 만족한다
+Experiences: 경험여부
+Experienced: 경험했다
+No_experienced: 경험하지 않았다
