@@ -6,7 +6,7 @@ indicators: Indicators
 goal: Goal
 # This is the plural version of the goal key
 goals: Goals
-goals_title: Korean Data for UN SDGs
+goals_title: SDGs Data Platform for the Republic of Korea 
 sdg: Sustainable Development Goals
 # This refers to the 'home page' of a website
 home: Home
