@@ -298,3 +298,19 @@ Specified_waste: Specified waste
 First_publication: First publication
 Accumulated_publication: Accumulated publication
 
+# 지표13
+
+
+# 지표14
+Production: Production
+Production_amount_of_money: Production amount of money
+
+Fisheries_type: Fisheries type
+General_fishery: General fishery
+Shallow_sea_fishery: Shallow sea fishery
+Deep_sea_fishery: Deep sea fishery
+Inland_fishery: Inland fishery
+
+Average_proportion_of_Marine_Key_Biodiversity_Areas_(KBAs)_covered_by_protected_areas_(%): Average proportion of Marine Key Biodiversity Areas (KBAs) covered by protected areas (%)
+Coverage_of_protected_areas_in_relation_to_marine_areas_(Exclusive_Economic_Zones)_(%): Coverage of protected areas in relation to marine areas (Exclusive Economic Zones) (%)
+Protected_marine_area_(Exclusive_Economic_Zones)_(square_kilometres): Protected marine area (Exclusive Economic Zones) (square kilometres)
