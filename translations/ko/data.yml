@@ -64,18 +64,18 @@ Diabetes: 당뇨
 Cardiovascular_diseases: 심혈관계 질환
 Chronic_respiratory_diseases: 호흡기 질환
 Alcohol: 주종별
-01_Takju: 범주01 탁주
-02_Yakju: 범주02 약주
-03_Cheongju: 범주03 청주
-04_Beer: 범주04 맥주
-05_Wine: 범주05 과실주
-06_Distilled soju: 범주06 증류식 소주
-07_Diluted soju: 범주07 희석식 소주
-08_Whiskey: 범주08 위스키
-09_Brandy: 범주09 브랜디
-10_Sprits: 범주10 일반 증류수
-11_Liquor: 범주11 리큐르
-12_Others: 범주12 기타 주류
+01_Takju: 01 탁주
+02_Yakju: 02 약주
+03_Cheongju: 03 청주
+04_Beer: 04 맥주
+05_Wine: 05 과실주
+06_Distilled soju: 06 증류식 소주
+07_Diluted soju: 07 희석식 소주
+08_Whiskey: 08 위스키
+09_Brandy: 09 브랜디
+10_Sprits: 10 일반 증류수
+11_Liquor: 11 리큐르
+12_Others: 12 기타 주류
 Household_expenditure_on_health: 가구지출 및 소득대비지출
 Vaccine: 백신별
 DTP3: DTP3
@@ -186,21 +186,21 @@ Air_transport: Air transport
 
 # 지표10
 Reasons: 이유별
-01_Sex: 범주01_남자 또는 여자라는 이유로
-02_Age: 범주02_나이가 많거나 적다는 이유로
-03_Socio-Eoconomic_status: 범주03_직업이나 소득 등 경제적 지위를 이유로
-04_Forms_of_employment: 범주04_비정규직 등 고용형태를 이유로
-05_Educational_background: 범주05_학력이나 학벌을 이유로
-06_Physical_condition: 범주06_키, 몸무게, 용모 등 신체조건을 이유로
-07_Political_opinion: 범주07_사상 또는 정치적인 입장의 차이로
-08_Marital status_such_as_being_single/married/divorced/widowed: 범주08_미혼(비혼), 이혼, 사별 등 혼인상황을 이유로
-09_Geographic_location_or_Place_of_residence: 범주09_출신지역을 이유로
-10_Marital_status_such_as_being_pregnant/with_or_without_children: 범주10_임신 또는 출산을 했다는 이유로
-11_Health_status: 범주11_질병 및 병력을 가지고 있다는 이유로
-12_Religion: 범주12_종교를 이유로
-13_Disability: 범주13_장애를 이유로
-14_Ethnicity/Colour/Language/Migration_status: 범주14_인종, 피부색, 출신국가, 출신민족을 이유로
-15_Marital_status_such_as_being_orphan/born_from_unmarried_parents: 범주15_한부모, 미혼(비혼) 모/부 등 가족상황을 이유로
+01_Sex: 01_남자 또는 여자라는 이유로
+02_Age: 02_나이가 많거나 적다는 이유로
+03_Socio-Eoconomic_status: 03_직업이나 소득 등 경제적 지위를 이유로
+04_Forms_of_employment: 04_비정규직 등 고용형태를 이유로
+05_Educational_background: 05_학력이나 학벌을 이유로
+06_Physical_condition: 06_키, 몸무게, 용모 등 신체조건을 이유로
+07_Political_opinion: 07_사상 또는 정치적인 입장의 차이로
+08_Marital status_such_as_being_single/married/divorced/widowed: 08_미혼(비혼), 이혼, 사별 등 혼인상황을 이유로
+09_Geographic_location_or_Place_of_residence: 09_출신지역을 이유로
+10_Marital_status_such_as_being_pregnant/with_or_without_children: 10_임신 또는 출산을 했다는 이유로
+11_Health_status: 11_질병 및 병력을 가지고 있다는 이유로
+12_Religion: 12_종교를 이유로
+13_Disability: 13_장애를 이유로
+14_Ethnicity/Colour/Language/Migration_status: 14_인종, 피부색, 출신국가, 출신민족을 이유로
+15_Marital_status_such_as_being_orphan/born_from_unmarried_parents: 15_한부모, 미혼(비혼) 모/부 등 가족상황을 이유로
 G1_Regulatory_capital_to_assets: G1_총자산 대비 기본자본(Tier 1) 비율
 G2_Regulatory_Tier_1_capital_to_risk-weighted_assets: G2_위험가중자산 대비 기본자본(Tier 1) 비율
 G3_Non-performing_loans_net_of_provisions_to_capital: G3_총자본 대비 부실채권충당금 비율
@@ -272,11 +272,11 @@ Countries_with_policies_instruments_and_mechanism_in_place_for_sustainable_consu
 Countries_with_policy_instrument_for_sustainable_consumption_and_production: SCP 정책수단 보유
 Countries_with_sustainable_consumption_and_production_(SCP)_national_action_plans_or_SCP_mainstreamed_as_a_priority_or_target_into_national_policies: SCP 이행계획보유 및 정책 우선순위
 
-01_Average: 범주01_평균
-02_Special_city: 범주02_특별시
-03_Metropolitan_city: 범주03_광역시
-04_Small-Medium_sized_cities: 범주04_증소도시
-05_Provinces: 범주05_농어촌
+01_Average: 01 평균
+02_Special_city: 02 특별시
+03_Metropolitan_city: 03 광역시
+04_Small-Medium_sized_cities: 04 중소도시
+05_Provinces: 05 농어촌
 
 Parties_meeting_their_commitments_and_obligations_in_transmitting_information_as_required_by_Basel_Convention_on_hazardous_waste_and_other_chemicals: 바젤 협
 Parties_meeting_their_commitments_and_obligations_in_transmitting_information_as_required_by_Montreal_Protocol_on_hazardous_waste_and_other_chemicals: 몬트리올 의정서
