@@ -230,6 +230,8 @@ Clothing: 의류
 Industrial_products: 공산품
 Oil: 기름
 Textiles: 섬유
+Market_income: 시장소득
+Disposable_income: 처분가능소득
 
 # 지표11
 01_Urban: 수도권
