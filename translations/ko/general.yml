@@ -5,7 +5,7 @@ indicators: 지표
 # This is a 'goal' in the sense of the 'Sustainable Development Goals' - some achievement for a community to aspire to
 goal: 목표
 # This is the plural version of the goal key
-goals: 목표
+goals: 17개 목표
 goals_title: 한국의 SDGs 데이터 플랫폼
 sdg: 지속가능발전목표
 # This refers to the 'home page' of a website
