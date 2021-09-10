@@ -44,6 +44,8 @@ Cultivation_size: Cultivation size
 Agriculture_orientation_index_for_government_expenditures: Agriculture orientation index for government expenditures
 Agriculture_share_of_Government_Expenditure(%): Agriculture share of Government Expenditure(%)
 Agriculture_value_added_share_of_GDP(%): Agriculture value added share of GDP(%)
+overweight: overweight
+underweight: underweight
 
 # 지표3
 Birth_location: Birth location
