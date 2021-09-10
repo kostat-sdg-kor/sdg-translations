@@ -26,5 +26,4 @@ label_warning: "Warning:"
 # A phrase to use as a site-wide page title.
 site_title: 한국의 SDGs 데이터 플랫폼
 back_to_top: Back to top
-foot_contact: 틍계청 통계개발원에서 운영하는 공식 플랫폼입니다.<address>[35220] 대전광역시 서구 한밭대로 713 통계센터 8층</address><br>Fax： 042 366 7123   Email： <a href="mailto:sdgkostat@korea.kr">sdgkostat@korea.kr  
-</a>
+footer_notice: 틍계청 통계개발원에서 운영하는 공식 플랫폼입니다.<br><address>[35220] 대전광역시 서구 한밭대로 713 통계센터 8층</address><br>Fax： 042 366 7123   Email： sdgkostat@korea.kr  
