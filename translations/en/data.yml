@@ -221,9 +221,9 @@ Payment: Payment
 01_Yes: Paid
 02_No: No paid
 Recruitment_cost: Recruitment cost
-~150mKRW: ~150mKRW
-150~300mKRW: 150~300mKRW
-+300mKRW: +300mKRW
+~150mKRW: ~150 mKRW
+150~300mKRW: 150~300 mKRW
++300mKRW: +300 mKRW
 N/A: N/A
 Refugees_request: Refugees request
 Refugees_recognized: Refugees recognized
