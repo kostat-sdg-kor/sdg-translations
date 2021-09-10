@@ -24,7 +24,7 @@ targets_and_indicators: Targets and indicators
 # A label of "Warning" to place before some other text.
 label_warning: "Warning:"
 # A phrase to use as a site-wide page title.
-site_title: Indicators For The Sustainable Development Goals
+site_title: 한국의 SDGs 데이터 플랫폼
 back_to_top: Back to top
 footer: 틍계청 통계개발원에서 운영하는 공식 플랫폼입니다.<br>[35220] 대전광역시 서구 한밭대로 713 통계센터 8층<br>Fax: 042 366 7123   Email: sdgkostat@korea.kr  
 
