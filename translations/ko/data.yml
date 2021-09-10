@@ -220,8 +220,8 @@ Payment: 취업소개료 지불여부
 01_Yes: 지불함
 02_No: 지불한 적 없음
 Recruitment_cost: 지불금액별
-~150mKRW: 15만원 미만
-150~300mKRW: 15만원 ~ 30만원
+-150mKRW: 15만원 미만
+150-300mKRW: 15만원-30만원
 +300mKRW: 30만원 이상
 N/A: 해당없음
 Refugees_request: 난민신청현황
