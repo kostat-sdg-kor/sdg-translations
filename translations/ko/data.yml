@@ -31,15 +31,15 @@ Middle: 중
 Upper_middle: 중상
 Upper: 상
 Cultivation_size: 경지규모별
-0~0.5_ha: 범주1) 0.5 ha 미만
-0.5~1.0_ha: 범주2) 0.5~1.0 ha
-1.0~1.5_ha: 범주3) 1.0~1.5 ha
-1.5~2.0_ha: 범주4) 1.5~2.0 ha
-2.0~3.0_ha: 범주5) 2.0~3.0 ha
-3.0~5.0_ha: 범주6) 3.0~5.0 ha
-5.0~7.0_ha: 범주7) 5.0~7.0 ha
-7.0~10.0_ha: 범주8) 7.0~10.0 ha
-10.0_ha~: 범주9) 10.0 ha 이상
+0~0.5_ha: ① 0.5 ha 미만
+0.5~1.0_ha: ② 0.5~1.0 ha
+1.0~1.5_ha: ③ 1.0~1.5 ha
+1.5~2.0_ha: ④ 1.5~2.0 ha
+2.0~3.0_ha: ⑤ 2.0~3.0 ha
+3.0~5.0_ha: ⑥ 3.0~5.0 ha
+5.0~7.0_ha: ⑦ 5.0~7.0 ha
+7.0~10.0_ha: ⑧ 7.0~10.0 ha
+10.0_ha~: ⑨ 10.0 ha 이상
 Agriculture_orientation_index_for_government_expenditures: 농업지향지수
 Agriculture_share_of_Government_Expenditure(%): 정부지출 중 농업지출 비율(%)
 Agriculture_value_added_share_of_GDP(%): GDP 중 농업부가가치 비율(%)
@@ -67,18 +67,18 @@ Diabetes: 당뇨
 Cardiovascular_diseases: 심혈관계 질환
 Chronic_respiratory_diseases: 호흡기 질환
 Alcohol: 주종별
-01_Takju: 01 탁주
-02_Yakju: 02 약주
-03_Cheongju: 03 청주
-04_Beer: 04 맥주
-05_Wine: 05 과실주
-06_Distilled soju: 06 증류식 소주
-07_Diluted soju: 07 희석식 소주
-08_Whiskey: 08 위스키
-09_Brandy: 09 브랜디
-10_Sprits: 10 일반 증류수
-11_Liquor: 11 리큐르
-12_Others: 12 기타 주류
+01_Takju: ① 탁주
+02_Yakju: ② 약주
+03_Cheongju: ③ 청주
+04_Beer: ④ 맥주
+05_Wine: ⑤ 과실주
+06_Distilled soju: ⑥ 증류식 소주
+07_Diluted soju: ⑦ 희석식 소주
+08_Whiskey: ⑧ 위스키
+09_Brandy: ⑨ 브랜디
+10_Sprits: ⑩ 일반 증류수
+11_Liquor: ⑪ 리큐르
+12_Others: ⑫ 기타 주류
 Household_expenditure_on_health: 가구지출 및 소득대비지출
 Vaccine: 백신별
 DTP3: DTP3
@@ -191,21 +191,21 @@ Air_transport: 항공운수
 
 # 지표10
 Reasons: 이유별
-01_Sex: 01_남자 또는 여자라는 이유로
-02_Age: 02_나이가 많거나 적다는 이유로
-03_Socio-Eoconomic_status: 03_직업이나 소득 등 경제적 지위를 이유로
-04_Forms_of_employment: 04_비정규직 등 고용형태를 이유로
-05_Educational_background: 05_학력이나 학벌을 이유로
-06_Physical_condition: 06_키, 몸무게, 용모 등 신체조건을 이유로
-07_Political_opinion: 07_사상 또는 정치적인 입장의 차이로
-08_Marital status_such_as_being_single/married/divorced/widowed: 08_미혼(비혼), 이혼, 사별 등 혼인상황을 이유로
-09_Geographic_location_or_Place_of_residence: 09_출신지역을 이유로
-10_Marital_status_such_as_being_pregnant/with_or_without_children: 10_임신 또는 출산을 했다는 이유로
-11_Health_status: 11_질병 및 병력을 가지고 있다는 이유로
-12_Religion: 12_종교를 이유로
-13_Disability: 13_장애를 이유로
-14_Ethnicity/Colour/Language/Migration_status: 14_인종, 피부색, 출신국가, 출신민족을 이유로
-15_Marital_status_such_as_being_orphan/born_from_unmarried_parents: 15_한부모, 미혼(비혼) 모/부 등 가족상황을 이유로
+01_Sex: ① 남자 또는 여자라는 이유로
+02_Age: ② 나이가 많거나 적다는 이유로
+03_Socio-Eoconomic_status: ③ 직업이나 소득 등 경제적 지위를 이유로
+04_Forms_of_employment: ④ 비정규직 등 고용형태를 이유로
+05_Educational_background: ⑤ 학력이나 학벌을 이유로
+06_Physical_condition: ⑥ 키, 몸무게, 용모 등 신체조건을 이유로
+07_Political_opinion: ⑦ 사상 또는 정치적인 입장의 차이로
+08_Marital status_such_as_being_single/married/divorced/widowed: ⑧ 미혼(비혼), 이혼, 사별 등 혼인상황을 이유로
+09_Geographic_location_or_Place_of_residence: ⑨ 출신지역을 이유로
+10_Marital_status_such_as_being_pregnant/with_or_without_children: ⑩ 임신 또는 출산을 했다는 이유로
+11_Health_status: ⑪ 질병 및 병력을 가지고 있다는 이유로
+12_Religion: ⑫ 종교를 이유로
+13_Disability: ⑬ 장애를 이유로
+14_Ethnicity/Colour/Language/Migration_status: ⑭ 인종, 피부색, 출신국가, 출신민족을 이유로
+15_Marital_status_such_as_being_orphan/born_from_unmarried_parents: ⑮ 한부모, 미혼(비혼) 모/부 등 가족상황을 이유로
 G1_Regulatory_capital_to_assets: G1_총자산 대비 기본자본(Tier 1) 비율
 G2_Regulatory_Tier_1_capital_to_risk-weighted_assets: G2_위험가중자산 대비 기본자본(Tier 1) 비율
 G3_Non-performing_loans_net_of_provisions_to_capital: G3_총자본 대비 부실채권충당금 비율
