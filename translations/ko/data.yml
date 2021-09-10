@@ -186,8 +186,8 @@ Mode_of_transportation: 교통수단별
 Rail: 철도
 Subway: 지하철
 Sky_roads: 공로
-Shipping: 해운
-Air_transport: Air transport
+Shipping: 해상운송
+Air_transport: 항공운수
 
 # 지표10
 Reasons: 이유별
