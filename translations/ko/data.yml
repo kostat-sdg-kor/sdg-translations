@@ -321,11 +321,11 @@ Protected_marine_area_(Exclusive_Economic_Zones)_(square_kilometres): 보호되�
 # 지표15
 Freshwater: 담수
 Land: 육상
-Above-ground_biomass_stock_in_forest_(tonnes_per_hectare): 산림 내 지상부 바이오매스 총량
+Above-ground_biomass_stock_in_forest_(tonnes_per_hectare): 산림 내 지상부 바이오매스 총량(헥타르 당 톤)
 Forest_area_under_an_independently_verified_forest_management_certification_scheme_(thousands_of_hectares): 산림경영인증 면적
-Forest_area_annual_net_change_rate_(%): 산림면적 연간 순 변화율
-Proportion_of_forest_area_under_a_long-term_management_plan_(%): 장기산림경영계획에 포함된 산림면적 비율
-Proportion_of_forest_area_within_legally_established_protected_areas_(%): 보호림 비율
+Forest_area_annual_net_change_rate_(%): 산림면적 연간 순 변화율(%)
+Proportion_of_forest_area_under_a_long-term_management_plan_(%): 장기산림경영계획에 포함된 산림면적 비율(%)
+Proportion_of_forest_area_within_legally_established_protected_areas_(%): 보호림 비율(%)
 Countries_that_are_parties_to_the_Nagoya_Protocol_(1_=_YES;_0_=_NO): 나고야의정서 채택국가
 Total_reported_number_of_Standard_Material_Transfer_Agreements_(SMTAs)_transferring_plant_genetic_resources_for_food_and_agriculture_to_the_country_(number): 식량농업식물 유전자원을 국가에 이전하는 표준물질이전협정(SMTAs)의 총 보고 건수
 Countries_commitments_to_global_conventions/_international_agreements_: 법 규정 법률구비여부
