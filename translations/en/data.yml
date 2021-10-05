@@ -146,6 +146,10 @@ Excretions: Excretions
 Underground_water: Underground water
 Open_water_area: Open water area
 River: River
+Industries: Industries
+Agriculture(ISIC4 A01 A0210 A0322): Agriculture(ISIC4 A01 A0210 A0322)
+Services(ISIC4 G to T): Services(ISIC4 G to T)
+Total(no breakdown): Total(no breakdown)
 
 # 지표7
 Rural: Rural
