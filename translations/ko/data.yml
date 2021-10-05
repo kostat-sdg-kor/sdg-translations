@@ -145,6 +145,10 @@ Excretions: 분뇨
 Underground_water: 지하수
 Open_water_area: 개방수역
 River: 강
+Industries: 공업
+Agriculture(ISIC4 A01 A0210 A0322): 농업(ISIC4 A01 A0210 A0322)
+Services(ISIC4 G to T): 서비스업(ISIC4 G to T)
+Total(no breakdown): 기타(분류 안됨)
 
 # 지표7
 Rural: 농촌
