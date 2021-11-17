@@ -5,4 +5,6 @@ heading: "한국 SDGs 데이터 플랫폼"
 download_all: 모든 데이터 다운로드
 zip_file: ZIP file
 intro_title: 세상을 변화시키는 17가지 목표
-intro_body: <a href="https://www.un.org/sustainabledevelopment/sustainable-development-goals/">지속가능발전목표(SDGs)</a>는 빈곤을 종식시키고 지구를 보호하며 모든 사람, 모든 곳에서 삶의 전망을 개선하기 위한 촉구입니다. 17개의 목표는 2015년, 제70차 UN총회의 <a href="http://www.un.org/ga/search/view_doc.asp?symbol=A/RES/70/1&Lang=E">지속가능발전을 위한 2030 의제</a>에서 회원국 만장일치로 태택되었습니다.
+intro_body: <a href="https://www.un.org/sustainabledevelopment/sustainable-development-goals/">지속가능발전목표(SDGs)</a>는 빈곤을 종식시키고 지구를 보호하며 모든 사람, 모든 곳에서 삶의 전망을 개선하기 위한 촉구입니다. 17개의 목표는 2015년, 제70차 UN총회의 <a href="http://www.un.org/ga/search/view_doc.asp?symbol=A/RES/70/1&Lang=E">지속가능발전을 위한 2030 의제</a>에서 회원국 만장일치로 채택되었습니다.
+indicators_download_url: https://kostat-sdg-kor.github.io/sdg-indicators/public/indicators_ko.xlsx
+indicators_download: 전체 지표 리스트
