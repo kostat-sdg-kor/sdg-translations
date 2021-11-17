@@ -30,3 +30,5 @@ footer_notice: 이 웹사이트는 통계청 통계개발원에서 운영하는 
 piece: 개
 reporting_status_comment: 231개 지표 기준시, 160개 지표 이용 가능
 quote: 인용
+indicators_download_url: https://kostat-sdg-kor.github.io/sdg-indicators/public/indicators_ko.xlsx
+indicators_download: 전체 지표 리스트
