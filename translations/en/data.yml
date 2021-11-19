@@ -261,9 +261,9 @@ Public_medical_facilities: Public medical facilities
 Hospital/Clinic: Hospital/Clinic
 Large_stores: Large stores
 Traditional_market: Traditional market
-2.Train_station: Train station
-1.Bus_terminal: Bus terminal
-3.Airport: Airport
+2.Train_station: 2.Train station
+1.Bus_terminal: 1.Bus terminal
+3.Airport: 3.Airport
 Car: Car
 Public_transportation/walking: Public transportation/walking
 Municipal_waste: Municipal waste
