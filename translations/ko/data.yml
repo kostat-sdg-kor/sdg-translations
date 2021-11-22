@@ -7,14 +7,8 @@ Basic_drinking_water_services: 기초 식수 서비스
 Basic_sanitation_services: 기초 위생 서비스
 Sex: 성별
 Age: 연령별
-0~19: 20대 이하
-20~29: 20대
-30~39: 30대
-40~49: 40대
-50~59: 50대
-60~69: 60대
-70~79: 70대
-80~: 80대 이상
+0~19: 20세 미만
+80~: 80세 이상
 Male: 남성
 Female: 여성
 dead_or_missing: 사망 또는 실종자
