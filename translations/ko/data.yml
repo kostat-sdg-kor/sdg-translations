@@ -31,7 +31,7 @@ Middle: 중
 Upper_middle: 중상
 Upper: 상
 Cultivation_size: 경지규모별
-0~0.5_ha: ① 0.5 ha 미만
+0~0.5_ha: ① 0~0.5 ha
 0.5~1.0_ha: ② 0.5~1.0 ha
 1.0~1.5_ha: ③ 1.0~1.5 ha
 1.5~2.0_ha: ④ 1.5~2.0 ha
@@ -39,7 +39,7 @@ Cultivation_size: 경지규모별
 3.0~5.0_ha: ⑥ 3.0~5.0 ha
 5.0~7.0_ha: ⑦ 5.0~7.0 ha
 7.0~10.0_ha: ⑧ 7.0~10.0 ha
-10.0_ha~: ⑨ 10.0 ha 이상
+10.0_ha~: ⑨ 10.0 ha~
 Agriculture_orientation_index_for_government_expenditures: 농업지향지수
 Agriculture_share_of_Government_Expenditure(%): 정부지출 중 농업지출 비율(%)
 Agriculture_value_added_share_of_GDP(%): GDP 중 농업부가가치 비율(%)
