@@ -19,6 +19,13 @@ unit_of_measurement: 세부지표
 graph_footer_unit: 단위
 footnote: 주석
 units_type: 구분
+share_facebook: 페이스북 공유 새 창 열기
+share_twitter: 트위터 공유 새 창 열기
+share_band: 밴드 공유 새 창 열기
+share_kakaotalk: 카카오톡 공유 새 창 열기
+share_linkedin: 링크드인 공유 새 창 열기
+share_qrcode: QR코드
+share_citation: 인용
 download_source_sdmx: Download Source SDMX
 download_source_sdmx_title: Download source data as SDMX
 download_geojson: Download GeoJSON
