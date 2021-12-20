@@ -33,6 +33,13 @@ footnote: Footnote
 # The label of a widget that allows the user to change the type of unit that is being represented in a data visualization
 units_type: Units type
 # The label of a widget that allows the user to change the series that is being represented in a data visualization
+share_facebook: Share with facebook(New Window)
+share_twitter: Share with twitter(New Window)
+share_band: Share with Band(New Window)
+share_kakaotalk: Share with Kakaotalk(New Window)
+share_linkedin: Share with LinkedIn(New Window)
+share_qrcode: QR Code
+share_citation: Citation
 series: Series
 dataset_size_warning: There are too many datasets to show on the chart. Not all
   will be shown until you remove some selections.
