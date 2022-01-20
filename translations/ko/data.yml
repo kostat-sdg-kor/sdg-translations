@@ -95,6 +95,10 @@ Occupational_therapist: 작업치료사
 Social_worker: 사회복지사
 Midwife: 조산사
 IHR_Capacity: IHR 역량
+1_year_old: 만 1세
+2_years_old: 만 2세
+3_years_old: 만 3세
+6_years_old: 만 6세
 
 # 지표4
 Grade: 학년
