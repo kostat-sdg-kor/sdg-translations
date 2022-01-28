@@ -237,8 +237,8 @@ Name_of_international_institution: Name of international institution
 Proportion_of_members_of_developing_countries_in_international_organizations: Proportion of members of developing countries in international organizations
 Proportion_of_voting_rights_of_developing_countries_in_international_organizations: Proportion of voting rights of developing countries in international organizations
 Payment: Payment
-01_Yes: Paid
-02_No: No paid
+1_Yes: Paid
+2_No: No paid
 Recruitment_cost: Recruitment cost
 -150mKRW: below 150 mKRW
 150-300mKRW: 150-300 mKRW
