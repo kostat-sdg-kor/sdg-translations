@@ -237,8 +237,8 @@ Name_of_international_institution: 국제기구명
 Proportion_of_members_of_developing_countries_in_international_organizations: 개도국 회원국 비율
 Proportion_of_voting_rights_of_developing_countries_in_international_organizations: 개도국 투표권 비율
 Payment: 취업소개료 지불여부
-01_Yes: 지불함
-02_No: 지불한 적 없음
+1_Yes: 지불함
+2_No: 지불한 적 없음
 Recruitment_cost: 지불금액별
 -150mKRW: 15만원 미만
 150-300mKRW: 15만원-30만원
