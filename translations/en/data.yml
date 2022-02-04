@@ -278,9 +278,9 @@ Traditional_market: Traditional market
 Car: Car
 Public_transportation/walking: Public transportation/walking
 Municipal_waste: Municipal waste
-Industrial_solid_waste: Industrial solid waste
+Industrial_municipal_waste: Industrial municipal waste
 Construction_waste: Construction waste
-Industrial_hazardous_waste: Industrial hazardous waste
+Industrial_emission_facilities_waste: Industrial emission facilities waste
 Seoul: Seoul
 Busan: Busan
 Daegu: Daegu
