@@ -278,9 +278,9 @@ Traditional_market: 전통시장
 Car: 승용차
 Public_transportation/walking: 대중교통/도보
 Municipal_waste: 생활폐기물
-Industrial_solid_waste: 사업장 생활계폐기물
+Industrial_municipal_waste: 사업장 생활계폐기물
 Construction_waste: 건설폐기물
-Industrial_hazardous_waste: 사업장 배출시설계폐기물
+Industrial_emission_facilities_waste: 사업장 배출시설계폐기물
 Seoul: 서울
 Busan: 부산
 Daegu: 대구
