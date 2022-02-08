@@ -339,10 +339,10 @@ Accumulated_publication: 누적발간
 Production: 생산량
 Production_amount_of_money: 생산금액
 Fisheries_type: 어업별
-General_fishery: 일반해면어업
-Shallow_sea_fishery: 천해양식어업
-Deep_sea_fishery: 원양어업
-Inland_fishery: 내수면어업
+Littoral_fishing: 일반해면어업
+Marine_aquaculture: 천해양식어업
+Deep_sea_fishing: 원양어업
+Freshwater_fishing: 내수면어업
 Average_proportion_of_Marine_Key_Biodiversity_Areas_(KBAs)_covered_by_protected_areas_(%): 보호구역이 적용되는 해양핵심생물다양성지역 평균 비율
 Coverage_of_protected_areas_in_relation_to_marine_areas_(Exclusive_Economic_Zones)_(%): 해양면적 대비 보호구역 면적 비율
 Protected_marine_area_(Exclusive_Economic_Zones)_(square_kilometres): 보호되는 해양면적
