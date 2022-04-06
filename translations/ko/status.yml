@@ -2,6 +2,8 @@ reporting_status: 데이터 현황
 overall_reporting_status: 총괄 현황
 reported_online: 이용가능
 reported: 
+complete: 이용가능
+notapplicable: 데이터 수집중
 statistics_in_progress: Statistics in progress
 exploring_data_sources: 제공예정
 not_applicable: 데이터 수집중
