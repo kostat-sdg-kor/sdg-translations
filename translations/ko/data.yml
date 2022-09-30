@@ -173,6 +173,7 @@ Total(no_breakdown): 기타(분류 안됨)
 # 지표7
 Rural: 농촌
 Urban: 도시
+Allarea: 전체
 
 # 지표8
 Tonnes_per_capita: 1인당 국내물질소비량(톤)
