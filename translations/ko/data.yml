@@ -103,6 +103,7 @@ ecoli: 3세대 세팔로스포린 내성 대장균
 mrsa: 메티실린 내성 황색포도상구균
 
 
+
 # 지표4
 Grade: 학년
 Middle_school: 중학교
@@ -173,7 +174,7 @@ Total(no_breakdown): 기타(분류 안됨)
 # 지표7
 Rural: 농촌
 Urban: 도시
-Allarea: 전체
+
 
 # 지표8
 Tonnes_per_capita: 1인당 국내물질소비량(톤)
