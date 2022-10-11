@@ -50,8 +50,7 @@ underweight: 저체중
 # 지표3
 Birth_location: 분만장소별
 General_hospital: 종합병원
-Hospital: 병원
-Clinic: 의원
+Hospital: 병의원
 Midwifery_units: 조산원
 Medical_center: 보건의료원
 Home: 자택
