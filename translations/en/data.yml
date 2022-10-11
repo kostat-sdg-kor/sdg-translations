@@ -50,8 +50,7 @@ underweight: underweight
 # 지표3
 Birth_location: Birth location
 General_hospital: General hospital
-Hospital: Hospital
-Clinic: Clinic
+Hospital: Hospital/Clinic
 Midwifery_units: Midwifery units
 Medical_center: Medical center
 Home: Home
