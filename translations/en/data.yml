@@ -220,20 +220,20 @@ Air_transport: Air transport
 # 지표10
 Reasons: Reasons
 01_Sex: ① Sex
-02_Age: ② Age
-03_Socio-Eoconomic_status: ③ Socio-Eoconomic status
-04_Forms_of_employment: ④ Forms of employment
-05_Educational_background: ⑤ Educational background
-06_Physical_condition: ⑥ Physical condition
-07_Political_opinion: ⑦ Political opinion
-08_Marital status_such_as_being_single/married/divorced/widowed: ⑧ Marital status such as being single/married/divorced/widowed
-09_Geographic_location_or_Place_of_residence: ⑨ Geographic_location or_Place of residence
-10_Marital_status_such_as_being_pregnant/with_or_without_children: ⑩ Marital status such as being pregnant/with or without children
-11_Health_status: ⑪ Health status
-12_Religion: ⑫ Religion
-13_Disability: ⑬ Disability
-14_Ethnicity/Colour/Language/Migration_status: ⑭ Ethnicity/Colour/Language/Migration_status
-15_Marital_status_such_as_being_orphan/born_from_unmarried_parents: ⑮ Marital status such as being orphan/born from unmarried parents
+06_Age: ② Age
+07_Socio-Eoconomic_status: Socio-Eoconomic status
+08_Forms_of_employment: Forms of employment
+09_Educational_background: Educational background
+11_Physical_condition: Physical condition
+04_Political_opinion: Political opinion
+12_Marital status_such_as_being_single/married/divorced/widowed: Marital status such as being single/married/divorced/widowed
+15_Geographic_location_or_Place_of_residence: Geographic_location or_Place of residence
+02_Marital_status_such_as_being_pregnant/with_or_without_children: Marital status such as being pregnant/with or without children
+14_Health_status: Health status
+03_Religion: Religion
+05_Disability: Disability
+10_Ethnicity/Colour/Language/Migration_status: Ethnicity/Colour/Language/Migration_status
+13_Marital_status_such_as_being_orphan/born_from_unmarried_parents: Marital status such as being orphan/born from unmarried parents
 G1_Regulatory_capital_to_assets: G1 Regulatory capital to assets
 G2_Regulatory_Tier_1_capital_to_risk-weighted_assets: G2 Regulatory Tier 1 capital to risk-weighted assets
 G3_Non-performing_loans_net_of_provisions_to_capital: G3 Non-performing loans net of provisions to capital
