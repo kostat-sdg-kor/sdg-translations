@@ -140,6 +140,11 @@ Curricula: 교육과정
 National_education_policies: 국가교육정책
 Assessment: 학생평가
 Teacher_education: 교사교육
+Pre-primary: 유치원
+Primary: 초등학교
+Secondary: 중고등학교
+Lower secondary: 중학교
+Upper secondary: 고등학교
 
 # 지표5
 National_parliaments: 국회
