@@ -213,6 +213,9 @@ Commitments: 약정액
 Disbursement: 집행액
 Total_population: 총인구
 B40: 하위40%
+ISIC4_A: 농림어업
+NONAGR: 비농업
+
 
 # 지표9
 Domestic_Passenger: 국내 승객량
