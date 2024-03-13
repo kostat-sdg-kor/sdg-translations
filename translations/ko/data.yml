@@ -276,6 +276,7 @@ Oil: 기름
 Textiles: 섬유
 Market_income: 시장소득
 Disposable_income: 처분가능소득
+Disposable_income(1): 처분가능소득(행정자료보완, 2021년 이후)
 
 # 지표11
 01_Urban: 수도권
